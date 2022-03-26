@@ -1,0 +1,648 @@
+/* Бэкап от 10.01.22  */
+
+/* Компактный вид новостей в две колонки на больших экранах */
+@import url(https://css-club.web.app/css/compact_news--grid.css);
+/* Модуль для постеров */
+@import url(https://css-club.web.app/css/rate_module.min.css);
+/* Фиксированные размеры постеров */
+@import url(https://css-club.web.app/css/fixed_cover.min.css);
+
+/* Основной файл */
+@import url(https://shiki-theme.web.app/import/main.css);
+/* Шрифт Roboto */
+@import url(https://shiki-theme.web.app/import/font-roboto.css);
+/* Материальные поля ввода */
+@import url(https://shiki-theme.web.app/import/md-textfields.css);
+/* Изменения профиля v1.0 */
+@import url(https://shiki-theme.web.app/import/profile-update.1.css);
+/* Изменения профиля v1.1 */
+/*@import url(https://shiki-theme.web.app/import/profile-update.1.1.css);*/
+
+/* Настройки переменных темы */
+@media{:root {
+  /* Цвета текстов */
+  --color-text-primary: #e2e2e2;
+  --color-text-secondary: #b7b7b7;
+  --color-text-hint: #989898;
+  --color-text-disabled: #747474;
+  --color-overlay-text-hovered: rgba(226, 226, 226, 0.04);
+  --color-overlay-text-selected: rgba(226, 226, 226, 0.08);
+  --color-overlay-text-pressed: rgba(226, 226, 226, 0.12);
+  /* Цвет ссылок */
+  --color-link: #88eeff;
+  --color-link-hover: #30ff54;
+  --color-link-active: #00f22a;
+  /* Основной цвет */
+  --color-primary: #88eeff;
+  --color-text-on-primary: #121f21;
+  --color-primary-reduced: #6bb4c0;
+  --color-primary-hovered: #92efff;
+  --color-primary-pressed: #83e4f5;
+  --color-overlay-primary-hovered: rgba(136, 238, 255, 0.08);
+  --color-overlay-primary-selected: rgba(136, 238, 255, 0.12);
+  --color-overlay-primary-pressed: rgba(136, 238, 255, 0.16);
+  /* Акцентирующий цвет */
+  --color-accent: #30ff54;
+  --color-text-on-accent: #06210b;
+  --color-accent-reduced: #2bc045;
+  --color-accent-fade: #278b38;
+  --color-overlay-accent-hovered: rgba(48, 255, 84, 0.08);
+  --color-overlay-accent-selected: rgba(48, 255, 84, 0.12);
+  --color-overlay-accent-pressed: rgba(48, 255, 84, 0.16);
+  /* Фоновые цвета */
+  --color-background: #1f1f1f;
+  --color-background-translucent: rgba(31, 31, 31, 0.9);
+  --color-background-dialog: #2c2c2c;
+  --color-surface: #292929;
+  --color-surface-hover: #3a3a3a;
+  --color-surface-active: #434343;
+  --color-border: #3a3a3a;
+  /* Цвета верхнего меню */
+  --color-menu-background: #2c2c2c;
+  --color-menu-background-fade: rgba(44, 44, 44, 0.48);
+  --color-menu-text-primary: #e4e4e4;
+  --color-menu-text-disabled: #7c7c7c;
+  --color-menu-icon: #cccccc;
+  --color-menu-search: #454545;
+  --color-menu-search-fade: rgba(228, 228, 228, 0.12);
+  --color-menu-background-hover: #3d3d3d;
+  --color-menu-background-active: #454545;
+  /* Цвета кнопок списков */
+  --color-planned: #3b5a67;
+  --color-onhold: #484848;
+  --color-watching: #344b55;
+  --color-rewatching: #344b55;
+  --color-completed: #474f36;
+  --color-dropped: #512b2b;
+
+  /* Обложка профиля */
+  --user-cover: url();
+  /* Фон сайта */
+  --user-background: none;
+}}
+
+/* МОИ НАСТРОЙКИ */
+/* Фон страницы */
+body {
+  background-attachment: fixed;
+  background-image: url(https://kawai.shikimori.one/system/user_images/original/141717/1688466.jpg);
+  background-color: rgb(26, 26, 26);
+  background-position: top center;
+  background-size: cover;
+}
+
+/* Счётчики */
+body::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -9999px;
+}
+
+/* Счётчик — неизвестный */
+body:not([data-faye='["/private-141717"]'])::before {
+  background-image: url(https://randart.ru/art/Virous/counter-stranger/);
+}
+
+/* Счётчик — Morr */
+body[data-faye='["/private-1"]']::before {
+  background-image: url(https://randart.ru/art/Virous/counter-morr/);
+}
+
+/* Счётчик — Grin */
+body[data-faye='["/private-2727"]']::before {
+  background-image: url(https://randart.ru/art/Virous/counter-grin/);
+}
+
+/* Счётчик — Alex */
+body[data-faye='["/private-16148"]']::before {
+  background-image: url(https://randart.ru/art/Virous/counter-alex/);
+}
+
+/* Счётчик — baksIII */
+body[data-faye='["/private-30214"]']::before {
+  background-image: url(https://randart.ru/art/Virous/counter-baksiii/);
+}
+
+/* Счётчик — Psychomorphosis */
+body[data-faye='["/private-380582"]']::before {
+  background-image: url(https://randart.ru/art/Virous/counter-psychomorphosis/);
+}
+
+/* Отклонённая правка */
+.p-profiles-versions .rejected::after {
+  content: ', т.к. Virous — хлебушек (но это неточно)';
+}
+
+/* Alex */
+.cc-friends img[alt='e_m_p_t_y'] {
+  content:url(https://nyaa.shikimori.one/system/user_images/original/141717/1679960.jpg);
+}
+
+/* Тени */
+.l-page {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.l-top_menu-v2,
+.submenu,
+.search-results {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.b-modal .inner,
+.tooltip-inner {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+/* Лого на английском */
+.l-top_menu-v2 .logo-container::after  {
+  content: "Shikimori";
+}
+
+/* Смещение уведомления */
+.toastify-top {
+  transform: translateY(48px);
+}
+
+/* Скроллбар */
+@media (min-width: 1264px) {
+  body::-webkit-scrollbar {
+    height: 1rem;
+    width: 1rem;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background: var(--color-menu-background-active);
+    border-radius: 0;
+  }
+  body::-webkit-scrollbar-track {
+  	background: var(--color-background);
+  }
+}
+
+/* Скрытие истории и корректировка баров */
+.p-profiles .profile-head .c-history {
+  display: none;
+}
+
+.p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .bar {
+  width: 100%;
+}
+
+.p-profiles .profile-content .graph.vertical.x34 .line,
+.graph.vertical.x26 .line {
+  margin-right: 0;
+}
+
+.p-profiles .profile-content .graph.vertical.x34.bar .line {
+  width: calc(100% / 34) !important;
+}
+
+.p-profiles .profile-content .graph.vertical.x26.bar .line {
+  width: calc(100% / 26) !important;
+}
+
+.p-profiles .profile-content .graph.vertical .line .bar-container .bar {
+  width: 100%;
+  border-radius: 3px 3px 0 0;
+}
+
+/* Изменение размеров и положения достижений */
+@media (min-width: 599px) {
+  .p-profiles .achievements .c-column:nth-child(1) {
+    width: 48%;
+  }
+
+  .p-profiles .achievements .c-column:nth-child(2) {
+    width: 48%;
+    margin-right: 0;
+  }
+
+  .p-profiles .achievements .c-column:last-child {
+    width: 100%;
+  }
+
+  .p-profiles .achievements .cc-achievements .b-achievement {
+    width: calc((100% - 5px*2) / 3);
+    margin-right: 5px !important;
+    clear: none !important;
+  }
+
+  .p-profiles .achievements .cc-achievements .b-achievement:nth-child(3) {
+    margin-right: 0 !important;
+  }
+
+  .p-profiles .achievements .cc-achievements .b-achievement:nth-child(4){
+    display: none;
+  }
+
+  .p-profiles .achievements .cc-franchises .b-badge {
+    width: calc((100% - 5px*5) / 6);
+    margin-right: 5px !important;
+    clear: none !important;
+  }
+
+  .p-profiles .achievements .cc-franchises .b-badge:nth-child(6n) {
+    margin-right: 0 !important;
+  }
+}
+
+/* Заголовок «Обо мне» */
+.about .subheadline:nth-child(2) {
+  display: none !important;
+}
+
+.about .subheadline {
+  user-select: none;
+}
+
+.about .b-replies + .subheadline {
+	margin-top: -2px;
+}
+
+/* Обо мне: спойлер для пользователей с отключенными стилями */
+.u-styleless > .b-spoiler_block {
+  background-color: transparent;
+  border-radius: 0;
+}
+
+.u-styleless > .b-spoiler_block > span {
+  display: none;
+}
+
+.u-styleless > .b-spoiler_block > div {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/* Обо мне: таблица отсутствующих тайтлов */
+.u-missing-titles.u-table {
+  border-spacing: 0;
+  line-height: inherit !important;
+  word-break: break-word;
+  margin-bottom: 0;
+}
+
+.u-missing-titles .u-thead {
+  vertical-align: middle;
+}
+
+.u-missing-titles .u-tbody {
+  vertical-align: middle;
+}
+
+.u-missing-titles .u-tr {
+  border: 0 none;
+  font-family: inherit;
+  font-size: 13px;
+  font-style: inherit;
+  font-weight: inherit;
+  line-height: 2rem;
+  margin: 0;
+  outline: 0 none;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+.u-missing-titles .u-tbody .u-tr {
+  font-size: 16px;
+}
+
+.u-missing-titles .u-tbody .u-tr:hover {
+  background-color: var(--color-overlay-text-hovered);
+}
+
+.u-missing-titles .u-tr.border {
+  border-top: 1px solid;
+  border-color: var(--color-border);
+  padding-bottom: 4px;
+  padding-top: 0;
+  text-align: left;
+}
+
+.u-missing-titles .u-tr.border .u-th {
+  padding-top: 5px;
+}
+
+.u-missing-titles .u-th {
+  vertical-align: inherit;
+  color: inherit;
+  font-weight: bold;
+  text-align: left;
+  cursor: default;
+}
+
+.u-missing-titles .u-td {
+  padding: .25em 0;
+  line-height: 1.5;
+  border: 0 none;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  outline: 0 none;
+}
+
+.u-missing-titles .u-th.index,
+.u-missing-titles .u-td.index {
+  width: 2em;
+  padding-right: .5em;
+  color: var(--color-text-hint);
+  text-align: center;
+}
+
+.u-missing-titles .u-th.order-control {
+  color: var(--color-text-primary);
+}
+
+.u-missing-titles .u-th.order-control.active {
+  text-decoration: underline;
+}
+
+.u-missing-titles .u-th.num,
+.u-missing-titles .u-td.num {
+  text-align: center;
+  width: 70px;
+}
+
+.u-missing-titles .u-th.num:last-child,
+.u-missing-titles .u-td.num:last-child {
+  /*width: 140px;*/
+  width: 70px;
+}
+
+.u-missing-titles .u-td .rewatches {
+  color: var(--color-info);
+  display: inline-block;
+  vertical-align: top;
+  padding: 2px 6px;
+  margin: .0625rem .5rem 0 .5rem;
+  border-radius: 2px;
+  box-shadow: inset 0 0 0 1px;
+  font-size: 12px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .u-missing-titles .u-th.num,
+  .u-missing-titles .u-td.num {
+    display: none;
+  }
+}
+
+/* Обо мне: таблица проверенных тайтлов */
+.u-checked-titles .u-td.index {
+  width: 2em;
+  color: var(--color-text-hint);
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .u-checked-titles .u-th:nth-child(3),
+  .u-checked-titles .u-th:nth-child(4),
+  .u-checked-titles .u-td:nth-child(3),
+  .u-checked-titles .u-td:nth-child(4) {
+    display: none;
+  }
+}
+
+/* Обо мне: подробности правок */
+.u-details {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 8px 32px;
+  text-align: center;
+}
+
+.u-details .u-details-value {
+  line-height: 47.75px;
+  font-size: 38.75px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.u-details .u-details-title {
+  line-height: 16px;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--color-text-hint);
+}
+
+/* Таблицы */
+.u-table {display: table;}
+.u-thead {display: table-header-group;}
+.u-tbody {display: table-row-group;}
+.u-tr {display: table-row;}
+.u-th, .u-td {display: table-cell;}
+
+.u-subheadline {margin-top: 24px;}
+.u-custom-table {max-width: 100%; overflow-x: auto;}
+.u-custom-table .u-table {min-width: 100%;}
+.u-custom-table .u-thead {font-weight: bold;}
+.u-custom-table .u-thead .u-tr {background: var(--color-overlay-text-pressed);}
+.u-custom-table .u-th, .u-custom-table .u-td {padding: 8px;}
+.u-custom-table .u-th:first-child, .u-custom-table .u-td:first-child {padding-left: 16px;}
+.u-custom-table .u-th:last-child, .u-custom-table .u-td:last-child {padding-right: 16px;}
+.u-custom-table .u-tbody .u-tr:nth-child(even) {background: var(--color-overlay-text-hovered);}
+.u-custom-table .tc {text-align: center;}
+.u-custom-table .tr {text-align: right;}
+.u-custom-table .nobr {white-space: nowrap;}
+
+/* «Вклад в сообщество» */
+.p-profiles .profile-head .c-info .c-additionals {
+  clear: both;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: .5em;
+}
+
+.p-profiles .profile-head .c-info .c-additionals b {
+  display: block;
+  flex: 1 0 100%;
+}
+
+.p-profiles .profile-head .c-info .c-additionals b::after {
+  content: 'Вклад в сообщество';
+  display: inline-block;
+  padding: 8px 0;
+  text-transform: uppercase;
+  line-height: 24px;
+}
+
+.p-profiles[data-locale='en'] .profile-head .c-info .c-additionals b::after {
+  content: 'Contribution';
+}
+
+.p-profiles .profile-head .c-info .c-additionals div {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 0;
+  position: relative;
+  max-width: max(136px, 14.2857%);
+  min-width: min(33.3333%, 136px);
+  user-select: none;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div[data-type="video_uploads"], 
+.p-profiles .profile-head .c-info .c-additionals div[data-type="video_changes"] {
+}
+
+.p-profiles .profile-head .c-info .c-additionals div::after {
+  display: none;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a,
+.p-profiles .profile-head .c-info .c-additionals div span {
+  flex: 1 0 100%;
+  padding: 4px 8px;
+  color: var(--color-text-disabled) !important;
+  font-size: 10px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a::first-line,
+.p-profiles .profile-head .c-info .c-additionals div span::first-line {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 24px;
+  word-spacing: 200px;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a {
+  color: var(--color-text-hint) !important;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a::first-line {
+  color: var(--color-text-primary) !important;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a:hover {
+  text-decoration: none;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a:focus {
+  outline: none;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div span {
+  color: var(--color-text-hint);
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: var(--color-overlay-text-pressed);
+  border-radius: var(--border-rounded);
+  opacity: 0;
+  transition: .24s ease-in-out;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a:hover::before {
+  opacity: 0.32;
+}
+
+.p-profiles .profile-head .c-info .c-additionals div a:active::before {
+  opacity: 1;
+}
+
+/* Изменение подписей баров */
+.b-stats_bar .stat_names .stat_name {
+  --gap: 8px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: baseline;
+  justify-content: flex-end;
+  padding: 9px 8px 8px 0;
+  margin: 4px 0 4px var(--gap);
+  color: var(--color-text-hint);
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.b-stats_bar .stat_names .stat_name a {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: baseline;
+  justify-content: flex-end;
+  position: relative;
+  padding: 9px 8px 8px 0;
+  margin: -9px -8px -8px 0;
+  color: var(--color-text-hint);
+}
+
+.b-stats_bar .stat_names .stat_name a:active, 
+.b-stats_bar .stat_names .stat_name a:hover {
+  color: var(--color-text-hint);
+}
+
+.b-stats_bar .stat_names .stat_name a::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: -8px;
+  width: auto;
+  height: 100%;
+  margin: 0;
+  background: var(--color-overlay-text-pressed) !important;
+  border-radius: var(--border-rounded);
+  opacity: 0;
+  transition: 0.32s ease;
+}
+
+.b-stats_bar .stat_names .stat_name a:hover::before {
+  opacity: .32;
+}
+
+.b-stats_bar .stat_names .stat_name a:active::before {
+  opacity: 1;
+}
+
+.b-stats_bar .stat_names .stat_name .size {
+  margin-right: 4px;
+  color: var(--color-text-primary);
+  font-size: 15px;
+}
+
+.b-stats_bar .stat_names .stat_name .size::before {
+  display: none;
+  content: '';
+  position: static;
+  width: 6px;
+  height: 6px;
+  padding: 0;
+  margin: 3px 6px 0 0;
+  background: var(--color-border);
+  border-radius: 50%;
+  z-index: 1;
+}
+
+@media (max-width: 599px) {
+  .b-stats_bar .stat_names:hover {
+    padding-left: 8px;
+  }
+
+  .b-stats_bar .stat_names .stat_name {
+    display: none;
+    padding: 9px 8px 8px 0;
+    margin: 2px 0;
+  }
+
+  .b-stats_bar .stat_names .stat_name a:hover {
+    background: transparent;
+  }
+}
