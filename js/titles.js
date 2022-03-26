@@ -1,4 +1,4 @@
-[
+let manga = [
     {
         "id": 139833,
         "name": "iContact",
