@@ -1,40 +1,318 @@
 let manga = [
   {
-    "id": 1867,
-    "name": "0 no Soukoushi",
-    "rus_name": "Абсолютный парфюмист",
-    "url": "/mangas/1867-0-no-soukoushi",
+    "id": 125140,
+    "name": "Deep Insanity: Nirvana",
+    "rus_name": "Безумное погружение",
+    "url": "/mangas/125140-deep-insanity-nirvana",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangahub"
+    ],
+    "last_change": "1624550400000"
+  },
+  {
+    "id": 130464,
+    "name": "Sayonara Eden",
+    "rus_name": "Прощай, Эдем",
+    "url": "/mangas/130464-sayonara-eden",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 93680,
+    "name": "Ne no Kuni no Kumo",
+    "rus_name": "Облачная страна Нэ",
+    "url": "/mangas/93680-ne-no-kuni-no-kumo",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640620800000"
+  },
+  {
+    "id": 56519,
+    "name": "Shibito no Koe wo Kiku ga Yoi",
+    "rus_name": "Ты услышишь голос мёртвых",
+    "url": "/mangas/56519-shibito-no-koe-wo-kiku-ga-yoi",
     "links": [
       "wikipedia",
       "myanimelist",
       "readmanga",
+      "mangalib",
       "mangaupdates",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1581696000000"
+    "last_change": "1594915200000"
   },
   {
-    "id": 109911,
-    "name": "Satsuriku Morph",
-    "rus_name": "Убийственные метаморфозы",
-    "url": "/mangas/109911-satsuriku-morph",
+    "id": 81047,
+    "name": "Bokutachi no Ikita Riyuu",
+    "rus_name": "(У каждого) Свой смысл жизни",
+    "url": "/mangas/81047-bokutachi-no-ikita-riyuu",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1598284800000"
+  },
+  {
+    "id": 86681,
+    "name": "Korokoro Soushi: Ooedo Kisou Tengai",
+    "rus_name": "Кровавые хроники: Удивительные идеи Оэдо",
+    "url": "/mangas/86681-korokoro-soushi-ooedo-kisou-tengai",
     "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1629907200000"
+  },
+  {
+    "id": 122392,
+    "name": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+    "rus_name": "Предсмертный список зомби",
+    "url": "/mangas/122392-zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1618156800000"
+    "last_change": "1638374400000"
   },
   {
-    "id": 73603,
-    "name": "Kakegurui",
-    "rus_name": "Безумный азарт",
-    "url": "/mangas/73603-kakegurui",
+    "id": 11694,
+    "name": "Jigoku no Komoriuta",
+    "rus_name": "Колыбельные из преисподней",
+    "url": "/mangas/11694-jigoku-no-komoriuta",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1611072000000"
+  },
+  {
+    "id": 145509,
+    "name": "Oni-Goroshi",
+    "rus_name": "",
+    "url": "/mangas/145509-oni-goroshi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": "1651420800000"
+  },
+  {
+    "id": 377,
+    "name": "Island",
+    "rus_name": "Остров",
+    "url": "/mangas/377-island",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1648915200000"
+  },
+  {
+    "id": 24098,
+    "name": "Another",
+    "rus_name": "Иная",
+    "url": "/mangas/24098-another",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614960000000"
+  },
+  {
+    "id": 6228,
+    "name": "Shikabane Hime",
+    "rus_name": "Принцесса немёртвых",
+    "url": "/mangas/6228-shikabane-hime",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1624377600000"
+  },
+  {
+    "id": 93481,
+    "name": "Sailor Zombie",
+    "rus_name": "Сейлор зомби",
+    "url": "/mangas/93481-sailor-zombie",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 94896,
+    "name": "Infection",
+    "rus_name": "Инфекция",
+    "url": "/mangas/94896-infection",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1611244800000"
+  },
+  {
+    "id": 16688,
+    "name": "Ibitsu",
+    "rus_name": "Изнанка",
+    "url": "/mangas/16688-ibitsu",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608998400000"
+  },
+  {
+    "id": 113020,
+    "name": "Goumon Tournament",
+    "rus_name": "Турнир пыток",
+    "url": "/mangas/113020-goumon-tournament",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1631203200000"
+  },
+  {
+    "id": 65647,
+    "name": "Green Worldz",
+    "rus_name": "Зелёные миры",
+    "url": "/mangas/65647-green-worldz",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614614400000"
+  },
+  {
+    "id": 80797,
+    "name": "Neo Kiseijuu f",
+    "rus_name": "Неопаразит F",
+    "url": "/mangas/80797-neo-kiseijuu-f",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1599321600000"
+  },
+  {
+    "id": 78789,
+    "name": "Neo Kiseijuu",
+    "rus_name": "Неопаразит",
+    "url": "/mangas/78789-neo-kiseijuu",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608480000000"
+  },
+  {
+    "id": 99,
+    "name": "Zombie-Loan",
+    "rus_name": "Кредит зомби",
+    "url": "/mangas/99-zombie-loan",
     "links": [
       "official_site",
       "wikipedia",
@@ -46,49 +324,16 @@ let manga = [
       "mangalib",
       "remanga",
       "mangaupdates",
-      "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1611504000000"
+    "last_change": "1605542400000"
   },
   {
-    "id": 21371,
-    "name": "Mardock Scramble",
-    "rus_name": "Мэрдок Скрэмбл",
-    "url": "/mangas/21371-mardock-scramble",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1625068800000"
-  },
-  {
-    "id": 23593,
-    "name": "Kaira",
-    "rus_name": "Каира",
-    "url": "/mangas/23593-kaira",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1563465600000"
-  },
-  {
-    "id": 111213,
-    "name": "Bastard",
-    "rus_name": "Ублюдок",
-    "url": "/mangas/111213-bastard",
+    "id": 52435,
+    "name": "Ma no Kakera",
+    "rus_name": "Осколок зла",
+    "url": "/mangas/52435-ma-no-kakera",
     "links": [
       "myanimelist",
       "readmanga",
@@ -99,107 +344,13 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1637769600000"
+    "last_change": "1610035200000"
   },
   {
-    "id": 42835,
-    "name": "Metronome",
-    "rus_name": "Метроном",
-    "url": "/mangas/42835-metronome",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1622563200000"
-  },
-  {
-    "id": 14440,
-    "name": "I Am a Hero",
-    "rus_name": "Я — герой",
-    "url": "/mangas/14440-i-am-a-hero",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1614528000000"
-  },
-  {
-    "id": 564,
-    "name": "Gantz",
-    "rus_name": "Ганц",
-    "url": "/mangas/564-gantz",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611158400000"
-  },
-  {
-    "id": 55163,
-    "name": "Gakkougurashi!",
-    "rus_name": "Школьная жизнь!",
-    "url": "/mangas/55163-gakkougurashi",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1596211200000"
-  },
-  {
-    "id": 467,
-    "name": "Sono Te Wo Dokero",
-    "rus_name": "Руки прочь!",
-    "url": "/mangas/467-sono-te-wo-dokero",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1579968000000"
-  },
-  {
-    "id": 10970,
-    "name": "Emerging",
-    "rus_name": "Новые",
-    "url": "/mangas/10970-emerging",
+    "id": 128,
+    "name": "Petshop of Horrors",
+    "rus_name": "Магазинчик ужасов",
+    "url": "/mangas/128-petshop-of-horrors",
     "links": [
       "wikipedia",
       "anime_news_network",
@@ -212,27 +363,103 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1608393600000"
+    "last_change": "1612800000000"
   },
   {
-    "id": 14472,
-    "name": "Blood Rain",
-    "rus_name": "Кровавый дождь",
-    "url": "/mangas/14472-blood-rain",
+    "id": 11974,
+    "name": "Kyoufu Jigoku Shoujo",
+    "rus_name": "Адское дитя",
+    "url": "/mangas/11974-kyoufu-jigoku-shoujo",
     "links": [
       "myanimelist",
+      "readmanga",
       "mangalib",
+      "remanga",
       "mangaupdates",
       "mangadex",
-      "mangafox"
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1640534400000"
+    "last_change": "1631980800000"
   },
   {
-    "id": 18258,
-    "name": "Becchin to Mandara",
-    "rus_name": "Вельвет и Мандара",
-    "url": "/mangas/18258-becchin-to-mandara",
+    "id": 78987,
+    "name": "Man Eater",
+    "rus_name": "Людоед",
+    "url": "/mangas/78987-man-eater",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1631116800000"
+  },
+  {
+    "id": 108692,
+    "name": "Aisareru yori ￮-saretai",
+    "rus_name": "Я хочу чего-то большего, чем просто быть любимой",
+    "url": "/mangas/108692-aisareru-yori-saretai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 312,
+    "name": "Evil's Return",
+    "rus_name": "Возвращение зла",
+    "url": "/mangas/312-evil-s-return",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 25250,
+    "name": "Voynich Hotel",
+    "rus_name": "Отель «Войнич»",
+    "url": "/mangas/25250-voynich-hotel",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1629907200000"
+  },
+  {
+    "id": 61051,
+    "name": "Kyuusen no Shima",
+    "rus_name": "Адский остров",
+    "url": "/mangas/61051-kyuusen-no-shima",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1651507200000"
+  },
+  {
+    "id": 108029,
+    "name": "Tomogui",
+    "rus_name": "Поедать друг друга",
+    "url": "/mangas/108029-tomogui",
     "links": [
       "myanimelist",
       "readmanga",
@@ -245,145 +472,15 @@ let manga = [
     "last_change": "1616860800000"
   },
   {
-    "id": 1,
-    "name": "Monster",
-    "rus_name": "Монстр",
-    "url": "/mangas/1-monster",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1639152000000"
-  },
-  {
-    "id": 117351,
-    "name": "Nande Ikiteru ka Wakaranai Hito Izumi Sumi 25-sai",
-    "rus_name": "25-летняя Суми Идзуми, которая не знает, зачем она живёт",
-    "url": "/mangas/117351-nande-ikiteru-ka-wakaranai-hito-izumi-sumi-25-sai",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1635609600000"
-  },
-  {
-    "id": 114945,
-    "name": "Aozora to Kumorizora",
-    "rus_name": "Небо голубое и небо облачное",
-    "url": "/mangas/114945-aozora-to-kumorizora",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1594310400000"
-  },
-  {
-    "id": 4018,
-    "name": "Top Secret",
-    "rus_name": "Совершенно секретно",
-    "url": "/mangas/4018-top-secret",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 30079,
-    "name": "Annarasumanara",
-    "rus_name": "Аннарасуманара",
-    "url": "/mangas/30079-annarasumanara",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615824000000"
-  },
-  {
-    "id": 29647,
-    "name": "Kurokami no Helga",
-    "rus_name": "Темноволосая Хельга",
-    "url": "/mangas/29647-kurokami-no-helga",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1639843200000"
-  },
-  {
-    "id": 1033,
-    "name": "Let Dai",
-    "rus_name": "Позволь Даю",
-    "url": "/mangas/1033-let-dai",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1613059200000"
-  },
-  {
-    "id": 31309,
-    "name": "Waltz",
-    "rus_name": "Вальс",
-    "url": "/mangas/31309-waltz",
+    "id": 24450,
+    "name": "Kiba no Tabishounin: The Arms Peddler",
+    "rus_name": "Странствующий торговец оружием",
+    "url": "/mangas/24450-kiba-no-tabishounin-the-arms-peddler",
     "links": [
       "official_site",
       "wikipedia",
       "myanimelist",
       "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1581609600000"
-  },
-  {
-    "id": 95347,
-    "name": "Kakegurui Twin",
-    "rus_name": "Безумный азарт: Близнецы",
-    "url": "/mangas/95347-kakegurui-twin",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
@@ -391,109 +488,13 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1611504000000"
+    "last_change": "1614268800000"
   },
   {
-    "id": 20375,
-    "name": "Black Paradox",
-    "rus_name": "Чёрный парадокс",
-    "url": "/mangas/20375-black-paradox",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608566400000"
-  },
-  {
-    "id": 951,
-    "name": "Taiyou no Ijiwaru",
-    "rus_name": "Однодневка",
-    "url": "/mangas/951-taiyou-no-ijiwaru",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1623427200000"
-  },
-  {
-    "id": 77891,
-    "name": "The Friendly Winter",
-    "rus_name": "Зимняя дружба",
-    "url": "/mangas/77891-the-friendly-winter",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615996800000"
-  },
-  {
-    "id": 125036,
-    "name": "The Horizon",
-    "rus_name": "Горизонт",
-    "url": "/mangas/125036-the-horizon",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1615824000000"
-  },
-  {
-    "id": 14207,
-    "name": "Travel",
-    "rus_name": "Путешествие",
-    "url": "/mangas/14207-travel",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 5401,
-    "name": "Ayako",
-    "rus_name": "Аяко",
-    "url": "/mangas/5401-ayako",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1615651200000"
-  },
-  {
-    "id": 1929,
-    "name": "Loose Senki: Old Boy",
-    "rus_name": "Старина",
-    "url": "/mangas/1929-loose-senki-old-boy",
+    "id": 15805,
+    "name": "Tasogare Otome x Amnesia",
+    "rus_name": "Амнезия сумеречной девы",
+    "url": "/mangas/15805-tasogare-otome-x-amnesia",
     "links": [
       "wikipedia",
       "wikipedia",
@@ -507,1109 +508,78 @@ let manga = [
       "mangadex",
       "mangafox",
       "mangahub"
-    ],
-    "last_change": "1637424000000"
-  },
-  {
-    "id": 1239,
-    "name": "Mikai no Hoshi",
-    "rus_name": "Дикая планета",
-    "url": "/mangas/1239-mikai-no-hoshi",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1611158400000"
-  },
-  {
-    "id": 109907,
-    "name": "Toumei Ningen no Hone",
-    "rus_name": "Прозрачная человеческая кость",
-    "url": "/mangas/109907-toumei-ningen-no-hone",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1623600000000"
-  },
-  {
-    "id": 83267,
-    "name": "Joshikousei ni Korosaretai",
-    "rus_name": "Хочу быть убитым старшеклассницей",
-    "url": "/mangas/83267-joshikousei-ni-korosaretai",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 44765,
-    "name": "Ito Junji Kyoufu Manga Collection - Tunnel no Tan",
-    "rus_name": "История таинственного тоннеля",
-    "url": "/mangas/44765-ito-junji-kyoufu-manga-collection-tunnel-no-tan",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 33327,
-    "name": "Tokyo Ghoul",
-    "rus_name": "Токийский гуль",
-    "url": "/mangas/33327-tokyo-ghoul",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609084800000"
-  },
-  {
-    "id": 481,
-    "name": "Planetes",
-    "rus_name": "Странники",
-    "url": "/mangas/481-planetes",
-    "last_change": "1608566400000",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ]
-  },
-  {
-    "id": 4316,
-    "name": "Shounen Shoujo",
-    "rus_name": "Болезнь мальчика, болезнь девочки",
-    "url": "/mangas/4316-shounen-shoujo",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": "1578240000000"
-  },
-  {
-    "id": 142246,
-    "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
-    "rus_name": "Добро пожаловать в класс превосходства: Второй год",
-    "url": "/mangas/142246-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2-nensei-hen",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangadex"
-    ],
-    "last_change": "1640361600000"
-  },
-  {
-    "id": 22305,
-    "name": "Ningen Konchuuki",
-    "rus_name": "Человеческие метаморфозы",
-    "url": "/mangas/22305-ningen-konchuuki",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1602000000000"
-  },
-  {
-    "id": 14442,
-    "name": "Lineage",
-    "rus_name": "Происхождение",
-    "url": "/mangas/14442-lineage",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 62671,
-    "name": "Gekijouban Mahou Shoujo Madoka★Magica: Shinpen - Hangyaku no Monogatari",
-    "rus_name": "Девочка-волшебница Мадока★Волшебство: История восстания",
-    "url": "/mangas/62671-gekijouban-mahou-shoujo-madoka-magica-shinpen-hangyaku-no-monogatari",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangahub"
-    ],
-    "last_change": "1621958400000"
-  },
-  {
-    "id": 127513,
-    "name": "Dansei Kyoufushou Datta Watashi ga AV Joyuu ni Naru made no Hanashi",
-    "rus_name": "Моя история до того, как я, боявшаяся мужчин, стала порноактрисой",
-    "url": "/mangas/127513-dansei-kyoufushou-datta-watashi-ga-av-joyuu-ni-naru-made-no-hanashi",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1634572800000"
-  },
-  {
-    "id": 1211,
-    "name": "Ore to Akuma no Blues",
-    "rus_name": "Я и дьявольский блюз",
-    "url": "/mangas/1211-ore-to-akuma-no-blues",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1624118400000"
-  },
-  {
-    "id": 442,
-    "name": "Tekkon Kinkreet",
-    "rus_name": "Железобетон",
-    "url": "/mangas/442-tekkon-kinkreet",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1613232000000"
-  },
-  {
-    "id": 61735,
-    "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
-    "rus_name": "Данганронпа: Академия надежды и школа безысходности",
-    "url": "/mangas/61735-danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1620662400000"
-  },
-  {
-    "id": 20907,
-    "name": "Sabbath Cafe",
-    "rus_name": "Субботнее кафе",
-    "url": "/mangas/20907-sabbath-cafe",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1639497600000"
-  },
-  {
-    "id": 112382,
-    "name": "Transparent Cohabitation",
-    "rus_name": "Призрачный сосед",
-    "url": "/mangas/112382-transparent-cohabitation",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609344000000"
-  },
-  {
-    "id": 106407,
-    "name": "Jinrou Game: Crazy Fox",
-    "rus_name": "Игры в оборотней: Безумная лиса",
-    "url": "/mangas/106407-jinrou-game-crazy-fox",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1595001600000"
-  },
-  {
-    "id": 56047,
-    "name": "Yuutai Nova: Kanketsu-hen",
-    "rus_name": "Ютаи Нова: Заключительная часть",
-    "url": "/mangas/56047-yuutai-nova-kanketsu-hen",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 3749,
-    "name": "Umineko no Naku Koro ni - Episode 1: Legend of the Golden Witch",
-    "rus_name": "Когда плачут чайки: Легенда о Золотой Ведьме",
-    "url": "/mangas/3749-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1612886400000"
-  },
-  {
-    "id": 8446,
-    "name": "Ikigami",
-    "rus_name": "Икигами",
-    "url": "/mangas/8446-ikigami",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1603296000000"
-  },
-  {
-    "id": 5806,
-    "name": "Franken Fran",
-    "rus_name": "Франкен Фран",
-    "url": "/mangas/5806-franken-fran",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1641657600000"
-  },
-  {
-    "id": 41237,
-    "name": "Peak",
-    "rus_name": "Пик",
-    "url": "/mangas/41237-peak",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1614787200000"
-  },
-  {
-    "id": 87122,
-    "name": "Harmony",
-    "rus_name": "Гармония",
-    "url": "/mangas/87122-harmony",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1616083200000"
-  },
-  {
-    "id": 8734,
-    "name": "8",
-    "rus_name": "Восемь",
-    "url": "/mangas/8734-8",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635264000000"
-  },
-  {
-    "id": 3104,
-    "name": "Helter Skelter",
-    "rus_name": "Кавардак",
-    "url": "/mangas/3104-helter-skelter",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 3575,
-    "name": "Saikyou Densetsu Kurosawa",
-    "rus_name": "Легенда о сильнейшем из мужчин Куросаве",
-    "url": "/mangas/3575-saikyou-densetsu-kurosawa",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609603200000"
-  },
-  {
-    "id": 24561,
-    "name": "Kamisama no Iutoori",
-    "rus_name": "Страшная воля богов",
-    "url": "/mangas/24561-kamisama-no-iutoori",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610380800000"
-  },
-  {
-    "id": 3787,
-    "name": "Tenshi Shukushi",
-    "rus_name": "",
-    "url": "/mangas/3787-tenshi-shukushi",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 106609,
-    "name": "Ningen Shikkaku",
-    "rus_name": "Исповедь «неполноценного» человека",
-    "url": "/mangas/106609-ningen-shikkaku",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 28184,
-    "name": "Life Is Money",
-    "rus_name": "Жизнь — это деньги!",
-    "url": "/mangas/28184-life-is-money",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1592323200000"
-  },
-  {
-    "id": 3105,
-    "name": "Hatsukanezumi no Jikan",
-    "rus_name": "Время подопытных кроликов",
-    "url": "/mangas/3105-hatsukanezumi-no-jikan",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646755200000"
-  },
-  {
-    "id": 19362,
-    "name": "Hana wa Knife wo Mi ni Matou",
-    "rus_name": "Цветок и нож",
-    "url": "/mangas/19362-hana-wa-knife-wo-mi-ni-matou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600531200000"
-  },
-  {
-    "id": 28361,
-    "name": "Hideout",
-    "rus_name": "Укрытие",
-    "url": "/mangas/28361-hideout",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1604332800000"
-  },
-  {
-    "id": 17529,
-    "name": "Shinigami-sama ni Saigo no Onegai wo",
-    "rus_name": "Последнее желание госпожи Синигами",
-    "url": "/mangas/17529-shinigami-sama-ni-saigo-no-onegai-wo",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1639670400000"
-  },
-  {
-    "id": 11434,
-    "name": "Jisatsutou",
-    "rus_name": "Остров самоубийц",
-    "url": "/mangas/11434-jisatsutou",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615564800000"
-  },
-  {
-    "id": 111299,
-    "name": "Saitsuyo Densetsu Nakane",
-    "rus_name": "Сильнейшая легенда Наканэ",
-    "url": "/mangas/111299-saitsuyo-densetsu-nakane",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1610121600000"
-  },
-  {
-    "id": 22044,
-    "name": "Iris Zero",
-    "rus_name": "Ирис Зеро",
-    "url": "/mangas/22044-iris-zero",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609603200000"
-  },
-  {
-    "id": 3715,
-    "name": "The One",
-    "rus_name": "Номер один",
-    "url": "/mangas/3715-the-one",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1606406400000"
-  },
-  {
-    "id": 8826,
-    "name": "Kanojo no Omoide...",
-    "rus_name": "Воспоминания о ней...",
-    "url": "/mangas/8826-kanojo-no-omoide",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "readmanga",
-      "mangalib",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1603123200000"
-  },
-  {
-    "id": 1262,
-    "name": "Higurashi no Naku Koro ni Kai: Meakashi-hen",
-    "rus_name": "Когда плачут цикады: Глава о раскрытии тайны",
-    "url": "/mangas/1262-higurashi-no-naku-koro-ni-kai-meakashi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609171200000"
-  },
-  {
-    "id": 60833,
-    "name": "Dolls Code",
-    "rus_name": "Кодекс куклы",
-    "url": "/mangas/60833-dolls-code",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600617600000"
-  },
-  {
-    "id": 7728,
-    "name": "Rozen Maiden (2008)",
-    "rus_name": "Девы Розена II",
-    "url": "/mangas/7728-rozen-maiden-2008",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615392000000"
-  },
-  {
-    "id": 57063,
-    "name": "Dorei-ku: Boku to 23-nin no Dorei",
-    "rus_name": "Я и 23 раба",
-    "url": "/mangas/57063-dorei-ku-boku-to-23-nin-no-dorei",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611676800000"
-  },
-  {
-    "id": 936,
-    "name": "Homunculus",
-    "rus_name": "Гомункул",
-    "url": "/mangas/936-homunculus",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1608480000000"
-  },
-  {
-    "id": 4632,
-    "name": "Oyasumi Punpun",
-    "rus_name": "Спокойной ночи, Пунпун",
-    "url": "/mangas/4632-oyasumi-punpun",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609084800000"
-  },
-  {
-    "id": 10954,
-    "name": "Ergo Proxy: Centzon Hitchers and Undertaker",
-    "rus_name": "Эрго Прокси: Попутчики Сенцона и могильщик",
-    "url": "/mangas/10954-ergo-proxy-centzon-hitchers-and-undertaker",
-    "links": [
-      "official_site",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600185600000"
-  },
-  {
-    "id": 11558,
-    "name": "Genkaku Picasso",
-    "rus_name": "Галлюцинации Пикассо",
-    "url": "/mangas/z11558-genkaku-picasso",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 10741,
-    "name": "Heaven's Door",
-    "rus_name": "Дверь Рая",
-    "url": "/mangas/10741-heaven-s-door",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1612195200000"
-  },
-  {
-    "id": 44751,
-    "name": "Ito Junji Kyoufu Manga Collection - Namekuji no Shoujo",
-    "rus_name": "Девушка-улитка",
-    "url": "/mangas/44751-ito-junji-kyoufu-manga-collection-namekuji-no-shoujo",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangahub"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 41341,
-    "name": "Kasane",
-    "rus_name": "Касанэ",
-    "url": "/mangas/41341-kasane",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": "1504368000000"
-  },
-  {
-    "id": 55377,
-    "name": "Kasane",
-    "rus_name": "Касанэ",
-    "url": "/mangas/55377-kasane",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609603200000"
-  },
-  {
-    "id": 124182,
-    "name": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
-    "rus_name": "Психопаспорт: Грешники системы — Преступление и наказание",
-    "url": "/mangas/124182-psycho-pass-sinners-of-the-system-case-1-tsumi-to-bachi",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608134400000"
-  },
-  {
-    "id": 70391,
-    "name": "Deathtopia",
-    "rus_name": "Утопия смерти",
-    "url": "/mangas/70391-deathtopia",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1599321600000"
-  },
-  {
-    "id": 8990,
-    "name": "Fetish",
-    "rus_name": "Фетиш",
-    "url": "/mangas/8990-fetish",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609084800000"
-  },
-  {
-    "id": 20593,
-    "name": "Btooom!",
-    "rus_name": "Бтууум!",
-    "url": "/mangas/z20593-btooom",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635782400000"
-  },
-  {
-    "id": 66265,
-    "name": "Okitenemuru",
-    "rus_name": "Окитенемуру: Пробудившийся спящий",
-    "url": "/mangas/66265-okitenemuru",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1628524800000"
-  },
-  {
-    "id": 116336,
-    "name": "Watashi no Tadashii Oniichan",
-    "rus_name": "Добродетель моего брата",
-    "url": "/mangas/116336-watashi-no-tadashii-oniichan",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1606665600000"
-  },
-  {
-    "id": 19323,
-    "name": "Tsumi to Batsu: A Falsified Romance",
-    "rus_name": "Преступление и наказание: Сфальсифицированный роман",
-    "url": "/mangas/19323-tsumi-to-batsu-a-falsified-romance",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1598112000000"
-  },
-  {
-    "id": 11221,
-    "name": "Torikago Gakkyuu",
-    "rus_name": "Класс — птичья клетка",
-    "url": "/mangas/11221-torikago-gakkyuu",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1532102400000"
-  },
-  {
-    "id": 23044,
-    "name": "Rinjin 13-gou",
-    "rus_name": "Сосед 13",
-    "url": "/mangas/23044-rinjin-13-gou",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1598716800000"
-  },
-  {
-    "id": 40815,
-    "name": "Satanic Sweet",
-    "rus_name": "Грязь",
-    "url": "/mangas/40815-satanic-sweet",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1632240000000"
-  },
-  {
-    "id": 23979,
-    "name": "Underdog",
-    "rus_name": "Сумеречный пёс",
-    "url": "/mangas/23979-underdog",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1581609600000"
-  },
-  {
-    "id": 94345,
-    "name": "Kokkoku",
-    "rus_name": "Миг за мигом",
-    "url": "/mangas/94345-kokkoku",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
     ],
     "last_change": "1610726400000"
   },
   {
-    "id": 463,
-    "name": "NHK ni Youkoso!",
-    "rus_name": "Добро пожаловать в NHK",
-    "url": "/mangas/463-nhk-ni-youkoso",
+    "id": 116790,
+    "name": "Mieruko-chan",
+    "rus_name": "Девочка, которая видит это",
+    "url": "/mangas/116790-mieruko-chan",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1644940800000"
+  },
+  {
+    "id": 146231,
+    "name": "Metal K",
+    "rus_name": "",
+    "url": "/mangas/146231-metal-k",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1650470400000"
+  },
+  {
+    "id": 11089,
+    "name": "Shinrei Tantei Yakumo: Akai Hitomi wa Shitteiru",
+    "rus_name": "Детектив-медиум Якумо",
+    "url": "/mangas/11089-shinrei-tantei-yakumo-akai-hitomi-wa-shitteiru",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1627142400000"
+  },
+  {
+    "id": 13611,
+    "name": "Yume no Q-saku",
+    "rus_name": "Сон Кью-Саку",
+    "url": "/mangas/13611-yume-no-q-saku",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangahub"
+    ],
+    "last_change": "1629820800000"
+  },
+  {
+    "id": 61087,
+    "name": "Killing Bites",
+    "rus_name": "Смертельный укус",
+    "url": "/mangas/61087-killing-bites",
     "links": [
       "wikipedia",
       "wikipedia",
@@ -1627,41 +597,23 @@ let manga = [
     "last_change": "1626364800000"
   },
   {
-    "id": 48471,
-    "name": "Savanna Game: The Comic",
-    "rus_name": "Игра Саванны",
-    "url": "/mangas/48471-savanna-game-the-comic",
+    "id": 95059,
+    "name": "Hotarubi no Tomoru Koro ni",
+    "rus_name": "Когда мерцают светлячки",
+    "url": "/mangas/95059-hotarubi-no-tomoru-koro-ni",
     "links": [
       "official_site",
       "myanimelist",
       "readmanga",
       "mangalib"
     ],
-    "last_change": "1615392000000"
+    "last_change": "1601481600000"
   },
   {
-    "id": 117625,
-    "name": "Land Lock",
-    "rus_name": "Закрытая земля",
-    "url": "/mangas/117625-land-lock",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615564800000"
-  },
-  {
-    "id": 158,
-    "name": "Ghost Hunt",
-    "rus_name": "Охота на привидений",
-    "url": "/mangas/158-ghost-hunt",
+    "id": 747,
+    "name": "Blood+",
+    "rus_name": "Кровь+",
+    "url": "/mangas/747-blood",
     "links": [
       "wikipedia",
       "wikipedia",
@@ -1671,550 +623,26 @@ let manga = [
       "readmanga",
       "mangalib",
       "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1595001600000"
-  },
-  {
-    "id": 731,
-    "name": "Eden: It's an Endless World!",
-    "rus_name": "Эдем: Бесконечный мир!",
-    "url": "/mangas/731-eden-it-s-an-endless-world",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1613059200000"
-  },
-  {
-    "id": 544,
-    "name": "Shigeshoushi",
-    "rus_name": "Бальзамировщик",
-    "url": "/mangas/544-shigeshoushi",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1596816000000"
-  },
-  {
-    "id": 1131,
-    "name": "Freesia",
-    "rus_name": "Фрезия",
-    "url": "/mangas/1131-freesia",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610812800000"
-  },
-  {
-    "id": 2179,
-    "name": "Heads",
-    "rus_name": "Головы",
-    "url": "/mangas/2179-heads",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1597852800000"
-  },
-  {
-    "id": 42367,
-    "name": "Yoiko no Mirai!",
-    "rus_name": "",
-    "url": "/mangas/42367-yoiko-no-mirai",
-    "last_change": "",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ]
-  },
-  {
-    "id": 13988,
-    "name": "Kizu",
-    "rus_name": "Раны",
-    "url": "/mangas/13988-kizu",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1639411200000"
-  },
-  {
-    "id": 69093,
-    "name": "Deep Water - Shinen",
-    "rus_name": "Глубокие воды: Бездна",
-    "url": "/mangas/69093-deep-water-shinen",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 107078,
-    "name": "Tsumi to Kai",
-    "rus_name": "Грех и наслаждение",
-    "url": "/mangas/107078-tsumi-to-kai",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1607875200000"
-  },
-  {
-    "id": 57849,
-    "name": "Mawaru Penguindrum",
-    "rus_name": "Пингвиний барабан",
-    "url": "/mangas/57849-mawaru-penguindrum",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 17224,
-    "name": "Gun Frontier",
-    "rus_name": "Ган Фронтир",
-    "url": "/mangas/17224-gun-frontier",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1597075200000"
-  },
-  {
-    "id": 136967,
-    "name": "Dairoku Sense",
-    "rus_name": "Шестое чувство",
-    "url": "/mangas/136967-dairoku-sense",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1627574400000"
-  },
-  {
-    "id": 23271,
-    "name": "Destroy and Revolution",
-    "rus_name": "Разрушение и революция",
-    "url": "/mangas/23271-destroy-and-revolution",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1624377600000"
-  },
-  {
-    "id": 86981,
-    "name": "Yakushoku Distopiary",
-    "rus_name": "Цветочный союз",
-    "url": "/mangas/86981-yakushoku-distopiary",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610553600000"
-  },
-  {
-    "id": 196,
-    "name": "Zeus",
-    "rus_name": "Зевс",
-    "url": "/mangas/196-zeus",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 891,
-    "name": "Shounen Zanzou",
-    "rus_name": "Соседские мальчики",
-    "url": "/mangas/891-shounen-zanzou",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangalib",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1632067200000"
-  },
-  {
-    "id": 13377,
-    "name": "Gyakusou Shoujo: Owaranai Natsuyasumi",
-    "rus_name": "Поезд обратно: Бесконечные летние каникулы",
-    "url": "/mangas/13377-gyakusou-shoujo-owaranai-natsuyasumi",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1647792000000"
-  },
-  {
-    "id": 83897,
-    "name": "Paprika: The Dream-Child",
-    "rus_name": "Паприка: Дети из сна",
-    "url": "/mangas/83897-paprika-the-dream-child",
-    "links": [
-      "wikipedia",
-      "myanimelist",
       "mangaupdates"
     ],
-    "last_change": "1559577600000"
+    "last_change": "1600617600000"
   },
   {
-    "id": 46814,
-    "name": "Hibari no Asa",
-    "rus_name": "Утренний жаворонок",
-    "url": "/mangas/46814-hibari-no-asa",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1636473600000"
-  },
-  {
-    "id": 9738,
-    "name": "Higurashi no Naku Koro ni Kai: Matsuribayashi-hen",
-    "rus_name": "Когда плачут цикады: Глава о праздновании фестиваля",
-    "url": "/mangas/z9738-higurashi-no-naku-koro-ni-kai-matsuribayashi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 38117,
-    "name": "To Love Our Enemies",
-    "rus_name": "Возлюби врагов своих",
-    "url": "/mangas/38117-to-love-our-enemies",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 322,
-    "name": "Genjuu no Seiza",
-    "rus_name": "Созвездие воображаемых зверей",
-    "url": "/mangas/322-genjuu-no-seiza",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1636128000000"
-  },
-  {
-    "id": 11953,
-    "name": "Soul Drop",
-    "rus_name": "Падшая душа",
-    "url": "/mangas/11953-soul-drop",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1636214400000"
-  },
-  {
-    "id": 21841,
-    "name": "She Loved Him, and He Loved Himself",
-    "rus_name": "Она полюбила его, а он любил себя",
-    "url": "/mangas/21841-she-loved-him-and-he-loved-himself",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1626019200000"
-  },
-  {
-    "id": 21,
-    "name": "Death Note",
-    "rus_name": "Тетрадь смерти",
-    "url": "/mangas/z21-death-note",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1645545600000"
-  },
-  {
-    "id": 1344,
-    "name": "Kirihito Sanka",
-    "rus_name": "Ода Кирихито",
-    "url": "/mangas/1344-kirihito-sanka",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1614787200000"
-  },
-  {
-    "id": 34489,
-    "name": "All Nude",
-    "rus_name": "Голая правда",
-    "url": "/mangas/34489-all-nude",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1616083200000"
-  },
-  {
-    "id": 36283,
-    "name": "Flip Flap: Okamoto Lynn Tanpenshuu",
-    "rus_name": "Зажигательная",
-    "url": "/mangas/36283-flip-flap-okamoto-lynn-tanpenshuu",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangafox"
-    ],
-    "last_change": "1579536000000"
-  },
-  {
-    "id": 57295,
-    "name": "Mahou Shoujo Site",
-    "rus_name": "Сайт волшебниц",
-    "url": "/mangas/57295-mahou-shoujo-site",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610380800000"
-  },
-  {
-    "id": 44763,
-    "name": "Ito Junji Kyoufu Manga Collection - Circus ga Kita",
-    "rus_name": "Цирк здесь",
-    "url": "/mangas/44763-ito-junji-kyoufu-manga-collection-circus-ga-kita",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 14011,
-    "name": "Shounen Nure Yasuku Koinarigatashi",
+    "id": 125332,
+    "name": "Kowai Hanashi: Otona no Tame no Gokujou Horror",
     "rus_name": "",
-    "url": "/mangas/14011-shounen-nure-yasuku-koinarigatashi",
+    "url": "/mangas/125332-kowai-hanashi-otona-no-tame-no-gokujou-horror",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 8967,
-    "name": "Onanie Master Kurosawa",
-    "rus_name": "Мастер вздрочки Куросава",
-    "url": "/mangas/8967-onanie-master-kurosawa",
+    "id": 26857,
+    "name": "Hakaijuu",
+    "rus_name": "Нечто",
+    "url": "/mangas/26857-hakaijuu",
     "links": [
-      "official_site",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608480000000"
-  },
-  {
-    "id": 28069,
-    "name": "Kuro x Hitsuji: 12-nin no Yasashii Koroshiya",
-    "rus_name": "Двенадцать ласковых убийц: Паршивая овца",
-    "url": "/mangas/28069-kuro-x-hitsuji-12-nin-no-yasashii-koroshiya",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 77993,
-    "name": "Kono Shima ni wa Midara de Jaaku na Mono ga Sumu",
-    "rus_name": "Обитель похоти и зла",
-    "url": "/mangas/77993-kono-shima-ni-wa-midara-de-jaaku-na-mono-ga-sumu",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1620144000000"
-  },
-  {
-    "id": 28537,
-    "name": "Classmate, Kamimura Yuuka wa Kou Itta.",
-    "rus_name": "Так сказала моя одноклассница Юка Камимура",
-    "url": "/mangas/28537-classmate-kamimura-yuuka-wa-kou-itta",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611072000000"
-  },
-  {
-    "id": 229,
-    "name": "Dragon Head",
-    "rus_name": "Голова дракона",
-    "url": "/mangas/229-dragon-head",
-    "links": [
-      "wikipedia",
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -2226,742 +654,30 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1615996800000"
+    "last_change": "1634572800000"
   },
   {
-    "id": 29601,
-    "name": "Kyokou no Ou",
-    "rus_name": "Вымышленный король",
-    "url": "/mangas/29601-kyokou-no-ou",
+    "id": 132675,
+    "name": "Horror Anthology Comic Shikaku",
+    "rus_name": "Антология ужасов: Слепая сторона",
+    "url": "/mangas/132675-horror-anthology-comic-shikaku",
     "links": [
       "myanimelist",
       "readmanga",
+      "readmanga",
       "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615132800000"
-  },
-  {
-    "id": 135166,
-    "name": "Yorishiro Trunk",
-    "rus_name": "",
-    "url": "/mangas/135166-yorishiro-trunk",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 94022,
-    "name": "Kyuusai no Hi",
-    "rus_name": "День помощи",
-    "url": "/mangas/94022-kyuusai-no-hi",
-    "links": [
-      "myanimelist",
+      "mangalib",
       "mangaupdates",
       "mangadex",
       "mangafox"
     ],
-    "last_change": "1642780800000"
+    "last_change": "1638979200000"
   },
   {
-    "id": 5484,
-    "name": "Toriko: Aigan Shoujo",
-    "rus_name": "Узник: Забота о девушке",
-    "url": "/mangas/5484-toriko-aigan-shoujo",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 97327,
-    "name": "Danganronpa Gaiden: Killer Killer",
-    "rus_name": "Данганронпа: Убийца убийц",
-    "url": "/mangas/97327-danganronpa-gaiden-killer-killer",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1594569600000"
-  },
-  {
-    "id": 11230,
-    "name": "Shiroi Tsuki Joshin",
-    "rus_name": "Богиня белой луны",
-    "url": "/mangas/11230-shiroi-tsuki-joshin",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 81117,
-    "name": "Tokyo Ghoul:re",
-    "rus_name": "Токийский гуль: Перерождение",
-    "url": "/mangas/81117-tokyo-ghoul-re",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609084800000"
-  },
-  {
-    "id": 13601,
-    "name": "Be Free!",
-    "rus_name": "Будь свободным!",
-    "url": "/mangas/13601-be-free",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 149,
-    "name": "Blame!",
-    "rus_name": "Блейм!",
-    "url": "/mangas/149-blame",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611158400000"
-  },
-  {
-    "id": 31029,
-    "name": "Higurashi no Naku Koro ni Rei: Saikoroshi-hen",
-    "rus_name": "Когда плачут цикады: Глава об убийственном жребии",
-    "url": "/mangas/31029-higurashi-no-naku-koro-ni-rei-saikoroshi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1617811200000"
-  },
-  {
-    "id": 44759,
-    "name": "Ito Junji Kyoufu Manga Collection - Michi no Naimachi",
-    "rus_name": "Город без улиц",
-    "url": "/mangas/44759-ito-junji-kyoufu-manga-collection-michi-no-naimachi",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 135475,
-    "name": "Shichiyou Jinkaku Shoukougun",
-    "rus_name": "Синдром сменяющейся личности семи дней",
-    "url": "/mangas/135475-shichiyou-jinkaku-shoukougun",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1617984000000"
-  },
-  {
-    "id": 11533,
-    "name": "Yuugo: The Negotiator",
-    "rus_name": "Юго — Переговорщик",
-    "url": "/mangas/11533-yuugo-the-negotiator",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 32151,
-    "name": "Waraenu Warashi: 108 no Karma",
-    "rus_name": "Бесстрастная душа – 108 поворотов кармы",
-    "url": "/mangas/32151-waraenu-warashi-108-no-karma",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1639843200000"
-  },
-  {
-    "id": 1595,
-    "name": "Vitamin",
-    "rus_name": "Витамин",
-    "url": "/mangas/1595-vitamin",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1637596800000"
-  },
-  {
-    "id": 14156,
-    "name": "Kajimunugatai",
-    "rus_name": "",
-    "url": "/mangas/14156-kajimunugatai",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1631376000000"
-  },
-  {
-    "id": 44743,
-    "name": "Ito Junji Kyoufu Manga Collection - Flesh-Colored Horror",
-    "rus_name": "Ужас цвета кожи",
-    "url": "/mangas/44743-ito-junji-kyoufu-manga-collection-flesh-colored-horror",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 1325,
-    "name": "Hi no Tori (1967)",
-    "rus_name": "Жар-птица (1967)",
-    "url": "/mangas/1325-hi-no-tori-1967",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1602259200000"
-  },
-  {
-    "id": 107,
-    "name": "Chobits",
-    "rus_name": "Чобиты",
-    "url": "/mangas/107-chobits",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1618416000000"
-  },
-  {
-    "id": 71787,
-    "name": "Hiai Mousou",
-    "rus_name": "Бредовая любовь",
-    "url": "/mangas/71787-hiai-mousou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 9157,
-    "name": "Alois",
-    "rus_name": "Алоис",
-    "url": "/mangas/9157-alois",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 16468,
-    "name": "Kyouran Kazoku Nikki",
-    "rus_name": "Дневник сумасшедшей семейки",
-    "url": "/mangas/16468-kyouran-kazoku-nikki",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1579017600000"
-  },
-  {
-    "id": 5532,
-    "name": "Bakune Young",
-    "rus_name": "Бакунэ Ёнг",
-    "url": "/mangas/5532-bakune-young",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1630771200000"
-  },
-  {
-    "id": 41573,
-    "name": "Kanojo wa Sore wo Gaman Dekinai",
-    "rus_name": "Она больше не может сдерживаться",
-    "url": "/mangas/41573-kanojo-wa-sore-wo-gaman-dekinai",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600099200000"
-  },
-  {
-    "id": 5550,
-    "name": "Nekome Kozou",
-    "rus_name": "Мальчик с кошачьими глазами",
-    "url": "/mangas/5550-nekome-kozou",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangahub"
-    ],
-    "last_change": "1618243200000"
-  },
-  {
-    "id": 79143,
-    "name": "Jinrou Game",
-    "rus_name": "Игры в оборотней",
-    "url": "/mangas/79143-jinrou-game",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1595001600000"
-  },
-  {
-    "id": 106406,
-    "name": "Jinrou Game: Beast Side",
-    "rus_name": "Игры в оборотней: Звериная сущность",
-    "url": "/mangas/106406-jinrou-game-beast-side",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1595001600000"
-  },
-  {
-    "id": 126699,
-    "name": "Shounen no Abyss",
-    "rus_name": "Бездна подростка",
-    "url": "/mangas/126699-shounen-no-abyss",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1613923200000"
-  },
-  {
-    "id": 39325,
-    "name": "Boku dake ga Inai Machi",
-    "rus_name": "Город, в котором меня нет",
-    "url": "/mangas/z39325-boku-dake-ga-inai-machi",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609084800000"
-  },
-  {
-    "id": 15476,
-    "name": "Megami ga Ochita Hi",
-    "rus_name": "День, когда богиня пала",
-    "url": "/mangas/15476-megami-ga-ochita-hi",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 15449,
-    "name": "Yami no Purple Eyes",
-    "rus_name": "Сиреневый взгляд",
-    "url": "/mangas/15449-yami-no-purple-eyes",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1576425600000"
-  },
-  {
-    "id": 15588,
-    "name": "Match Ippon no Hanashi",
-    "rus_name": "Красное кимоно",
-    "url": "/mangas/15588-match-ippon-no-hanashi",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1631376000000"
-  },
-  {
-    "id": 3690,
-    "name": "Dokusaisha Granada",
-    "rus_name": "Диктатор Гранады",
-    "url": "/mangas/3690-dokusaisha-granada",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "readmanga",
-      "mangalib",
-      "mangahub"
-    ],
-    "last_change": "1598716800000"
-  },
-  {
-    "id": 3298,
-    "name": "Ryuuguuden",
-    "rus_name": "Замок дракона",
-    "url": "/mangas/3298-ryuuguuden",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1630771200000"
-  },
-  {
-    "id": 16067,
-    "name": "Shounen Shoujo Hyouryuuki",
-    "rus_name": "Истории о ребятах, плывущих по течению",
-    "url": "/mangas/16067-shounen-shoujo-hyouryuuki",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1606060800000"
-  },
-  {
-    "id": 107776,
-    "name": "Kimi ni Aisarete Itakatta",
-    "rus_name": "Я хотела бы быть обиженной твоей любовью",
-    "url": "/mangas/107776-kimi-ni-aisarete-itakatta",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1633363200000"
-  },
-  {
-    "id": 54387,
-    "name": "Saiteihen no Otoko",
-    "rus_name": "Полный неудачник",
-    "url": "/mangas/54387-saiteihen-no-otoko",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1640448000000"
-  },
-  {
-    "id": 132762,
-    "name": "Double",
-    "rus_name": "Дублёр",
-    "url": "/mangas/132762-double",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1634227200000"
-  },
-  {
-    "id": 125430,
-    "name": "Adabana",
-    "rus_name": "Пустоцвет",
-    "url": "/mangas/125430-adabana",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1622995200000"
-  },
-  {
-    "id": 125076,
-    "name": "Juujika no Rokunin",
-    "rus_name": "Крест Рокунин",
-    "url": "/mangas/125076-juujika-no-rokunin",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1609948800000"
-  },
-  {
-    "id": 17222,
-    "name": "Kansen Rettou",
-    "rus_name": "Пандемия",
-    "url": "/mangas/17222-kansen-rettou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600012800000"
-  },
-  {
-    "id": 17501,
-    "name": "Utsukushii Otoko",
-    "rus_name": "Красивый мужчина",
-    "url": "/mangas/17501-utsukushii-otoko",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 130940,
-    "name": "Prometheus no Kasa",
-    "rus_name": "Оковы Прометея",
-    "url": "/mangas/130940-prometheus-no-kasa",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1604419200000"
-  },
-  {
-    "id": 16594,
-    "name": "Wendy",
-    "rus_name": "Венди",
-    "url": "/mangas/16594-wendy",
-    "links": [
-      "myanimelist",
-      "mangafox"
-    ],
-    "last_change": "1593878400000"
-  },
-  {
-    "id": 16589,
-    "name": "Kagerou Meikyuu",
-    "rus_name": "Лабиринт амнезии",
-    "url": "/mangas/16589-kagerou-meikyuu",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629129600000"
-  },
-  {
-    "id": 1408,
-    "name": "The World Is Mine",
-    "rus_name": "Мир принадлежит мне",
-    "url": "/mangas/1408-the-world-is-mine",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1630339200000"
-  },
-  {
-    "id": 3230,
-    "name": "Figure 17",
-    "rus_name": "Фигура 17",
-    "url": "/mangas/3230-figure-17",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1596038400000"
-  },
-  {
-    "id": 932,
-    "name": "Koroshiya 1",
-    "rus_name": "Убийца Ити",
-    "url": "/mangas/932-koroshiya-1",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1597852800000"
-  },
-  {
-    "id": 1744,
-    "name": "Arigatou",
-    "rus_name": "Спасибо",
-    "url": "/mangas/1744-arigatou",
+    "id": 912,
+    "name": "Tomie",
+    "rus_name": "Томиэ",
+    "url": "/mangas/912-tomie",
     "links": [
       "wikipedia",
       "wikipedia",
@@ -2977,2698 +693,13 @@ let manga = [
     "last_change": "1615478400000"
   },
   {
-    "id": 103701,
-    "name": "Beastars",
-    "rus_name": "Выдающиеся звери",
-    "url": "/mangas/103701-beastars",
+    "id": 669,
+    "name": "Highschool of the Dead",
+    "rus_name": "Школа мертвецов",
+    "url": "/mangas/669-highschool-of-the-dead",
     "links": [
       "wikipedia",
       "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611072000000"
-  },
-  {
-    "id": 3128,
-    "name": "The Ring",
-    "rus_name": "Звонок",
-    "url": "/mangas/3128-the-ring",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangahub"
-    ],
-    "last_change": "1646582400000"
-  },
-  {
-    "id": 14127,
-    "name": "Satougashi no Dangan wa Uchinukenai: A Lollypop or A Bullet",
-    "rus_name": "Леденец или пуля",
-    "url": "/mangas/14127-satougashi-no-dangan-wa-uchinukenai-a-lollypop-or-a-bullet",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610380800000"
-  },
-  {
-    "id": 100323,
-    "name": "Yuukoku no Moriarty",
-    "rus_name": "Патриотизм Мориарти",
-    "url": "/mangas/100323-yuukoku-no-moriarty",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610640000000"
-  },
-  {
-    "id": 97320,
-    "name": "Prison Lab",
-    "rus_name": "Тюремный эксперимент",
-    "url": "/mangas/97320-prison-lab",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629043200000"
-  },
-  {
-    "id": 94797,
-    "name": "Shounen Shoujo",
-    "rus_name": "Болезнь мальчика, болезнь девочки",
-    "url": "/mangas/94797-shounen-shoujo",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1614787200000"
-  },
-  {
-    "id": 8893,
-    "name": "Mouryou no Hako",
-    "rus_name": "Ящик нечисти",
-    "url": "/mangas/8893-mouryou-no-hako",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1619107200000"
-  },
-  {
-    "id": 1863,
-    "name": "Kamakiri",
-    "rus_name": "Камакири",
-    "url": "/mangas/1863-kamakiri",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 10169,
-    "name": "Maou: Juvenile Remix",
-    "rus_name": "Дьявол по делам несовершеннолетних.",
-    "url": "/mangas/10169-maou-juvenile-remix",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1581609600000"
-  },
-  {
-    "id": 5933,
-    "name": "Death Song",
-    "rus_name": "Смертельная песня",
-    "url": "/mangas/5933-death-song",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1555171200000"
-  },
-  {
-    "id": 6049,
-    "name": "Yellowbacks",
-    "rus_name": "Жёлтые спины",
-    "url": "/mangas/6049-yellowbacks",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 115987,
-    "name": "Yandere Shoujo ni Icha Love sarechau: Anthology Comic",
-    "rus_name": "",
-    "url": "/mangas/115987-yandere-shoujo-ni-icha-love-sarechau-anthology-comic",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1641139200000"
-  },
-  {
-    "id": 10118,
-    "name": "Roo no Oukoku",
-    "rus_name": "Королевство Ру",
-    "url": "/mangas/10118-roo-no-oukoku",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 98549,
-    "name": "Mayoiga: Tsumi to Batsu",
-    "rus_name": "Пристанище для потерянных: Преступление и наказание",
-    "url": "/mangas/98549-mayoiga-tsumi-to-batsu",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1647100800000"
-  },
-  {
-    "id": 2965,
-    "name": "Line",
-    "rus_name": "Путь",
-    "url": "/mangas/2965-line",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1643040000000"
-  },
-  {
-    "id": 133615,
-    "name": "Strangers from Hell",
-    "rus_name": "Незнакомцы из ада",
-    "url": "/mangas/133615-strangers-from-hell",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1643817600000"
-  },
-  {
-    "id": 1934,
-    "name": "Netsutai no Citron",
-    "rus_name": "Тропический цитрон",
-    "url": "/mangas/1934-netsutai-no-citron",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1616860800000"
-  },
-  {
-    "id": 15205,
-    "name": "Zetsuen no Tempest",
-    "rus_name": "Буря потерь",
-    "url": "/mangas/15205-zetsuen-no-tempest",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615132800000"
-  },
-  {
-    "id": 170,
-    "name": "Mondaiteiki Sakuhinshu",
-    "rus_name": "Конфиденциальные признания",
-    "url": "/mangas/170-mondaiteiki-sakuhinshu",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1605369600000"
-  },
-  {
-    "id": 116250,
-    "name": "Ai to Noroi",
-    "rus_name": "Любовь и проклятие",
-    "url": "/mangas/116250-ai-to-noroi",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1634140800000"
-  },
-  {
-    "id": 41925,
-    "name": "Nowhere Boy",
-    "rus_name": "Парень-никто",
-    "url": "/mangas/41925-nowhere-boy",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1608480000000"
-  },
-  {
-    "id": 41207,
-    "name": "Ginga Tetsudou no Yoru",
-    "rus_name": "Ночь на галактической железной дороге",
-    "url": "/mangas/41207-ginga-tetsudou-no-yoru",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1632240000000"
-  },
-  {
-    "id": 499,
-    "name": "Remote",
-    "rus_name": "На расстоянии",
-    "url": "/mangas/499-remote",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1636646400000"
-  },
-  {
-    "id": 75625,
-    "name": "Jigoku",
-    "rus_name": "Ад",
-    "url": "/mangas/75625-jigoku",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 122396,
-    "name": "Dareka wo Norowazu ni Irarenai Kono Sekai de",
-    "rus_name": "Не могу перестать проклинать тебя",
-    "url": "/mangas/122396-dareka-wo-norowazu-ni-irarenai-kono-sekai-de",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1630252800000"
-  },
-  {
-    "id": 122949,
-    "name": "Mizutamari ni Ukabu Shima",
-    "rus_name": "Остров, плавающий в луже",
-    "url": "/mangas/122949-mizutamari-ni-ukabu-shima",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib"
-    ],
-    "last_change": "1596124800000"
-  },
-  {
-    "id": 41211,
-    "name": "Ginga Tetsudou no Yoru",
-    "rus_name": "Ночь на Галактической железной дороге",
-    "url": "/mangas/41211-ginga-tetsudou-no-yoru",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 106160,
-    "name": "Tsuki ni Hoerannee",
-    "rus_name": "Почему бы не повыть на луну?",
-    "url": "/mangas/106160-tsuki-ni-hoerannee",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 123125,
-    "name": "Ijimeru Yabai Yatsu",
-    "rus_name": "Венера надевает на меня мех",
-    "url": "/mangas/123125-ijimeru-yabai-yatsu",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1634140800000"
-  },
-  {
-    "id": 124146,
-    "name": "Nare no Hate no Bokura",
-    "rus_name": "Вне добра и зла",
-    "url": "/mangas/124146-nare-no-hate-no-bokura",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1627488000000"
-  },
-  {
-    "id": 59299,
-    "name": "Sekai Oni",
-    "rus_name": "Мир демонов",
-    "url": "/mangas/59299-sekai-oni",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1596211200000"
-  },
-  {
-    "id": 47332,
-    "name": "Ousama Game: Shuukyoku",
-    "rus_name": "Королевская игра: Финал",
-    "url": "/mangas/47332-ousama-game-shuukyoku",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1628956800000"
-  },
-  {
-    "id": 33687,
-    "name": "Fraction",
-    "rus_name": "Дробь",
-    "url": "/mangas/33687-fraction",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 138325,
-    "name": "Nineteen",
-    "rus_name": "Девятнадцать",
-    "url": "/mangas/138325-nineteen",
-    "last_change": "",
-    "links": [
-      "myanimelist"
-    ]
-  },
-  {
-    "id": 11229,
-    "name": "Ai to Yokubou no Rasen",
-    "rus_name": "",
-    "url": "/mangas/11229-ai-to-yokubou-no-rasen",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 7558,
-    "name": "Iguana no Musume",
-    "rus_name": "Дочь игуаны",
-    "url": "/mangas/7558-iguana-no-musume",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1641312000000"
-  },
-  {
-    "id": 51527,
-    "name": "Yume Nikki",
-    "rus_name": "Дневник сновидений",
-    "url": "/mangas/51527-yume-nikki",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629648000000"
-  },
-  {
-    "id": 65685,
-    "name": "Real Account",
-    "rus_name": "Реальный аккаунт",
-    "url": "/mangas/65685-real-account",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1592409600000"
-  },
-  {
-    "id": 44755,
-    "name": "Ito Junji Kyoufu Manga Collection - Kubi Gensou",
-    "rus_name": "Галлюцинации",
-    "url": "/mangas/44755-ito-junji-kyoufu-manga-collection-kubi-gensou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1632240000000"
-  },
-  {
-    "id": 15547,
-    "name": "Kiichi VS",
-    "rus_name": "Киити против",
-    "url": "/mangas/15547-kiichi-vs",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1648569600000"
-  },
-  {
-    "id": 5674,
-    "name": "Negative Happy Chainsaw Edge",
-    "rus_name": "Счастья нет, но есть пила",
-    "url": "/mangas/5674-negative-happy-chainsaw-edge",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610640000000"
-  },
-  {
-    "id": 16136,
-    "name": "Kanojo ga Tonda Hi",
-    "rus_name": "День, когда она прыгнула",
-    "url": "/mangas/16136-kanojo-ga-tonda-hi",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 965,
-    "name": "Alive",
-    "rus_name": "Живой",
-    "url": "/mangas/965-alive",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1603728000000"
-  },
-  {
-    "id": 42643,
-    "name": "Bio Hunter",
-    "rus_name": "Био-охотник",
-    "url": "/mangas/42643-bio-hunter",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": "1513267200000"
-  },
-  {
-    "id": 67121,
-    "name": "Ousama Game: Kigen",
-    "rus_name": "Королевская игра: Истоки",
-    "url": "/mangas/67121-ousama-game-kigen",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1604851200000"
-  },
-  {
-    "id": 40181,
-    "name": "Chijou 10 Meters no Ori kara",
-    "rus_name": "Запертый в десяти метрах над землёй",
-    "url": "/mangas/40181-chijou-10-meters-no-ori-kara",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 31311,
-    "name": "Grasshopper",
-    "rus_name": "",
-    "url": "/mangas/31311-grasshopper",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 2177,
-    "name": "Battle Royale II: Blitz Royale",
-    "rus_name": "Королевская битва 2: Королевский блицкриг",
-    "url": "/mangas/2177-battle-royale-ii-blitz-royale",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1586534400000"
-  },
-  {
-    "id": 94351,
-    "name": "Youkai Ningen",
-    "rus_name": "Расплавление человека",
-    "url": "/mangas/94351-youkai-ningen",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 15980,
-    "name": "Heibon Ponch",
-    "rus_name": "",
-    "url": "/mangas/15980-heibon-ponch",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1646668800000"
-  },
-  {
-    "id": 40345,
-    "name": "Dr. Frost",
-    "rus_name": "Доктор Фрост",
-    "url": "/mangas/40345-dr-frost",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615996800000"
-  },
-  {
-    "id": 40711,
-    "name": "Embryo",
-    "rus_name": "Эмбрион",
-    "url": "/mangas/40711-embryo",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1622995200000"
-  },
-  {
-    "id": 27963,
-    "name": "Corpse Party: Another Child",
-    "rus_name": "Вечеринка мертвецов: Другой ребёнок",
-    "url": "/mangas/27963-corpse-party-another-child",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1637769600000"
-  },
-  {
-    "id": 7404,
-    "name": "Panorama of Hell",
-    "rus_name": "Панорама ада",
-    "url": "/mangas/7404-panorama-of-hell",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1609603200000"
-  },
-  {
-    "id": 1257,
-    "name": "Higurashi no Naku Koro ni: Onikakushi-hen",
-    "rus_name": "Когда плачут цикады: Глава о похищенных демоном",
-    "url": "/mangas/z1257-higurashi-no-naku-koro-ni-onikakushi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611417600000"
-  },
-  {
-    "id": 1258,
-    "name": "Higurashi no Naku Koro ni: Watanagashi-hen",
-    "rus_name": "Когда плачут цикады: Глава о хлопковых корабликах",
-    "url": "/mangas/z1258-higurashi-no-naku-koro-ni-watanagashi-hen",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1627920000000"
-  },
-  {
-    "id": 68785,
-    "name": "Hitsuji no Ki",
-    "rus_name": "Овечье дерево",
-    "url": "/mangas/68785-hitsuji-no-ki",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 40715,
-    "name": "Mou Tamago wa Korosanai",
-    "rus_name": "Больше не убивайте яйца",
-    "url": "/mangas/40715-mou-tamago-wa-korosanai",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1594224000000"
-  },
-  {
-    "id": 21019,
-    "name": "Ibitsu",
-    "rus_name": "Искажение",
-    "url": "/mangas/21019-ibitsu",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1646409600000"
-  },
-  {
-    "id": 2426,
-    "name": "The Ring 4: Birthday",
-    "rus_name": "Звонок 4: День рождения",
-    "url": "/mangas/2426-the-ring-4-birthday",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1646496000000"
-  },
-  {
-    "id": 11952,
-    "name": "Satanister",
-    "rus_name": "Сестра Сатаны",
-    "url": "/mangas/11952-satanister",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646496000000"
-  },
-  {
-    "id": 94863,
-    "name": "Boku Mushi",
-    "rus_name": "Аз-Жук",
-    "url": "/mangas/94863-boku-mushi",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 68721,
-    "name": "Shounen Y",
-    "rus_name": "Парень Y",
-    "url": "/mangas/68721-shounen-y",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1577116800000"
-  },
-  {
-    "id": 44745,
-    "name": "Ito Junji Kyoufu Manga Collection - Kao Dorobou",
-    "rus_name": "Похититель лиц",
-    "url": "/mangas/44745-ito-junji-kyoufu-manga-collection-kao-dorobou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "readmanga",
-      "readmanga",
-      "readmanga",
-      "readmanga",
-      "readmanga",
-      "mangalib",
-      "mangalib",
-      "mangalib",
-      "mangalib",
-      "mangalib",
-      "mangalib",
-      "remanga",
-      "remanga",
-      "remanga",
-      "remanga",
-      "remanga",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangadex",
-      "mangafox",
-      "mangafox",
-      "mangafox",
-      "mangafox",
-      "mangafox",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615824000000"
-  },
-  {
-    "id": 118195,
-    "name": "Home Room",
-    "rus_name": "Классная комната",
-    "url": "/mangas/118195-home-room",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1643558400000"
-  },
-  {
-    "id": 9152,
-    "name": "Thomas no Shinzou",
-    "rus_name": "Сердце Томаса",
-    "url": "/mangas/9152-thomas-no-shinzou",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1614268800000"
-  },
-  {
-    "id": 69825,
-    "name": "Kankin Tantei",
-    "rus_name": "",
-    "url": "/mangas/69825-kankin-tantei",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1641398400000"
-  },
-  {
-    "id": 39331,
-    "name": "Anata no Mune ni Kaeru Hi made",
-    "rus_name": "Прежде чем я вернусь в твоё сердце",
-    "url": "/mangas/39331-anata-no-mune-ni-kaeru-hi-made",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1578067200000"
-  },
-  {
-    "id": 33113,
-    "name": "B.A.D.",
-    "rus_name": "За пределами иной тьмы",
-    "url": "/mangas/33113-b-a-d",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1580918400000"
-  },
-  {
-    "id": 5767,
-    "name": "The Flowers of Evil",
-    "rus_name": "Цветы зла",
-    "url": "/mangas/5767-the-flowers-of-evil",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615996800000"
-  },
-  {
-    "id": 5090,
-    "name": "Dear Friends: Rina & Maki",
-    "rus_name": "Дорогие друзья",
-    "url": "/mangas/5090-dear-friends-rina-maki",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1607702400000"
-  },
-  {
-    "id": 128332,
-    "name": "Satsushobun Idol!",
-    "rus_name": "Убийство идола!",
-    "url": "/mangas/128332-satsushobun-idol",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 1410,
-    "name": "Apollo no Uta",
-    "rus_name": "Песнь Аполлона",
-    "url": "/mangas/1410-apollo-no-uta",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1615824000000"
-  },
-  {
-    "id": 118873,
-    "name": "Asper Kanojo",
-    "rus_name": "Девушка с синдромом Аспергера",
-    "url": "/mangas/118873-asper-kanojo",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1640448000000"
-  },
-  {
-    "id": 110834,
-    "name": "Star Strings yori",
-    "rus_name": "Звёздные нити",
-    "url": "/mangas/110834-star-strings-yori",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1608393600000"
-  },
-  {
-    "id": 13881,
-    "name": "Shibou to Iu Na no Fuku wo Kite",
-    "rus_name": "В одежде, именуемой полнотой",
-    "url": "/mangas/13881-shibou-to-iu-na-no-fuku-wo-kite",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1612713600000"
-  },
-  {
-    "id": 93180,
-    "name": "Platinum End",
-    "rus_name": "Платиновый предел",
-    "url": "/mangas/93180-platinum-end",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1603814400000"
-  },
-  {
-    "id": 1514,
-    "name": "Nozokiya",
-    "rus_name": "Вуайерист",
-    "url": "/mangas/1514-nozokiya",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1636646400000"
-  },
-  {
-    "id": 139863,
-    "name": "Kimi no Tonari",
-    "rus_name": "",
-    "url": "/mangas/139863-kimi-no-tonari",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 1427,
-    "name": "Vendemiaire no Tsubasa",
-    "rus_name": "Крылья Вандемьера",
-    "url": "/mangas/1427-vendemiaire-no-tsubasa",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1645545600000"
-  },
-  {
-    "id": 42203,
-    "name": "Paperweight Eye",
-    "rus_name": "Глаз Пресс-Папье",
-    "url": "/mangas/42203-paperweight-eye",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangahub"
-    ],
-    "last_change": "1600617600000"
-  },
-  {
-    "id": 1536,
-    "name": "Zetsuai 1989",
-    "rus_name": "Одержимость - 1989",
-    "url": "/mangas/1536-zetsuai-1989",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1636300800000"
-  },
-  {
-    "id": 1481,
-    "name": "Dark Edge",
-    "rus_name": "Тёмная грань",
-    "url": "/mangas/1481-dark-edge",
-    "links": [
-      "official_site",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1602000000000"
-  },
-  {
-    "id": 1677,
-    "name": "MW",
-    "rus_name": "МВ",
-    "url": "/mangas/1677-mw",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1615824000000"
-  },
-  {
-    "id": 27161,
-    "name": "Shade",
-    "rus_name": "Тень",
-    "url": "/mangas/27161-shade",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1547654400000"
-  },
-  {
-    "id": 92160,
-    "name": "Happy Sugar Life",
-    "rus_name": "Сладкая жизнь",
-    "url": "/mangas/92160-happy-sugar-life",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1605283200000"
-  },
-  {
-    "id": 3579,
-    "name": "Mashounen B.T.",
-    "rus_name": "Демонический мальчик Б.Т.",
-    "url": "/mangas/3579-mashounen-b-t",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600876800000"
-  },
-  {
-    "id": 19538,
-    "name": "Alice",
-    "rus_name": "Алиса",
-    "url": "/mangas/19538-alice",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1502035200000"
-  },
-  {
-    "id": 3272,
-    "name": "Honogurai Mizu no Soko kara",
-    "rus_name": "Тёмная вода",
-    "url": "/mangas/3272-honogurai-mizu-no-soko-kara",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608825600000"
-  },
-  {
-    "id": 103814,
-    "name": "Ikenie Touhyou",
-    "rus_name": "Жертвенное голосование",
-    "url": "/mangas/103814-ikenie-touhyou",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1633536000000"
-  },
-  {
-    "id": 1616,
-    "name": "Teruteru x Shounen",
-    "rus_name": "Мальчик и Тэру-Тэру",
-    "url": "/mangas/1616-teruteru-x-shounen",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 9244,
-    "name": "Yami wa Tsudou",
-    "rus_name": "Собрание тьмы",
-    "url": "/mangas/9244-yami-wa-tsudou",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 1671,
-    "name": "Believers",
-    "rus_name": "Верующие",
-    "url": "/mangas/1671-believers",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1616169600000"
-  },
-  {
-    "id": 69407,
-    "name": "Secret",
-    "rus_name": "Секрет",
-    "url": "/mangas/69407-secret",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1612195200000"
-  },
-  {
-    "id": 111403,
-    "name": "Pumpkin Night",
-    "rus_name": "Тыквенная ночь",
-    "url": "/mangas/111403-pumpkin-night",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 9548,
-    "name": "Higurashi no Naku Koro ni Kai: Minagoroshi-hen",
-    "rus_name": "Когда плачут цикады: Глава о резне",
-    "url": "/mangas/z9548-higurashi-no-naku-koro-ni-kai-minagoroshi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 9547,
-    "name": "Umineko no Naku Koro ni - Episode 2: Turn of the Golden Witch",
-    "rus_name": "Когда плачут чайки 2: Дебют Золотой Ведьмы",
-    "url": "/mangas/9547-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 5802,
-    "name": "Lost+Brain",
-    "rus_name": "Потерянный разум",
-    "url": "/mangas/5802-lost-brain",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1521648000000"
-  },
-  {
-    "id": 3243,
-    "name": "Jigoku Shoujo",
-    "rus_name": "Адская девочка",
-    "url": "/mangas/3243-jigoku-shoujo",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608220800000"
-  },
-  {
-    "id": 91403,
-    "name": "Seishin Bunseki Nyuumon Yumehandan",
-    "rus_name": "Введение в психоанализ. Толкование сновидений",
-    "url": "/mangas/91403-seishin-bunseki-nyuumon-yumehandan",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 528,
-    "name": "Skull Man",
-    "rus_name": "Человек-череп",
-    "url": "/mangas/528-skull-man",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1612713600000"
-  },
-  {
-    "id": 7482,
-    "name": "Rainbow: Nisha Rokubou no Shichinin",
-    "rus_name": "Радуга: Семеро из шестой камеры второго блока",
-    "url": "/mangas/7482-rainbow-nisha-rokubou-no-shichinin",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1642953600000"
-  },
-  {
-    "id": 106199,
-    "name": "Tantei no Tantei",
-    "rus_name": "Детектив против детективов",
-    "url": "/mangas/106199-tantei-no-tantei",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1597161600000"
-  },
-  {
-    "id": 3961,
-    "name": "Deep Love: Real",
-    "rus_name": "Сильная любовь: Реальность",
-    "url": "/mangas/3961-deep-love-real",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635004800000"
-  },
-  {
-    "id": 22031,
-    "name": "ənígmə",
-    "rus_name": "Энигма",
-    "url": "/mangas/22031-n-gm",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1578844800000"
-  },
-  {
-    "id": 1479,
-    "name": "Blue Heaven",
-    "rus_name": "Лазурные небеса",
-    "url": "/mangas/1479-blue-heaven",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1624032000000"
-  },
-  {
-    "id": 18977,
-    "name": "Kimi ga Uso wo Tsuita",
-    "rus_name": "Ты лжёшь",
-    "url": "/mangas/18977-kimi-ga-uso-wo-tsuita",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1619625600000"
-  },
-  {
-    "id": 10552,
-    "name": "Hoshi no Samidare",
-    "rus_name": "Люцифер и Бисквитный Молот",
-    "url": "/mangas/10552-hoshi-no-samidare",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1643385600000"
-  },
-  {
-    "id": 30139,
-    "name": "Hinamizawa Teiryuujo: Higurashi no Naku Koro ni Genten",
-    "rus_name": "Остановка Хинамидзава",
-    "url": "/mangas/30139-hinamizawa-teiryuujo-higurashi-no-naku-koro-ni-genten",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635004800000"
-  },
-  {
-    "id": 92158,
-    "name": "ChaoS;Child",
-    "rus_name": "Дитя хаоса",
-    "url": "/mangas/92158-chaos-child",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1619625600000"
-  },
-  {
-    "id": 3232,
-    "name": "Book Club",
-    "rus_name": "Книжный клуб",
-    "url": "/mangas/3232-book-club",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608480000000"
-  },
-  {
-    "id": 134593,
-    "name": "340 Days",
-    "rus_name": "Триста сорок дней",
-    "url": "/mangas/134593-340-days",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1647014400000"
-  },
-  {
-    "id": 18228,
-    "name": "Tsumi to Batsu",
-    "rus_name": "Преступление и наказание",
-    "url": "/mangas/18228-tsumi-to-batsu",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": "1632240000000"
-  },
-  {
-    "id": 44757,
-    "name": "Ito Junji Kyoufu Manga Collection - Ayatsuri no Yashiki",
-    "rus_name": "Дом марионеток",
-    "url": "/mangas/44757-ito-junji-kyoufu-manga-collection-ayatsuri-no-yashiki",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 118763,
-    "name": "Shizumare! Vincent",
-    "rus_name": "",
-    "url": "/mangas/118763-shizumare-vincent",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 9147,
-    "name": "Banana Bread no Pudding",
-    "rus_name": "Пудинг из бананового хлеба",
-    "url": "/mangas/9147-banana-bread-no-pudding",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1594310400000"
-  },
-  {
-    "id": 115745,
-    "name": "Boku wa Doko kara",
-    "rus_name": "Откуда я?",
-    "url": "/mangas/115745-boku-wa-doko-kara",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1628784000000"
-  },
-  {
-    "id": 20756,
-    "name": "Tsumitsuki",
-    "rus_name": "Цумицуки",
-    "url": "/mangas/20756-tsumitsuki",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610208000000"
-  },
-  {
-    "id": 44761,
-    "name": "Ito Junji Kyoufu Manga Collection - Ijimetsu Musume",
-    "rus_name": "Хулиганка",
-    "url": "/mangas/44761-ito-junji-kyoufu-manga-collection-ijimetsu-musume",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 10318,
-    "name": "C.M.B. Shinra Hakubutsukan no Jiken Mokuroku",
-    "rus_name": "C.M.B.: Кольца Волхвов",
-    "url": "/mangas/10318-c-m-b-shinra-hakubutsukan-no-jiken-mokuroku",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 97244,
-    "name": "Shimanami Tasogare",
-    "rus_name": "Сумеречные убеждения",
-    "url": "/mangas/97244-shimanami-tasogare",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608652800000"
-  },
-  {
-    "id": 33031,
-    "name": "Imawa no Kuni no Alice",
-    "rus_name": "Алиса в Пограничье",
-    "url": "/mangas/33031-imawa-no-kuni-no-alice",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608480000000"
-  },
-  {
-    "id": 44749,
-    "name": "Ito Junji Kyoufu Manga Collection - Souichi no Noroi Nikki",
-    "rus_name": "Дневник проклятий Соити",
-    "url": "/mangas/44749-ito-junji-kyoufu-manga-collection-souichi-no-noroi-nikki",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 4286,
-    "name": "Astral Project: Tsuki no Hikari",
-    "rus_name": "Астральный проект \"Лунный Свет\"",
-    "url": "/mangas/4286-astral-project-tsuki-no-hikari",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1596988800000"
-  },
-  {
-    "id": 110072,
-    "name": "From End: Jiyuu to Iu Na no Mousou to Satsui",
-    "rus_name": "Со дна",
-    "url": "/mangas/110072-from-end-jiyuu-to-iu-na-no-mousou-to-satsui",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1563811200000"
-  },
-  {
-    "id": 8356,
-    "name": "Memai",
-    "rus_name": "Головокружение",
-    "url": "/mangas/8356-memai",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1636819200000"
-  },
-  {
-    "id": 8593,
-    "name": "Yamikin Ushijima-kun",
-    "rus_name": "Ростовщик Усидзима",
-    "url": "/mangas/8593-yamikin-ushijima-kun",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1627920000000"
-  },
-  {
-    "id": 23805,
-    "name": "Bokura no☆Hikari Club",
-    "rus_name": "Наш клуб Хикари",
-    "url": "/mangas/23805-bokura-no-hikari-club",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 14897,
-    "name": "Oyayubisagashi",
-    "rus_name": "Охота за пальцем",
-    "url": "/mangas/14897-oyayubisagashi",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates"
-    ],
-    "last_change": "1606752000000"
-  },
-  {
-    "id": 9099,
-    "name": "Yume no Soko",
-    "rus_name": "Дно грёз",
-    "url": "/mangas/9099-yume-no-soko",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 9286,
-    "name": "Nanatsu no Umi Nanatsu no Sora",
-    "rus_name": "Семь морей, семь небес",
-    "url": "/mangas/9286-nanatsu-no-umi-nanatsu-no-sora",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 407,
-    "name": "Life",
-    "rus_name": "Жизнь",
-    "url": "/mangas/407-life",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1631808000000"
-  },
-  {
-    "id": 5709,
-    "name": "Litchi☆Hikari Club",
-    "rus_name": "Клуб Личи Хикари",
-    "url": "/mangas/5709-litchi-hikari-club",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 8935,
-    "name": "Otodama",
-    "rus_name": "Призрачные звуки",
-    "url": "/mangas/8935-otodama",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1581609600000"
-  },
-  {
-    "id": 17362,
-    "name": "Toriniku Club",
-    "rus_name": "Куриный клуб",
-    "url": "/mangas/17362-toriniku-club",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1600272000000"
-  },
-  {
-    "id": 10443,
-    "name": "Bakuon Rettou",
-    "rus_name": "Ревущий остров",
-    "url": "/mangas/10443-bakuon-rettou",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1629216000000"
-  },
-  {
-    "id": 1260,
-    "name": "Higurashi no Naku Koro ni: Tatarigoroshi-hen",
-    "rus_name": "Когда плачут цикады: Глава о смертельном проклятии",
-    "url": "/mangas/z1260-higurashi-no-naku-koro-ni-tatarigoroshi-hen",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610726400000"
-  },
-  {
-    "id": 131682,
-    "name": "Furinjima",
-    "rus_name": "Остров безнравственности",
-    "url": "/mangas/131682-furinjima",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 7165,
-    "name": "Knife",
-    "rus_name": "Нож",
-    "url": "/mangas/7165-knife",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1598457600000"
-  },
-  {
-    "id": 8359,
-    "name": "Yellow Heart",
-    "rus_name": "Жёлтое сердце",
-    "url": "/mangas/8359-yellow-heart",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1629129600000"
-  },
-  {
-    "id": 44767,
-    "name": "Itou Junji Kyoufu Manga Collection 15: Hibito no Koiwazurai",
-    "rus_name": "Красавчик с перекрёстка",
-    "url": "/mangas/44767-itou-junji-kyoufu-manga-collection-15-hibito-no-koiwazurai",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 8540,
-    "name": "Night Head Genesis",
-    "rus_name": "Сумеречный разум: Рождение",
-    "url": "/mangas/8540-night-head-genesis",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1576425600000"
-  },
-  {
-    "id": 8652,
-    "name": "Zankoku na Kami ga Shihai suru",
-    "rus_name": "Господство жестокого бога",
-    "url": "/mangas/8652-zankoku-na-kami-ga-shihai-suru",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1613232000000"
-  },
-  {
-    "id": 1026,
-    "name": "Koukaku Kidoutai 2: Manmachine Interface",
-    "rus_name": "Призрак в доспехах 2: Человеко-машинный интерфейс",
-    "url": "/mangas/1026-koukaku-kidoutai-2-manmachine-interface",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1614096000000"
-  },
-  {
-    "id": 41209,
-    "name": "Ginga Tetsudou no Yoru",
-    "rus_name": "Ночь на Галактической железной дороге",
-    "url": "/mangas/41209-ginga-tetsudou-no-yoru",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 10141,
-    "name": "Hakuji",
-    "rus_name": "Белый фарфор",
-    "url": "/mangas/10141-hakuji",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1624896000000"
-  },
-  {
-    "id": 42005,
-    "name": "Torikago no Tsugai",
-    "rus_name": "Запертые в клетке",
-    "url": "/mangas/42005-torikago-no-tsugai",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1592496000000"
-  },
-  {
-    "id": 4743,
-    "name": "Die",
-    "rus_name": "Умри",
-    "url": "/mangas/4743-die",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1632844800000"
-  },
-  {
-    "id": 132552,
-    "name": "Taste of Illness",
-    "rus_name": "Болезнь",
-    "url": "/mangas/132552-taste-of-illness",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates"
-    ],
-    "last_change": "1621267200000"
-  },
-  {
-    "id": 7006,
-    "name": "Megumi",
-    "rus_name": "Мэгуми",
-    "url": "/mangas/7006-megumi",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 18570,
-    "name": "Ultra Heaven",
-    "rus_name": "Ультрарай",
-    "url": "/mangas/18570-ultra-heaven",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1613232000000"
-  },
-  {
-    "id": 137838,
-    "name": "Casino-gui",
-    "rus_name": "",
-    "url": "/mangas/137838-casino-gui",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1632067200000"
-  },
-  {
-    "id": 144445,
-    "name": "Gozen 2-ji made Kimi no Mono",
-    "rus_name": "Он твой до двух часов ночи",
-    "url": "/mangas/144445-gozen-2-ji-made-kimi-no-mono",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1645891200000"
-  },
-  {
-    "id": 127244,
-    "name": "Ijimeru Aitsu ga Warui no ka, Ijimerareta Boku ga Warui no ka?",
-    "rus_name": "Кем быть хуже: задирой или тем, кого задирают?",
-    "url": "/mangas/127244-ijimeru-aitsu-ga-warui-no-ka-ijimerareta-boku-ga-warui-no-ka",
-    "last_change": "1627056000000",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ]
-  },
-  {
-    "id": 108722,
-    "name": "\"Tissue.\"",
-    "rus_name": "",
-    "url": "/mangas/108722-tissue",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1637856000000"
-  },
-  {
-    "id": 3,
-    "name": "20th Century Boys",
-    "rus_name": "Мальчишки двадцатого века",
-    "url": "/mangas/3-20th-century-boys",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 9004,
-    "name": "Kono Yo no Owari e no Tabi",
-    "rus_name": "Путешествие на край мира",
-    "url": "/mangas/9004-kono-yo-no-owari-e-no-tabi",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 393,
-    "name": "Kindaichi Shounen no Jikenbo: File Series",
-    "rus_name": "Дело ведёт юный детектив Киндаити",
-    "url": "/mangas/393-kindaichi-shounen-no-jikenbo-file-series",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629648000000"
-  },
-  {
-    "id": 8539,
-    "name": "Night Head",
-    "rus_name": "Сумеречный разум",
-    "url": "/mangas/8539-night-head",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1576425600000"
-  },
-  {
-    "id": 127039,
-    "name": "Great Pretender",
-    "rus_name": "Великий притворщик",
-    "url": "/mangas/127039-great-pretender",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1634486400000"
-  },
-  {
-    "id": 527,
-    "name": "Shuuseki Kairo no Himawari",
-    "rus_name": "Интегральная схема подсолнуха",
-    "url": "/mangas/527-shuuseki-kairo-no-himawari",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1644336000000"
-  },
-  {
-    "id": 2957,
-    "name": "Mizu no Yakata",
-    "rus_name": "Водный особняк",
-    "url": "/mangas/2957-mizu-no-yakata",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1584201600000"
-  },
-  {
-    "id": 3131,
-    "name": "The Ring 0: Birthday",
-    "rus_name": "Звонок 0: Рождение",
-    "url": "/mangas/3131-the-ring-0-birthday",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1646496000000"
-  },
-  {
-    "id": 2436,
-    "name": "Hotel",
-    "rus_name": "Отель",
-    "url": "/mangas/2436-hotel",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 10891,
-    "name": "Hanzai Koushounin",
-    "rus_name": "Переговорщик Эйтаро Минэгиси",
-    "url": "/mangas/10891-hanzai-koushounin",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 16256,
-    "name": "Koharu no Hibi",
-    "rus_name": "Дни Кохару",
-    "url": "/mangas/16256-koharu-no-hibi",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1618329600000"
-  },
-  {
-    "id": 23337,
-    "name": "Ultrabaroque Deprogrammer",
-    "rus_name": "Ультра программист Барокко-де",
-    "url": "/mangas/23337-ultrabaroque-deprogrammer",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1641916800000"
-  },
-  {
-    "id": 31437,
-    "name": "Toukei Ibun",
-    "rus_name": "Городские легенды Токио",
-    "url": "/mangas/31437-toukei-ibun",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 9280,
-    "name": "Wata no Kuni Hoshi",
-    "rus_name": "Звезда Пушистландии",
-    "url": "/mangas/9280-wata-no-kuni-hoshi",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1632153600000"
-  },
-  {
-    "id": 141028,
-    "name": "End Roll Back",
-    "rus_name": "Конец отката",
-    "url": "/mangas/141028-end-roll-back",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1640361600000"
-  },
-  {
-    "id": 139937,
-    "name": "Tsurenai hodo Aokute Azatoi kurai ni Akai",
-    "rus_name": "Холодно-синий и коварно-красный",
-    "url": "/mangas/139937-tsurenai-hodo-aokute-azatoi-kurai-ni-akai",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1640620800000"
-  },
-  {
-    "id": 89398,
-    "name": "Shiki",
-    "rus_name": "Четыре времени года",
-    "url": "/mangas/89398-shiki",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": "1565625600000"
-  },
-  {
-    "id": 17915,
-    "name": "Judge",
-    "rus_name": "Осуждение",
-    "url": "/mangas/17915-judge",
-    "links": [
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -5683,50 +714,372 @@ let manga = [
     "last_change": "1624982400000"
   },
   {
-    "id": 132108,
-    "name": "Shika no Sono: Kamimura Kazuo Eros Kessakusen Volume 1",
-    "rus_name": "",
-    "url": "/mangas/132108-shika-no-sono-kamimura-kazuo-eros-kessakusen-volume-1",
+    "id": 1706,
+    "name": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+    "rus_name": "Невероятное приключение ДжоДжо — Часть 7: Гонка «Стальной шар»",
+    "url": "/mangas/1706-jojo-no-kimyou-na-bouken-part-7-steel-ball-run",
     "links": [
       "official_site",
-      "myanimelist"
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "remanga",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangadex",
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": ""
+    "last_change": "1625155200000"
   },
   {
-    "id": 2894,
-    "name": "Watashi no... Megane-kun",
-    "rus_name": "Мой парень... очкарик!",
-    "url": "/mangas/2894-watashi-no-megane-kun",
+    "id": 4628,
+    "name": "Shin Yami no Koe: Kaidan",
+    "rus_name": "Новые голоса в темноте",
+    "url": "/mangas/4628-shin-yami-no-koe-kaidan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610035200000"
+  },
+  {
+    "id": 102750,
+    "name": "Yami ni Hau Mono",
+    "rus_name": "Призрак тьмы и другие рассказы",
+    "url": "/mangas/102750-yami-ni-hau-mono",
     "links": [
       "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1609171200000"
+  },
+  {
+    "id": 24457,
+    "name": "Mahou Shoujo Madoka★Magica",
+    "rus_name": "Девочка-волшебница Мадока★Волшебство",
+    "url": "/mangas/24457-mahou-shoujo-madoka-magica",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1613491200000"
+  },
+  {
+    "id": 139457,
+    "name": "Fushi to Batsu",
+    "rus_name": "Бессмертие и наказание",
+    "url": "/mangas/139457-fushi-to-batsu",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangadex"
+    ],
+    "last_change": "1639065600000"
+  },
+  {
+    "id": 101558,
+    "name": "Shibuya Kingyo",
+    "rus_name": "Золотая рыбка из Сибуи",
+    "url": "/mangas/101558-shibuya-kingyo",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1609862400000"
+  },
+  {
+    "id": 90601,
+    "name": "Corpse Party",
+    "rus_name": "Вечеринка мертвецов",
+    "url": "/mangas/90601-corpse-party",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1637856000000"
+  },
+  {
+    "id": 91047,
+    "name": "Shingeki no Kyojin: Lost Girls",
+    "rus_name": "Атака титанов: Потерянные девушки",
+    "url": "/mangas/91047-shingeki-no-kyojin-lost-girls",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1620835200000"
+  },
+  {
+    "id": 145988,
+    "name": "Akago Higan",
+    "rus_name": "",
+    "url": "/mangas/145988-akago-higan",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1649952000000"
+  },
+  {
+    "id": 1133,
+    "name": "Dorohedoro",
+    "rus_name": "Дорохедоро",
+    "url": "/mangas/1133-dorohedoro",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1641916800000"
+  },
+  {
+    "id": 583,
+    "name": "Claymore",
+    "rus_name": "Клеймор",
+    "url": "/mangas/583-claymore",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1615219200000"
+  },
+  {
+    "id": 63845,
+    "name": "Tenkuu Shinpan",
+    "rus_name": "Небесное вторжение",
+    "url": "/mangas/63845-tenkuu-shinpan",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1612540800000"
+  },
+  {
+    "id": 36205,
+    "name": "Hiiro no Marionetta",
+    "rus_name": "Алая марионетка",
+    "url": "/mangas/36205-hiiro-no-marionetta",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610726400000"
+  },
+  {
+    "id": 91871,
+    "name": "Kasouba no Nai Machi ni Kane ga Naru Toki",
+    "rus_name": "Когда колокол звенит в городишке без крематория",
+    "url": "/mangas/91871-kasouba-no-nai-machi-ni-kane-ga-naru-toki",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1587312000000"
+  },
+  {
+    "id": 92726,
+    "name": "Iwaihime",
+    "rus_name": "Желание девы",
+    "url": "/mangas/92726-iwaihime",
+    "links": [
+      "official_site",
       "myanimelist",
       "readmanga"
     ],
     "last_change": ""
   },
   {
-    "id": 104960,
-    "name": "Inochi wo Waketa Kimi to, Jinsei Saigo no Yume wo Miru",
-    "rus_name": "Моя последняя мечта — прожить жизнь рядом с тобой",
-    "url": "/mangas/104960-inochi-wo-waketa-kimi-to-jinsei-saigo-no-yume-wo-miru",
+    "id": 101386,
+    "name": "Kyouki no Sanmyaku nite",
+    "rus_name": "Хребты безумия",
+    "url": "/mangas/101386-kyouki-no-sanmyaku-nite",
     "links": [
-      "official_site",
+      "anime_news_network",
       "myanimelist",
       "mangaupdates",
       "mangadex",
       "mangafox"
     ],
-    "last_change": "1640707200000"
+    "last_change": "1609171200000"
   },
   {
-    "id": 3120,
-    "name": "Kakutoshi no Yume",
-    "rus_name": "Мечты города Шелл",
-    "url": "/mangas/3120-kakutoshi-no-yume",
+    "id": 146011,
+    "name": "Yami Ihon",
+    "rus_name": "Тёмная книга",
+    "url": "/mangas/146011-yami-ihon",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1650038400000"
+  },
+  {
+    "id": 436,
+    "name": "Uzumaki",
+    "rus_name": "Спираль",
+    "url": "/mangas/436-uzumaki",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610035200000"
+  },
+  {
+    "id": 1409,
+    "name": "Biomega",
+    "rus_name": "БиоМега",
+    "url": "/mangas/1409-biomega",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1623600000000"
+  },
+  {
+    "id": 19844,
+    "name": "Mouryou no Yurikago",
+    "rus_name": "Колыбель монстров",
+    "url": "/mangas/19844-mouryou-no-yurikago",
     "links": [
       "anime_news_network",
       "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1604073600000"
+  },
+  {
+    "id": 105541,
+    "name": "Shokuryou Jinrui",
+    "rus_name": "Человечество на закуску",
+    "url": "/mangas/105541-shokuryou-jinrui",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1609344000000"
+  },
+  {
+    "id": 12549,
+    "name": "Fourteen",
+    "rus_name": "Четырнадцать",
+    "url": "/mangas/12549-fourteen",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
       "mangaupdates",
       "mangadex",
       "mangafox"
@@ -5734,93 +1087,30 @@ let manga = [
     "last_change": "1645545600000"
   },
   {
-    "id": 24557,
-    "name": "Inochi",
-    "rus_name": "Жизнь",
-    "url": "/mangas/24557-inochi",
+    "id": 78943,
+    "name": "Dead Tube",
+    "rus_name": "Смертельная съёмка",
+    "url": "/mangas/78943-dead-tube",
     "links": [
+      "wikipedia",
+      "wikipedia",
       "myanimelist",
       "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
+      "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1603382400000"
+    "last_change": "1627660800000"
   },
   {
-    "id": 26260,
-    "name": "Bloody Monday: Last Season",
-    "rus_name": "Кровавый понедельник: Последний сезон",
-    "url": "/mangas/26260-bloody-monday-last-season",
+    "id": 45721,
+    "name": "Misumisou",
+    "rus_name": "Перелеска",
+    "url": "/mangas/45721-misumisou",
     "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates"
-    ],
-    "last_change": "1520956800000"
-  },
-  {
-    "id": 122932,
-    "name": "Life Game",
-    "rus_name": "Игра на жизнь",
-    "url": "/mangas/122932-life-game",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1632412800000"
-  },
-  {
-    "id": 102674,
-    "name": "Tonarimachi no Catastrophe",
-    "rus_name": "Катастрофа в соседнем городе",
-    "url": "/mangas/102674-tonarimachi-no-catastrophe",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1632758400000"
-  },
-  {
-    "id": 118024,
-    "name": "Muteki no Hito",
-    "rus_name": "Непобедимый человек",
-    "url": "/mangas/118024-muteki-no-hito",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 67575,
-    "name": "Murder Incarnation",
-    "rus_name": "Жизнь за убийство",
-    "url": "/mangas/67575-murder-incarnation",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1615478400000"
-  },
-  {
-    "id": 1442,
-    "name": "Violence Jack",
-    "rus_name": "Жестокий Джек",
-    "url": "/mangas/1442-violence-jack",
-    "links": [
-      "wikipedia",
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -5832,97 +1122,15 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1628092800000"
+    "last_change": "1608825600000"
   },
   {
-    "id": 553,
-    "name": "Threads of Time",
-    "rus_name": "Нити времени",
-    "url": "/mangas/553-threads-of-time",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615996800000"
-  },
-  {
-    "id": 300,
-    "name": "Hands Off!: Don't Call Us Angels",
-    "rus_name": "Руки прочь! Не называйте нас ангелочками",
-    "url": "/mangas/300-hands-off-don-t-call-us-angels",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 16109,
-    "name": "Sekaiichi Zankoku de Utsukushii Grimm Douwa",
-    "rus_name": "Самые жестокие и самые прекрасные сказки братьев Гримм",
-    "url": "/mangas/16109-sekaiichi-zankoku-de-utsukushii-grimm-douwa",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 82439,
-    "name": "B♭ no Sonata",
-    "rus_name": "Соната си-бемоль",
-    "url": "/mangas/82439-b-no-sonata",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 116177,
-    "name": "Zhengrong Youxi",
-    "rus_name": "Косметическая игра",
-    "url": "/mangas/116177-zhengrong-youxi",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1632326400000"
-  },
-  {
-    "id": 35063,
-    "name": "Robotics;Notes",
-    "rus_name": "Записки о робототехнике",
-    "url": "/mangas/35063-robotics-notes",
+    "id": 52491,
+    "name": "Kaidan to Odorou, Soshite Anata wa Kaidan de Odoru",
+    "rus_name": "Танцы с лестницами",
+    "url": "/mangas/52491-kaidan-to-odorou-soshite-anata-wa-kaidan-de-odoru",
     "links": [
       "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1612022400000"
-  },
-  {
-    "id": 52051,
-    "name": "Necro;Chronicle",
-    "rus_name": "Хроники Некроманта",
-    "url": "/mangas/52051-necro-chronicle",
-    "links": [
-      "official_site",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -5931,314 +1139,46 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1600272000000"
+    "last_change": "1600099200000"
   },
   {
-    "id": 63385,
-    "name": "Gewalt - Aoiro Terror x Seishun Graffiti!!",
-    "rus_name": "",
-    "url": "/mangas/63385-gewalt-aoiro-terror-x-seishun-graffiti",
+    "id": 104314,
+    "name": "Jagaaaaaan",
+    "rus_name": "Дзяган",
+    "url": "/mangas/104314-jagaaaaaan",
     "links": [
+      "wikipedia",
+      "wikipedia",
       "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 141833,
+    "name": "Hikaru ga Shinda Natsu",
+    "rus_name": "Лето, когда погас свет",
+    "url": "/mangas/141833-hikaru-ga-shinda-natsu",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
       "mangaupdates",
       "mangadex"
     ],
-    "last_change": "1641744000000"
+    "last_change": "1636905600000"
   },
   {
-    "id": 107930,
-    "name": "Mashira: Satsuriku no Mura",
-    "rus_name": "Машира",
-    "url": "/mangas/107930-mashira-satsuriku-no-mura",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1639756800000"
-  },
-  {
-    "id": 118106,
-    "name": "Sekai wa Samui",
-    "rus_name": "Холодный мир",
-    "url": "/mangas/118106-sekai-wa-samui",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1644336000000"
-  },
-  {
-    "id": 25224,
-    "name": "Tetsu no Senritsu",
-    "rus_name": "Мелодия железа",
-    "url": "/mangas/25224-tetsu-no-senritsu",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1602432000000"
-  },
-  {
-    "id": 137500,
-    "name": "Sono Toki Shuraba ga Ugoita",
-    "rus_name": "Тогда и началась битва",
-    "url": "/mangas/137500-sono-toki-shuraba-ga-ugoita",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1636387200000"
-  },
-  {
-    "id": 122117,
-    "name": "Alma",
-    "rus_name": "Альма",
-    "url": "/mangas/122117-alma",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1635609600000"
-  },
-  {
-    "id": 37917,
-    "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
-    "rus_name": "Данганронпа: Школа надежды и безнадёжные школьники",
-    "url": "/mangas/37917-danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1631203200000"
-  },
-  {
-    "id": 298,
-    "name": "DOLL: IC in a Doll",
-    "rus_name": "Кукла",
-    "url": "/mangas/298-doll-ic-in-a-doll",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1642780800000"
-  },
-  {
-    "id": 19154,
-    "name": "Kimi no Knife",
-    "rus_name": "Твой нож",
-    "url": "/mangas/19154-kimi-no-knife",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1598112000000"
-  },
-  {
-    "id": 16795,
-    "name": "Umineko no Naku Koro ni Episode X: Rokkenjima of Higurashi Crying",
-    "rus_name": "Когда плачут чайки: Эпизод Икс",
-    "url": "/mangas/16795-umineko-no-naku-koro-ni-episode-x-rokkenjima-of-higurashi-crying",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 44769,
-    "name": "Itou Junji Kyoufu Manga Collection 16: Frankenstein",
-    "rus_name": "Франкенштейн",
-    "url": "/mangas/44769-itou-junji-kyoufu-manga-collection-16-frankenstein",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 102787,
-    "name": "Innocent Devil",
-    "rus_name": "Непорочный демон",
-    "url": "/mangas/102787-innocent-devil",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1567180800000"
-  },
-  {
-    "id": 3064,
-    "name": "Kiichi!!",
-    "rus_name": "Киити!",
-    "url": "/mangas/3064-kiichi",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1633795200000"
-  },
-  {
-    "id": 24366,
-    "name": "Midas Eater",
-    "rus_name": "",
-    "url": "/mangas/24366-midas-eater",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1640707200000"
-  },
-  {
-    "id": 18167,
-    "name": "I.L",
-    "rus_name": "И.Л.",
-    "url": "/mangas/18167-i-l",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1603123200000"
-  },
-  {
-    "id": 132212,
-    "name": "Psychopath Kanojo to Houkai suru Boku no Nichijou",
-    "rus_name": "",
-    "url": "/mangas/132212-psychopath-kanojo-to-houkai-suru-boku-no-nichijou",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1630425600000"
-  },
-  {
-    "id": 1935,
-    "name": "Yuretsuzukeru",
-    "rus_name": "Вибрируй",
-    "url": "/mangas/1935-yuretsuzukeru",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1612886400000"
-  },
-  {
-    "id": 4230,
-    "name": "Tsumikuibito",
-    "rus_name": "",
-    "url": "/mangas/4230-tsumikuibito",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 34029,
-    "name": "Getenrou",
-    "rus_name": "Гэтэнро",
-    "url": "/mangas/34029-getenrou",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1643644800000"
-  },
-  {
-    "id": 120217,
-    "name": "My Student Can't Be a Psychopath",
-    "rus_name": "Мой ученик не психопат!",
-    "url": "/mangas/120217-my-student-can-t-be-a-psychopath",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1641484800000"
-  },
-  {
-    "id": 1263,
-    "name": "Higurashi no Naku Koro ni Kai: Tsumihoroboshi-hen",
-    "rus_name": "Когда плачут цикады: Глава об искуплении",
-    "url": "/mangas/1263-higurashi-no-naku-koro-ni-kai-tsumihoroboshi-hen",
+    "id": 21499,
+    "name": "Umineko no Naku Koro ni Chiru - Episode 6: Dawn of the Golden Witch",
+    "rus_name": "Когда плачут чайки 6: Крах — Рассвет Золотой Ведьмы",
+    "url": "/mangas/21499-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch",
     "links": [
       "anime_news_network",
       "myanimelist",
@@ -6246,18 +1186,18 @@ let manga = [
       "mangalib",
       "remanga",
       "mangaupdates",
-      "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1646928000000"
+    "last_change": "1594569600000"
   },
   {
-    "id": 1373,
-    "name": "Nijigahara Holograph",
-    "rus_name": "Голограф на Радужном поле",
-    "url": "/mangas/1373-nijigahara-holograph",
+    "id": 77815,
+    "name": "Tokyo Ghoul: \"Jack\"",
+    "rus_name": "Токийский гуль: «Джек»",
+    "url": "/mangas/77815-tokyo-ghoul-jack",
     "links": [
+      "wikipedia",
       "wikipedia",
       "wikipedia",
       "anime_news_network",
@@ -6273,110 +1213,63 @@ let manga = [
     "last_change": "1609084800000"
   },
   {
-    "id": 113278,
-    "name": "Money Rumble",
-    "rus_name": "Денежный гул",
-    "url": "/mangas/113278-money-rumble",
+    "id": 88675,
+    "name": "Kyochuu Rettou",
+    "rus_name": "Остров насекомых-гигантов",
+    "url": "/mangas/88675-kyochuu-rettou",
     "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 7071,
-    "name": "B-Eyes",
-    "rus_name": "Чёрные глаза",
-    "url": "/mangas/7071-b-eyes",
-    "links": [
-      "anime_news_network",
+      "wikipedia",
       "myanimelist",
       "readmanga",
       "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1593014400000"
+  },
+  {
+    "id": 47363,
+    "name": "Kamisama no Iutoori 2",
+    "rus_name": "Страшная воля богов 2",
+    "url": "/mangas/47363-kamisama-no-iutoori-2",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
       "mangaupdates",
       "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1625241600000"
+    "last_change": "1614355200000"
   },
   {
-    "id": 3936,
-    "name": "Crash",
-    "rus_name": "Крах",
-    "url": "/mangas/3936-crash",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1600617600000"
-  },
-  {
-    "id": 16803,
-    "name": "Fly",
-    "rus_name": "Лети...",
-    "url": "/mangas/16803-fly",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1557417600000"
-  },
-  {
-    "id": 1668,
-    "name": "Black Jack ni Yoroshiku",
-    "rus_name": "Передаю привет Чёрному Джеку",
-    "url": "/mangas/1668-black-jack-ni-yoroshiku",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1552406400000"
-  },
-  {
-    "id": 129659,
-    "name": "Kai Byoui Ramune",
-    "rus_name": "Доктор Рамунэ — специалист по таинственным болезням",
-    "url": "/mangas/129659-kai-byoui-ramune",
+    "id": 76397,
+    "name": "Zero: Kage Miko",
+    "rus_name": "Fatal Frame: Жрица тени",
+    "url": "/mangas/76397-zero-kage-miko",
     "links": [
       "official_site",
       "wikipedia",
       "myanimelist",
       "readmanga",
       "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1622131200000"
-  },
-  {
-    "id": 1265,
-    "name": "Higurashi no Naku Koro ni: Yoigoshi-hen",
-    "rus_name": "Когда плачут цикады: Глава о противостоянии в ночи",
-    "url": "/mangas/1265-higurashi-no-naku-koro-ni-yoigoshi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
       "remanga",
       "mangaupdates",
       "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1646928000000"
+    "last_change": "1635350400000"
   },
   {
-    "id": 120472,
-    "name": "Manten no Hoshi to Aoi Sora",
+    "id": 125535,
+    "name": "Sangekitou no Mowgli",
     "rus_name": "",
-    "url": "/mangas/120472-manten-no-hoshi-to-aoi-sora",
+    "url": "/mangas/125535-sangekitou-no-mowgli",
     "links": [
       "official_site",
       "myanimelist"
@@ -6384,91 +1277,233 @@ let manga = [
     "last_change": ""
   },
   {
-    "id": 100077,
-    "name": "Dr. Prisoner",
-    "rus_name": "Тюремный доктор",
-    "url": "/mangas/100077-dr-prisoner",
+    "id": 11217,
+    "name": "Hetare Venus",
+    "rus_name": "Моя Венера",
+    "url": "/mangas/11217-hetare-venus",
     "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 61695,
+    "name": "Shuujin to Kamihikouki: Shounen Paradox",
+    "rus_name": "Заключённый и бумажный самолётик: Мальчишеский парадокс",
+    "url": "/mangas/61695-shuujin-to-kamihikouki-shounen-paradox",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 49865,
+    "name": "Ajin",
+    "rus_name": "Нелюдь",
+    "url": "/mangas/49865-ajin",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1612195200000"
+  },
+  {
+    "id": 1450,
+    "name": "Skyhigh",
+    "rus_name": "Небесная высь",
+    "url": "/mangas/1450-skyhigh",
+    "links": [
+      "wikipedia",
       "myanimelist",
       "readmanga",
       "mangalib",
       "mangaupdates",
       "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1615132800000"
-  },
-  {
-    "id": 67123,
-    "name": "Yokohama-sen Doppelganger",
-    "rus_name": "Доппельгангер",
-    "url": "/mangas/67123-yokohama-sen-doppelganger",
-    "links": [
-      "myanimelist",
-      "readmanga",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1528992000000"
+    "last_change": "1622995200000"
   },
   {
-    "id": 130541,
-    "name": "Stalker Joukadan",
-    "rus_name": "Сталкер из группы зачистки",
-    "url": "/mangas/130541-stalker-joukadan",
+    "id": 24633,
+    "name": "Furou Kyoudai",
+    "rus_name": "Двойняшки Фуро",
+    "url": "/mangas/24633-furou-kyoudai",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1601740800000"
+  },
+  {
+    "id": 83005,
+    "name": "Touhyou Game: Anata ni Kuroki Ippyou wo",
+    "rus_name": "Игра в голосование: Один чёрный голос за вас",
+    "url": "/mangas/83005-touhyou-game-anata-ni-kuroki-ippyou-wo",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1553270400000"
+  },
+  {
+    "id": 83435,
+    "name": "Revenge Game",
+    "rus_name": "Игра в месть",
+    "url": "/mangas/83435-revenge-game",
     "links": [
       "official_site",
       "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1633708800000"
-  },
-  {
-    "id": 129499,
-    "name": "Ethicae no Jikan",
-    "rus_name": "Этика времени",
-    "url": "/mangas/129499-ethicae-no-jikan",
-    "links": [
-      "official_site",
-      "myanimelist"
+      "readmanga"
     ],
     "last_change": ""
   },
   {
-    "id": 118502,
-    "name": "Hajimete no Gyakusatsu",
-    "rus_name": "Первая резня",
-    "url": "/mangas/118502-hajimete-no-gyakusatsu",
+    "id": 77247,
+    "name": "Kichikujima",
+    "rus_name": "Дьявольский остров",
+    "url": "/mangas/77247-kichikujima",
     "links": [
-      "official_site",
+      "wikipedia",
       "myanimelist",
-      "mangaupdates"
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1641484800000"
+    "last_change": "1640534400000"
   },
   {
-    "id": 69505,
-    "name": "Acma:Game",
-    "rus_name": "Игра с дьяволом",
-    "url": "/mangas/69505-acma-game",
+    "id": 93653,
+    "name": "Pygmalion",
+    "rus_name": "Пигмалион",
+    "url": "/mangas/93653-pygmalion",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1602432000000"
+  },
+  {
+    "id": 40175,
+    "name": "Mahou Shoujo of the End",
+    "rus_name": "Девочка, несущая конец света",
+    "url": "/mangas/40175-mahou-shoujo-of-the-end",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1596211200000"
+  },
+  {
+    "id": 114504,
+    "name": "Bougyaku no Kokekko",
+    "rus_name": "Нападение петухов",
+    "url": "/mangas/114504-bougyaku-no-kokekko",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1615478400000"
+  },
+  {
+    "id": 1796,
+    "name": "Dawn: Tsumetai Te",
+    "rus_name": "Холодные руки рассвета",
+    "url": "/mangas/1796-dawn-tsumetai-te",
     "links": [
       "wikipedia",
       "anime_news_network",
       "myanimelist",
       "readmanga",
       "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1603382400000"
+  },
+  {
+    "id": 100128,
+    "name": "Yakusoku no Neverland",
+    "rus_name": "Обещанный Неверленд",
+    "url": "/mangas/z100128-yakusoku-no-neverland",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1627920000000"
+  },
+  {
+    "id": 122574,
+    "name": "Zombie no Hoshi",
+    "rus_name": "Планета зомби",
+    "url": "/mangas/122574-zombie-no-hoshi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
       "mangaupdates",
       "mangafox"
     ],
-    "last_change": "1596643200000"
+    "last_change": ""
   },
   {
-    "id": 14699,
-    "name": "R-16",
-    "rus_name": "R-16",
-    "url": "/mangas/14699-r-16",
+    "id": 18070,
+    "name": "KoKkuRi-san ga Tooru",
+    "rus_name": "",
+    "url": "/mangas/18070-kokkuri-san-ga-tooru",
     "links": [
       "wikipedia",
       "myanimelist"
@@ -6476,23 +1511,321 @@ let manga = [
     "last_change": ""
   },
   {
-    "id": 130477,
-    "name": "Onna Kyoushi",
-    "rus_name": "Учительница",
-    "url": "/mangas/130477-onna-kyoushi",
+    "id": 569,
+    "name": "Toma",
+    "rus_name": "Тома",
+    "url": "/mangas/569-toma",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 123710,
+    "name": "Ningen no Inai Kuni",
+    "rus_name": "Безлюдный край",
+    "url": "/mangas/123710-ningen-no-inai-kuni",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1634227200000"
+  },
+  {
+    "id": 110813,
+    "name": "Tetsunagi Oni",
+    "rus_name": "Рука, держащая демона",
+    "url": "/mangas/110813-tetsunagi-oni",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1610294400000"
+  },
+  {
+    "id": 5421,
+    "name": "Dark Metro",
+    "rus_name": "Тёмное метро",
+    "url": "/mangas/5421-dark-metro",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1595692800000"
+  },
+  {
+    "id": 34653,
+    "name": "Hokenshitsu no Akumu",
+    "rus_name": "Кошмар в лазарете",
+    "url": "/mangas/34653-hokenshitsu-no-akumu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 424,
+    "name": "Kaibutsu Oujo",
+    "rus_name": "Принцесса чудовищ",
+    "url": "/mangas/424-kaibutsu-oujo",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608998400000"
+  },
+  {
+    "id": 47236,
+    "name": "Sadako",
+    "rus_name": "Садако",
+    "url": "/mangas/47236-sadako",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates"
+    ],
+    "last_change": "1589472000000"
+  },
+  {
+    "id": 54321,
+    "name": "Toukou Tochuu no Deaigashira no Guuzen Kiss wa Ariuru ka? Jikken",
+    "rus_name": "Может ли случайная встреча по пути в школу привести к поцелую? Эксперимент",
+    "url": "/mangas/54321-toukou-tochuu-no-deaigashira-no-guuzen-kiss-wa-ariuru-ka-jikken",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1637942400000"
+  },
+  {
+    "id": 90919,
+    "name": "I Am a Hero in Osaka",
+    "rus_name": "Я — герой Осаки",
+    "url": "/mangas/90919-i-am-a-hero-in-osaka",
     "links": [
       "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610121600000"
+  },
+  {
+    "id": 25132,
+    "name": "Akame ga Kill!",
+    "rus_name": "Убийца Акамэ!",
+    "url": "/mangas/z25132-akame-ga-kill",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1611849600000"
+  },
+  {
+    "id": 90756,
+    "name": "Z",
+    "rus_name": "",
+    "url": "/mangas/90756-z",
+    "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 88344,
-    "name": "Tetsuo: The Bullet Man",
-    "rus_name": "Тэцуо: Человек-пуля",
-    "url": "/mangas/88344-tetsuo-the-bullet-man",
+    "id": 132722,
+    "name": "Kaidan Shounen",
+    "rus_name": "Мальчик-кайдан",
+    "url": "/mangas/132722-kaidan-shounen",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1631116800000"
+  },
+  {
+    "id": 92933,
+    "name": "Chimamire Sukeban Chainsaw",
+    "rus_name": "Хулиганка с бензопилой",
+    "url": "/mangas/92933-chimamire-sukeban-chainsaw",
     "links": [
       "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608480000000"
+  },
+  {
+    "id": 17154,
+    "name": "Zekkyou Gakkyuu",
+    "rus_name": "Уроки крика",
+    "url": "/mangas/17154-zekkyou-gakkyuu",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1603728000000"
+  },
+  {
+    "id": 54753,
+    "name": "Figuisch",
+    "rus_name": "",
+    "url": "/mangas/54753-figuisch",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 1375,
+    "name": "Oni-gokko",
+    "rus_name": "Догонялки",
+    "url": "/mangas/1375-oni-gokko",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581609600000"
+  },
+  {
+    "id": 13204,
+    "name": "Oni",
+    "rus_name": "Демон",
+    "url": "/mangas/13204-oni",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 44319,
+    "name": "Mahou Shoujo Madoka★Magica: The Different Story",
+    "rus_name": "Девочка-волшебница Мадока★Волшебство: Другая история",
+    "url": "/mangas/44319-mahou-shoujo-madoka-magica-the-different-story",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1621958400000"
+  },
+  {
+    "id": 3126,
+    "name": "Yami no Koe",
+    "rus_name": "Голос в темноте",
+    "url": "/mangas/3126-yami-no-koe",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610035200000"
+  },
+  {
+    "id": 20464,
+    "name": "Jigoku Shoujo R",
+    "rus_name": "Адская девочка R",
+    "url": "/mangas/20464-jigoku-shoujo-r",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1536336000000"
+  },
+  {
+    "id": 50725,
+    "name": "Harem End",
+    "rus_name": "Гаремный конец",
+    "url": "/mangas/50725-harem-end",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1640188800000"
+  },
+  {
+    "id": 85323,
+    "name": "Tomino no Jigoku",
+    "rus_name": "Томино в аду",
+    "url": "/mangas/85323-tomino-no-jigoku",
+    "links": [
+      "anime_news_network",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -6504,11 +1837,97 @@ let manga = [
     "last_change": "1631894400000"
   },
   {
-    "id": 10743,
-    "name": "Shinreigari: Another Side",
-    "rus_name": "Охота на призраков: По ту сторону",
-    "url": "/mangas/z10743-shinreigari-another-side",
+    "id": 37563,
+    "name": "Terra Formars",
+    "rus_name": "Терраформирование",
+    "url": "/mangas/37563-terra-formars",
     "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1644163200000"
+  },
+  {
+    "id": 12322,
+    "name": "Kami no Hidarite Akuma no Migite",
+    "rus_name": "Левая длань Бога, правая длань Дьявола",
+    "url": "/mangas/12322-kami-no-hidarite-akuma-no-migite",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1628092800000"
+  },
+  {
+    "id": 3873,
+    "name": "Orochi",
+    "rus_name": "Ороти",
+    "url": "/mangas/3873-orochi",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1599926400000"
+  },
+  {
+    "id": 22623,
+    "name": "Mizuki Shigeru's Tono Monogatari",
+    "rus_name": "",
+    "url": "/mangas/22623-mizuki-shigeru-s-tono-monogatari",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 50403,
+    "name": "Gakkou no Kaidan: Abunai Onna Kyoushi-hen",
+    "rus_name": "Школьная страшилка: Опасная учительница",
+    "url": "/mangas/50403-gakkou-no-kaidan-abunai-onna-kyoushi-hen",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 11216,
+    "name": "Kuroneko no Me ga Yami ni",
+    "rus_name": "Чёрная кошка",
+    "url": "/mangas/11216-kuroneko-no-me-ga-yami-ni",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 97760,
+    "name": "Ane Naru Mono",
+    "rus_name": "Демон, который стал моей сестрой",
+    "url": "/mangas/97760-ane-naru-mono",
+    "links": [
+      "official_site",
+      "anime_news_network",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -6517,36 +1936,119 @@ let manga = [
       "mangadex",
       "mangafox",
       "mangahub"
+    ],
+    "last_change": "1610208000000"
+  },
+  {
+    "id": 96060,
+    "name": "Hakaijuu VS Mahou Shoujo of the End VS Vs Earth",
+    "rus_name": "Девочка, несущая конец света vs Нечто vs Против Земли",
+    "url": "/mangas/96060-hakaijuu-vs-mahou-shoujo-of-the-end-vs-vs-earth",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600531200000"
+  },
+  {
+    "id": 106025,
+    "name": "Jinmen",
+    "rus_name": "Дзиммэн",
+    "url": "/mangas/106025-jinmen",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1626364800000"
+  },
+  {
+    "id": 57143,
+    "name": "Dolls Fall",
+    "rus_name": "Падение куклы",
+    "url": "/mangas/57143-dolls-fall",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600617600000"
+  },
+  {
+    "id": 20103,
+    "name": "Mebius Gear",
+    "rus_name": "Механизм Мёбиуса",
+    "url": "/mangas/20103-mebius-gear",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1640707200000"
+  },
+  {
+    "id": 110660,
+    "name": "Children",
+    "rus_name": "Дети",
+    "url": "/mangas/110660-children",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
     ],
     "last_change": "1631808000000"
   },
   {
-    "id": 4280,
-    "name": "Denmu Jikuu",
-    "rus_name": "Электрические фантазии о пространстве и времени",
-    "url": "/mangas/4280-denmu-jikuu",
+    "id": 70981,
+    "name": "Kidan Hyakkei",
+    "rus_name": "",
+    "url": "/mangas/70981-kidan-hyakkei",
     "links": [
-      "myanimelist"
+      "myanimelist",
+      "mangaupdates"
     ],
-    "last_change": ""
+    "last_change": "1599840000000"
   },
   {
-    "id": 1057,
-    "name": "Batman: Child of Dreams",
-    "rus_name": "Бэтмен: Дитя грёз",
-    "url": "/mangas/1057-batman-child-of-dreams",
+    "id": 56067,
+    "name": "Genshitan Janome",
+    "rus_name": "История о потомках духов Дзяномэ",
+    "url": "/mangas/56067-genshitan-janome",
     "links": [
       "wikipedia",
-      "myanimelist"
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
     ],
-    "last_change": ""
+    "last_change": "1608912000000"
   },
   {
-    "id": 1075,
-    "name": "7 Seeds",
-    "rus_name": "7 семян",
-    "url": "/mangas/1075-7-seeds",
+    "id": 970,
+    "name": "Hyouryuu Kyoushitsu",
+    "rus_name": "Дрейфующая школа",
+    "url": "/mangas/970-hyouryuu-kyoushitsu",
     "links": [
+      "wikipedia",
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -6558,36 +2060,646 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1613059200000"
+    "last_change": "1630684800000"
   },
   {
-    "id": 120861,
-    "name": "Calamity Lost",
-    "rus_name": "",
-    "url": "/mangas/120861-calamity-lost",
+    "id": 16617,
+    "name": "Kaiki! Shiniku no Otoko",
+    "rus_name": "Живой труп",
+    "url": "/mangas/16617-kaiki-shiniku-no-otoko",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1584892800000"
+  },
+  {
+    "id": 10230,
+    "name": "Raiders",
+    "rus_name": "Рейдеры",
+    "url": "/mangas/10230-raiders",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 92911,
-    "name": "Kyosuurei",
-    "rus_name": "",
-    "url": "/mangas/92911-kyosuurei",
+    "id": 137639,
+    "name": "Ningyou Touge",
+    "rus_name": "Кукольный перевал",
+    "url": "/mangas/137639-ningyou-touge",
     "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1628265600000"
+  },
+  {
+    "id": 1540,
+    "name": "Aokushimitama Blue Seed",
+    "rus_name": "Голубое семя",
+    "url": "/mangas/1540-aokushimitama-blue-seed",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 5863,
+    "name": "Uroboros no Wa",
+    "rus_name": "Кольцо Уробороса",
+    "url": "/mangas/5863-uroboros-no-wa",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": "1511798400000"
+  },
+  {
+    "id": 13291,
+    "name": "Leo",
+    "rus_name": "Лео",
+    "url": "/mangas/13291-leo",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1645891200000"
+  },
+  {
+    "id": 22776,
+    "name": "Dare ni Mo Ienai",
+    "rus_name": "Я никому не скажу",
+    "url": "/mangas/22776-dare-ni-mo-ienai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 18553,
+    "name": "The Phantom King",
+    "rus_name": "Призрачный Король",
+    "url": "/mangas/18553-the-phantom-king",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1535904000000"
+  },
+  {
+    "id": 91946,
+    "name": "Mushihime",
+    "rus_name": "Принцесса-насекомое",
+    "url": "/mangas/91946-mushihime",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1641052800000"
+  },
+  {
+    "id": 13259,
+    "name": "Zangekikan",
+    "rus_name": "Особняк ужасов",
+    "url": "/mangas/13259-zangekikan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1642348800000"
+  },
+  {
+    "id": 80905,
+    "name": "Ito Junji Kyoufu Hakubutsukan 9: Oshikiri Idan & Frankenstein",
+    "rus_name": "Дневник собаки Дзюндзи Ито",
+    "url": "/mangas/80905-ito-junji-kyoufu-hakubutsukan-9-oshikiri-idan-frankenstein",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1632240000000"
+  },
+  {
+    "id": 23245,
+    "name": "Sprite",
+    "rus_name": "Спрайт",
+    "url": "/mangas/23245-sprite",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1648569600000"
+  },
+  {
+    "id": 4260,
+    "name": "Mail",
+    "rus_name": "Почта",
+    "url": "/mangas/4260-mail",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1639843200000"
+  },
+  {
+    "id": 127907,
+    "name": "Kaijuu 8-gou",
+    "rus_name": "Кайдзю номер 8",
+    "url": "/mangas/127907-kaijuu-8-gou",
+    "links": [
+      "official_site",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1622563200000"
+  },
+  {
+    "id": 92377,
+    "name": "Akame ga Kill! 1.5",
+    "rus_name": "Убийца Акамэ! 1.5",
+    "url": "/mangas/z92377-akame-ga-kill-1-5",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1589299200000"
+  },
+  {
+    "id": 124392,
+    "name": "Goshujinsama no Shikabane",
+    "rus_name": "Мой господин Сикабанэ",
+    "url": "/mangas/124392-goshujinsama-no-shikabane",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1641744000000"
+  },
+  {
+    "id": 105068,
+    "name": "Yakedo Shoujo",
+    "rus_name": "Пылкая девушка",
+    "url": "/mangas/105068-yakedo-shoujo",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1626710400000"
+  },
+  {
+    "id": 56515,
+    "name": "Mousugu Shinu Hito",
+    "rus_name": "Люди, которым суждено умереть",
+    "url": "/mangas/56515-mousugu-shinu-hito",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1611504000000"
+  },
+  {
+    "id": 13387,
+    "name": "March Story",
+    "rus_name": "Мартовская история",
+    "url": "/mangas/13387-march-story",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1579017600000"
+  },
+  {
+    "id": 3337,
+    "name": "Portus",
+    "rus_name": "Портас",
+    "url": "/mangas/3337-portus",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1613836800000"
+  },
+  {
+    "id": 94411,
+    "name": "Pandamic",
+    "rus_name": "Пандамия",
+    "url": "/mangas/94411-pandamic",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1617292800000"
+  },
+  {
+    "id": 5050,
+    "name": "Shi to Kanojo to Boku",
+    "rus_name": "Смерть, она и я",
+    "url": "/mangas/5050-shi-to-kanojo-to-boku",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 93608,
+    "name": "Gakuen Densetsu: Hasami Onna",
+    "rus_name": "Школьная легенда: Девушка с ножницами",
+    "url": "/mangas/93608-gakuen-densetsu-hasami-onna",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 95831,
+    "name": "Akumu no Shoutaijou",
+    "rus_name": "",
+    "url": "/mangas/95831-akumu-no-shoutaijou",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1646755200000"
+  },
+  {
+    "id": 18597,
+    "name": "Sankarea",
+    "rus_name": "Санка Рэа",
+    "url": "/mangas/18597-sankarea",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1594310400000"
+  },
+  {
+    "id": 12793,
+    "name": "Blassreiter Genetic",
+    "rus_name": "Блассрейтер: Происхождение",
+    "url": "/mangas/12793-blassreiter-genetic",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 12652,
+    "name": "Babel",
+    "rus_name": "Вавилон",
+    "url": "/mangas/12652-babel",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 15496,
+    "name": "Sai no Kami",
+    "rus_name": "Бог Сай",
+    "url": "/mangas/15496-sai-no-kami",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581609600000"
+  },
+  {
+    "id": 124398,
+    "name": "Delivery of the Dead",
+    "rus_name": "Доставка мертвецов",
+    "url": "/mangas/124398-delivery-of-the-dead",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1610121600000"
+  },
+  {
+    "id": 47238,
+    "name": "@Baby Mail",
+    "rus_name": "",
+    "url": "/mangas/47238-baby-mail",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 11802,
+    "name": "Kitsune to Atori",
+    "rus_name": "Лисица и Атори",
+    "url": "/mangas/11802-kitsune-to-atori",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 17541,
+    "name": "Shinrei Tantei Yakumo",
+    "rus_name": "Детектив-медиум Якумо",
+    "url": "/mangas/17541-shinrei-tantei-yakumo",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangahub"
+    ],
+    "last_change": "1592409600000"
+  },
+  {
+    "id": 145222,
+    "name": "Black Terror",
+    "rus_name": "Чёрный террор",
+    "url": "/mangas/145222-black-terror",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1647878400000"
+  },
+  {
+    "id": 17847,
+    "name": "Life is Dead",
+    "rus_name": "",
+    "url": "/mangas/17847-life-is-dead",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 17068,
+    "name": "Manga Sagawa-san",
+    "rus_name": "",
+    "url": "/mangas/17068-manga-sagawa-san",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630771200000"
+  },
+  {
+    "id": 17227,
+    "name": "Doctor G no Shima",
+    "rus_name": "Остров доктора Джи",
+    "url": "/mangas/17227-doctor-g-no-shima",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 3992,
+    "name": "Jigokusei Remina",
+    "rus_name": "Звезда ада Рэмина",
+    "url": "/mangas/3992-jigokusei-remina",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610035200000"
+  },
+  {
+    "id": 25629,
+    "name": "Melty Blood X",
+    "rus_name": "Талая кровь Х",
+    "url": "/mangas/25629-melty-blood-x",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614787200000"
+  },
+  {
+    "id": 102012,
+    "name": "Primo Piatto",
+    "rus_name": "Первое блюдо",
+    "url": "/mangas/102012-primo-piatto",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1633363200000"
+  },
+  {
+    "id": 5786,
+    "name": "Skin and Bone",
+    "rus_name": "Кожа и кости",
+    "url": "/mangas/5786-skin-and-bone",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 10361,
+    "name": "Aratama Tribe",
+    "rus_name": "Племя неприкаянных",
+    "url": "/mangas/10361-aratama-tribe",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581609600000"
+  },
+  {
+    "id": 42229,
+    "name": "Record",
+    "rus_name": "Запись",
+    "url": "/mangas/42229-record",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 140476,
+    "name": "Monkey Peak: The Rock",
+    "rus_name": "Обезьяний пик: Скала",
+    "url": "/mangas/140476-monkey-peak-the-rock",
+    "links": [
+      "wikipedia",
       "myanimelist",
       "mangaupdates",
       "mangadex"
     ],
-    "last_change": "1636819200000"
+    "last_change": "1639065600000"
   },
   {
-    "id": 3980,
-    "name": "Plants Doll",
-    "rus_name": "Комнатные куклы",
-    "url": "/mangas/3980-plants-doll",
+    "id": 16251,
+    "name": "Watashi wa Kagome",
+    "rus_name": "Я — Кагомэ",
+    "url": "/mangas/16251-watashi-wa-kagome",
     "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610294400000"
+  },
+  {
+    "id": 18781,
+    "name": "Caravan Serai",
+    "rus_name": "",
+    "url": "/mangas/18781-caravan-serai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 199,
+    "name": "Ningyo Series",
+    "rus_name": "Лес русалок",
+    "url": "/mangas/199-ningyo-series",
+    "links": [
+      "wikipedia",
       "wikipedia",
       "wikipedia",
       "anime_news_network",
@@ -6599,13 +2711,68 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1605888000000"
+    "last_change": "1596211200000"
   },
   {
-    "id": 89674,
-    "name": "Toumei Ningen no Tsukurikata",
-    "rus_name": "Как сделать невидимку",
-    "url": "/mangas/89674-toumei-ningen-no-tsukurikata",
+    "id": 91769,
+    "name": "Gift±",
+    "rus_name": "Дар ±",
+    "url": "/mangas/91769-gift",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1624118400000"
+  },
+  {
+    "id": 12625,
+    "name": "Shin: Kamen Rider Prologue",
+    "rus_name": "Истинный Наездник в маске: Пролог",
+    "url": "/mangas/12625-shin-kamen-rider-prologue",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 15438,
+    "name": "Chi to Bara no Akuma",
+    "rus_name": "Кровь и розы дьявола",
+    "url": "/mangas/15438-chi-to-bara-no-akuma",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4560,
+    "name": "Ryouko no Shinrei Jikenbo",
+    "rus_name": "Записи Риоко о сверхъестественном",
+    "url": "/mangas/4560-ryouko-no-shinrei-jikenbo",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1580313600000"
+  },
+  {
+    "id": 82947,
+    "name": "Distant Sky",
+    "rus_name": "Далёкое небо",
+    "url": "/mangas/82947-distant-sky",
     "links": [
       "myanimelist",
       "readmanga",
@@ -6616,15 +2783,3563 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1635004800000"
+    "last_change": "1615996800000"
   },
   {
-    "id": 121280,
-    "name": "Kimi no Kureru Mazui Ame: Fuyumushi Kaiko Sakuhinshuu",
-    "rus_name": "",
-    "url": "/mangas/121280-kimi-no-kureru-mazui-ame-fuyumushi-kaiko-sakuhinshuu",
+    "id": 48629,
+    "name": "The Quiz",
+    "rus_name": "Опрос",
+    "url": "/mangas/48629-the-quiz",
     "links": [
       "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1647792000000"
+  },
+  {
+    "id": 3073,
+    "name": "Kenja no Ishi",
+    "rus_name": "Эликсир",
+    "url": "/mangas/3073-kenja-no-ishi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1640361600000"
+  },
+  {
+    "id": 14569,
+    "name": "Pi",
+    "rus_name": "Пи",
+    "url": "/mangas/14569-pi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 140967,
+    "name": "Umigui",
+    "rus_name": "",
+    "url": "/mangas/140967-umigui",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1642262400000"
+  },
+  {
+    "id": 104230,
+    "name": "Hyaku Monogatari",
+    "rus_name": "Сто историй",
+    "url": "/mangas/104230-hyaku-monogatari",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1623254400000"
+  },
+  {
+    "id": 32177,
+    "name": "NightWalker",
+    "rus_name": "Бродяга",
+    "url": "/mangas/32177-nightwalker",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1548691200000"
+  },
+  {
+    "id": 114282,
+    "name": "Yumekui Shirokuro Baku",
+    "rus_name": "Баку, монохромный пожиратель снов",
+    "url": "/mangas/114282-yumekui-shirokuro-baku",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib"
+    ],
+    "last_change": "1595952000000"
+  },
+  {
+    "id": 63849,
+    "name": "Ana Satsujin",
+    "rus_name": "Убийства через щель",
+    "url": "/mangas/63849-ana-satsujin",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608998400000"
+  },
+  {
+    "id": 54797,
+    "name": "Hitokui",
+    "rus_name": "Хищник",
+    "url": "/mangas/54797-hitokui",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1567440000000"
+  },
+  {
+    "id": 15491,
+    "name": "Dokuhime",
+    "rus_name": "Ядовитая принцесса",
+    "url": "/mangas/15491-dokuhime",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1644336000000"
+  },
+  {
+    "id": 25775,
+    "name": "Cry Eye",
+    "rus_name": "Кричащий взгляд",
+    "url": "/mangas/25775-cry-eye",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1615392000000"
+  },
+  {
+    "id": 5413,
+    "name": "Inugami",
+    "rus_name": "Инугами",
+    "url": "/mangas/5413-inugami",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1640188800000"
+  },
+  {
+    "id": 12735,
+    "name": "Ano Natsu ga Owaru",
+    "rus_name": "Это лето закончилось",
+    "url": "/mangas/12735-ano-natsu-ga-owaru",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 12192,
+    "name": "Kouya ni Kemono Doukokusu",
+    "rus_name": "Плач зверей в пустоши",
+    "url": "/mangas/12192-kouya-ni-kemono-doukokusu",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1568995200000"
+  },
+  {
+    "id": 4227,
+    "name": "Tokkou",
+    "rus_name": "Токко",
+    "url": "/mangas/4227-tokkou",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1648656000000"
+  },
+  {
+    "id": 16285,
+    "name": "Kuro Hakubutsukan: Springald",
+    "rus_name": "Чёрный музей: Спрингалд",
+    "url": "/mangas/16285-kuro-hakubutsukan-springald",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1644249600000"
+  },
+  {
+    "id": 3915,
+    "name": "Baroque: Ketsuraku no Paradigm",
+    "rus_name": "Барокко: Утерянный рай",
+    "url": "/mangas/3915-baroque-ketsuraku-no-paradigm",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1596816000000"
+  },
+  {
+    "id": 143936,
+    "name": "Anten-sama no Hara no Naka",
+    "rus_name": "В животе Антэн",
+    "url": "/mangas/143936-anten-sama-no-hara-no-naka",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1644163200000"
+  },
+  {
+    "id": 3078,
+    "name": "Tengoku",
+    "rus_name": "Небесная тюрьма",
+    "url": "/mangas/3078-tengoku",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581782400000"
+  },
+  {
+    "id": 79519,
+    "name": "Hoshi no Ponko to Toufuya Reiko",
+    "rus_name": "Звёздная Понко и Рэйко из Лавки Тофу",
+    "url": "/mangas/79519-hoshi-no-ponko-to-toufuya-reiko",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 385,
+    "name": "Kamiyadori",
+    "rus_name": "Камиядори",
+    "url": "/mangas/385-kamiyadori",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1638374400000"
+  },
+  {
+    "id": 2032,
+    "name": "Anata no Shiranai Sekai",
+    "rus_name": "Мир, которого ты не знаешь",
+    "url": "/mangas/2032-anata-no-shiranai-sekai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 29705,
+    "name": "Mishiranu Machi",
+    "rus_name": "Странный город",
+    "url": "/mangas/29705-mishiranu-machi",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 12114,
+    "name": "El El",
+    "rus_name": "Эль Эль",
+    "url": "/mangas/12114-el-el",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1642262400000"
+  },
+  {
+    "id": 16750,
+    "name": "Mienai Kao",
+    "rus_name": "Невидимое лицо",
+    "url": "/mangas/16750-mienai-kao",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 16760,
+    "name": "Shi wo Utau Seiza",
+    "rus_name": "Созвездие, поющее о смерти",
+    "url": "/mangas/16760-shi-wo-utau-seiza",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1641571200000"
+  },
+  {
+    "id": 128080,
+    "name": "Tomie: Nottori",
+    "rus_name": "Томиэ: Захват",
+    "url": "/mangas/128080-tomie-nottori",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangahub"
+    ],
+    "last_change": "1642348800000"
+  },
+  {
+    "id": 5788,
+    "name": "School Zone",
+    "rus_name": "Школьная зона",
+    "url": "/mangas/5788-school-zone",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 143113,
+    "name": "Ura Baito: Toubou Kinshi",
+    "rus_name": "",
+    "url": "/mangas/143113-ura-baito-toubou-kinshi",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1648224000000"
+  },
+  {
+    "id": 4623,
+    "name": "Hyakki Yakoushou",
+    "rus_name": "Обитель демонов",
+    "url": "/mangas/4623-hyakki-yakoushou",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1623600000000"
+  },
+  {
+    "id": 4346,
+    "name": "Cloverfield/Kishin",
+    "rus_name": "Монстро/Кисин",
+    "url": "/mangas/4346-cloverfield-kishin",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 12047,
+    "name": "Mizu ni Sumu Oni",
+    "rus_name": "Демон, живущий в воде",
+    "url": "/mangas/12047-mizu-ni-sumu-oni",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 41697,
+    "name": "Ghost Hunt: Akumu no Sumu Ie",
+    "rus_name": "Охота на привидений: Дом, где живут ночные кошмары",
+    "url": "/mangas/41697-ghost-hunt-akumu-no-sumu-ie",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1534694400000"
+  },
+  {
+    "id": 86209,
+    "name": "Gensou Gynaecocracy",
+    "rus_name": "Гинекократия",
+    "url": "/mangas/86209-gensou-gynaecocracy",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1609603200000"
+  },
+  {
+    "id": 10814,
+    "name": "Baccano! 1931 The Grand Punk Railroad",
+    "rus_name": "Шумиха! Великая бандитская железная дорога 1931",
+    "url": "/mangas/10814-baccano-1931-the-grand-punk-railroad",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1531065600000"
+  },
+  {
+    "id": 92968,
+    "name": "Ito Junji Kyoufu Hakubutsukan 10: Shibito no Koiwazurai",
+    "rus_name": "Бессмертная любовь",
+    "url": "/mangas/92968-ito-junji-kyoufu-hakubutsukan-10-shibito-no-koiwazurai",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1615132800000"
+  },
+  {
+    "id": 93963,
+    "name": "Yama Kaidan",
+    "rus_name": "Гора богов",
+    "url": "/mangas/93963-yama-kaidan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1640620800000"
+  },
+  {
+    "id": 29815,
+    "name": "Ya San",
+    "rus_name": "Я Сан",
+    "url": "/mangas/29815-ya-san",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangahub"
+    ],
+    "last_change": "1596470400000"
+  },
+  {
+    "id": 75771,
+    "name": "Kyoufu Kansen",
+    "rus_name": "Инфекция страха",
+    "url": "/mangas/75771-kyoufu-kansen",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608825600000"
+  },
+  {
+    "id": 14296,
+    "name": "Dero Dero",
+    "rus_name": "Деро-Деро",
+    "url": "/mangas/14296-dero-dero",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1634140800000"
+  },
+  {
+    "id": 6262,
+    "name": "School Ningyo",
+    "rus_name": "Школьные русалки",
+    "url": "/mangas/6262-school-ningyo",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1645545600000"
+  },
+  {
+    "id": 119021,
+    "name": "Best of Best: Itou Junji Tanpenshuu",
+    "rus_name": "Лучшие из лучших: Короткие рассказы Дзюндзи Ито",
+    "url": "/mangas/119021-best-of-best-itou-junji-tanpenshuu",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "mangaupdates",
+      "mangaupdates",
+      "mangaupdates",
+      "mangadex",
+      "mangadex",
+      "mangafox",
+      "mangahub",
+      "mangahub"
+    ],
+    "last_change": "1610035200000"
+  },
+  {
+    "id": 68419,
+    "name": "Ao no Haha",
+    "rus_name": "Мать синевы",
+    "url": "/mangas/68419-ao-no-haha",
+    "links": [
+      "official_site",
+      "anime_news_network",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1636041600000"
+  },
+  {
+    "id": 11420,
+    "name": "Dokumushi Kozou",
+    "rus_name": "Мальчик-личинка",
+    "url": "/mangas/11420-dokumushi-kozou",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates"
+    ],
+    "last_change": "1575216000000"
+  },
+  {
+    "id": 14403,
+    "name": "Shinonomeryou Kitan",
+    "rus_name": "Таинственные истории общежития Синономэ",
+    "url": "/mangas/14403-shinonomeryou-kitan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 1962,
+    "name": "Variante",
+    "rus_name": "Вариация — реквием мира",
+    "url": "/mangas/1962-variante",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1639324800000"
+  },
+  {
+    "id": 87670,
+    "name": "Kiriko",
+    "rus_name": "Кирико",
+    "url": "/mangas/87670-kiriko",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608220800000"
+  },
+  {
+    "id": 41665,
+    "name": "Zipangu Night",
+    "rus_name": "Японская ночь",
+    "url": "/mangas/41665-zipangu-night",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 13739,
+    "name": "Undead",
+    "rus_name": "Нежить",
+    "url": "/mangas/13739-undead",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 10925,
+    "name": "Tokyo Zombie",
+    "rus_name": "Токийское зомби",
+    "url": "/mangas/10925-tokyo-zombie",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 125097,
+    "name": "Jotei Game: Kimi no Onegai wa nan desu ka?",
+    "rus_name": "",
+    "url": "/mangas/125097-jotei-game-kimi-no-onegai-wa-nan-desu-ka",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 15516,
+    "name": "The Crater",
+    "rus_name": "Кратер",
+    "url": "/mangas/15516-the-crater",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1602345600000"
+  },
+  {
+    "id": 114824,
+    "name": "In the Room",
+    "rus_name": "В комнате",
+    "url": "/mangas/114824-in-the-room",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1647792000000"
+  },
+  {
+    "id": 1256,
+    "name": "Partner",
+    "rus_name": "Партнёр",
+    "url": "/mangas/1256-partner",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 14909,
+    "name": "Senrei",
+    "rus_name": "Крещение",
+    "url": "/mangas/14909-senrei",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581868800000"
+  },
+  {
+    "id": 6871,
+    "name": "Gareki no Eden",
+    "rus_name": "Камень Эдема",
+    "url": "/mangas/6871-gareki-no-eden",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1646668800000"
+  },
+  {
+    "id": 136775,
+    "name": "Zombieland Saga Gaiden: The First Zombie",
+    "rus_name": "Зомбилэнд-Сага: Первый зомби — Гайдэн",
+    "url": "/mangas/136775-zombieland-saga-gaiden-the-first-zombie",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1641484800000"
+  },
+  {
+    "id": 15472,
+    "name": "Madonna ni Tsugu",
+    "rus_name": "Скажи Мадонне",
+    "url": "/mangas/15472-madonna-ni-tsugu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 118324,
+    "name": "Libidors",
+    "rus_name": "Либидо",
+    "url": "/mangas/118324-libidors",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1595520000000"
+  },
+  {
+    "id": 129547,
+    "name": "Honomieru Shounen",
+    "rus_name": "Фантомный парень",
+    "url": "/mangas/129547-honomieru-shounen",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1626364800000"
+  },
+  {
+    "id": 82295,
+    "name": "Fukushuu Kyoushitsu",
+    "rus_name": "Классная месть",
+    "url": "/mangas/82295-fukushuu-kyoushitsu",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1615132800000"
+  },
+  {
+    "id": 142853,
+    "name": "Kinemaquia",
+    "rus_name": "Кинемакия",
+    "url": "/mangas/142853-kinemaquia",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1643558400000"
+  },
+  {
+    "id": 134321,
+    "name": "Shuuenchi",
+    "rus_name": "Парк расчленений",
+    "url": "/mangas/134321-shuuenchi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1642003200000"
+  },
+  {
+    "id": 118406,
+    "name": "Kekkai no Noah",
+    "rus_name": "Ной из кровавого моря",
+    "url": "/mangas/118406-kekkai-no-noah",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1625500800000"
+  },
+  {
+    "id": 68915,
+    "name": "Dead Word Puzzle",
+    "rus_name": "Головоломка мертвеца",
+    "url": "/mangas/68915-dead-word-puzzle",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1586188800000"
+  },
+  {
+    "id": 29485,
+    "name": "Crimezone",
+    "rus_name": "Кровавая зона",
+    "url": "/mangas/29485-crimezone",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1638460800000"
+  },
+  {
+    "id": 1356,
+    "name": "Cinderalla-chan",
+    "rus_name": "Золушка-тян",
+    "url": "/mangas/1356-cinderalla-chan",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630771200000"
+  },
+  {
+    "id": 122841,
+    "name": "Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin",
+    "rus_name": "Безымянный монстр",
+    "url": "/mangas/122841-namae-no-nai-kaibutsu-kumo-to-shoujo-to-ryouki-satsujin",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1626192000000"
+  },
+  {
+    "id": 87050,
+    "name": "Harapeko na Majou: Saty to Parvati",
+    "rus_name": "",
+    "url": "/mangas/87050-harapeko-na-majou-saty-to-parvati",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1639411200000"
+  },
+  {
+    "id": 121283,
+    "name": "Shikei Game",
+    "rus_name": "Личная игра в наказание",
+    "url": "/mangas/121283-shikei-game",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1651507200000"
+  },
+  {
+    "id": 129,
+    "name": "Birth",
+    "rus_name": "Рождение",
+    "url": "/mangas/129-birth",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1633449600000"
+  },
+  {
+    "id": 17251,
+    "name": "Giniro no Kami no Arisa",
+    "rus_name": "Алиса с серебряными волосами",
+    "url": "/mangas/17251-giniro-no-kami-no-arisa",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 18185,
+    "name": "China Blue Jasmine",
+    "rus_name": "Китайский Голубой Жасмин",
+    "url": "/mangas/18185-china-blue-jasmine",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 17860,
+    "name": "Lore no Mori",
+    "rus_name": "Лес Преданий",
+    "url": "/mangas/17860-lore-no-mori",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600704000000"
+  },
+  {
+    "id": 17882,
+    "name": "Yasha",
+    "rus_name": "Яша",
+    "url": "/mangas/17882-yasha",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1602259200000"
+  },
+  {
+    "id": 41571,
+    "name": "Zombie Anthology Comic",
+    "rus_name": "Сбежать от старшеклассниц",
+    "url": "/mangas/41571-zombie-anthology-comic",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1608393600000"
+  },
+  {
+    "id": 140090,
+    "name": "Shirai Kaiu x Demizu Posuka Tenpenshuu",
+    "rus_name": "Коллекция коротких историй Посуки Дэмидзу и Кайи Сирай",
+    "url": "/mangas/140090-shirai-kaiu-x-demizu-posuka-tenpenshuu",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1638720000000"
+  },
+  {
+    "id": 112529,
+    "name": "Yaki",
+    "rus_name": "Ночной демон",
+    "url": "/mangas/112529-yaki",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 636,
+    "name": "Umi no Yami, Tsuki no Kage",
+    "rus_name": "Морская тьма, лунная тень",
+    "url": "/mangas/636-umi-no-yami-tsuki-no-kage",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1623772800000"
+  },
+  {
+    "id": 97878,
+    "name": "Zekkyou Gakkyuu: Tensei",
+    "rus_name": "Уроки крика: Реинкарнация",
+    "url": "/mangas/97878-zekkyou-gakkyuu-tensei",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangahub"
+    ],
+    "last_change": "1578240000000"
+  },
+  {
+    "id": 32043,
+    "name": "Anamorphosis no Meijuu",
+    "rus_name": "Анаморфоз",
+    "url": "/mangas/32043-anamorphosis-no-meijuu",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610899200000"
+  },
+  {
+    "id": 10329,
+    "name": "Memoires du Masque",
+    "rus_name": "Воспоминания маски",
+    "url": "/mangas/10329-memoires-du-masque",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 17808,
+    "name": "Ookamikakushi: Keshimurasaki no Shou",
+    "rus_name": "Унесённые волками",
+    "url": "/mangas/17808-ookamikakushi-keshimurasaki-no-shou",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581609600000"
+  },
+  {
+    "id": 8836,
+    "name": "Nemurenu Yoru no Monogatari",
+    "rus_name": "Сказки для бессонной ночи",
+    "url": "/mangas/8836-nemurenu-yoru-no-monogatari",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 7067,
+    "name": "Skyhigh: Shinshou",
+    "rus_name": "Небесная высь: Новые главы",
+    "url": "/mangas/7067-skyhigh-shinshou",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1626364800000"
+  },
+  {
+    "id": 55901,
+    "name": "Eko Eko Azarak",
+    "rus_name": "Эко Эко Азарак",
+    "url": "/mangas/55901-eko-eko-azarak",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1595952000000"
+  },
+  {
+    "id": 4133,
+    "name": "The Dress",
+    "rus_name": "Платье",
+    "url": "/mangas/4133-the-dress",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1640966400000"
+  },
+  {
+    "id": 88228,
+    "name": "Karadasagashi",
+    "rus_name": "Поиск тела",
+    "url": "/mangas/88228-karadasagashi",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1613145600000"
+  },
+  {
+    "id": 120427,
+    "name": "Pink Royal",
+    "rus_name": "Королевский розовый",
+    "url": "/mangas/120427-pink-royal",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1615824000000"
+  },
+  {
+    "id": 102985,
+    "name": "Yami Shibai",
+    "rus_name": "Ями Шибаи: Японские рассказы о привидениях",
+    "url": "/mangas/102985-yami-shibai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 58769,
+    "name": "Tenmasou no Sanshimai - Sky High",
+    "rus_name": "Небесная высь: Три сестры Тэммаcо",
+    "url": "/mangas/58769-tenmasou-no-sanshimai-sky-high",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 101363,
+    "name": "After 0",
+    "rus_name": "После 0",
+    "url": "/mangas/101363-after-0",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 48283,
+    "name": "Manga of the Dead",
+    "rus_name": "Манга мертвецов",
+    "url": "/mangas/48283-manga-of-the-dead",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1609603200000"
+  },
+  {
+    "id": 3596,
+    "name": "Eikou no Te",
+    "rus_name": "Шуйца",
+    "url": "/mangas/3596-eikou-no-te",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581696000000"
+  },
+  {
+    "id": 120668,
+    "name": "Yomizuka no Kaii-san",
+    "rus_name": "",
+    "url": "/mangas/120668-yomizuka-no-kaii-san",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 8467,
+    "name": "Kigeki Ekimae Gyakusatsu",
+    "rus_name": "Комедийная резня на привокзальной площади",
+    "url": "/mangas/8467-kigeki-ekimae-gyakusatsu",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640102400000"
+  },
+  {
+    "id": 125624,
+    "name": "Kodomo no Kuni yori",
+    "rus_name": "Из страны детей",
+    "url": "/mangas/125624-kodomo-no-kuni-yori",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib"
+    ],
+    "last_change": "1599667200000"
+  },
+  {
+    "id": 118029,
+    "name": "Asu no Esa Kimi dakara",
+    "rus_name": "Время стать едой",
+    "url": "/mangas/118029-asu-no-esa-kimi-dakara",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1598803200000"
+  },
+  {
+    "id": 132078,
+    "name": "Usotsuki Satsuki wa Shi ga Mieru",
+    "rus_name": "Лгунья Сацуки может видеть смерть",
+    "url": "/mangas/132078-usotsuki-satsuki-wa-shi-ga-mieru",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1645545600000"
+  },
+  {
+    "id": 138902,
+    "name": "Kaiso Ichigenchou Hanafuda",
+    "rus_name": "",
+    "url": "/mangas/138902-kaiso-ichigenchou-hanafuda",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4127,
+    "name": "Biohazard Umbrella Chronicles: Houkai e no Jokyoku",
+    "rus_name": "Обитель зла: Хроники Амбреллы",
+    "url": "/mangas/4127-biohazard-umbrella-chronicles-houkai-e-no-jokyoku",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1602000000000"
+  },
+  {
+    "id": 9390,
+    "name": "Mayonaka no Cinderella",
+    "rus_name": "Золушка в полночь",
+    "url": "/mangas/9390-mayonaka-no-cinderella",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4036,
+    "name": "Skyhigh: Karma",
+    "rus_name": "Небесная высь: Карма",
+    "url": "/mangas/4036-skyhigh-karma",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1626364800000"
+  },
+  {
+    "id": 48275,
+    "name": "Junai no Lilith: Das Hexen Haus",
+    "rus_name": "",
+    "url": "/mangas/48275-junai-no-lilith-das-hexen-haus",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 42035,
+    "name": "Shoujotachi no Kaidan",
+    "rus_name": "Призрачные истории",
+    "url": "/mangas/42035-shoujotachi-no-kaidan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1598371200000"
+  },
+  {
+    "id": 12448,
+    "name": "Opera no Kaijin",
+    "rus_name": "Призрак оперы",
+    "url": "/mangas/12448-opera-no-kaijin",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1548691200000"
+  },
+  {
+    "id": 128859,
+    "name": "Atomic?",
+    "rus_name": "Атомный?",
+    "url": "/mangas/128859-atomic",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 9257,
+    "name": "Parasite Eve",
+    "rus_name": "Паразит Ева",
+    "url": "/mangas/9257-parasite-eve",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 25977,
+    "name": "Bloody Maiden: Toomarimiki no Shima",
+    "rus_name": "Кровавая дева",
+    "url": "/mangas/25977-bloody-maiden-toomarimiki-no-shima",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600617600000"
+  },
+  {
+    "id": 41663,
+    "name": "The Experiment",
+    "rus_name": "Эксперимент",
+    "url": "/mangas/41663-the-experiment",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 87612,
+    "name": "Nemuri no Fuchi",
+    "rus_name": "Пучина сна",
+    "url": "/mangas/87612-nemuri-no-fuchi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1646496000000"
+  },
+  {
+    "id": 83365,
+    "name": "Akumu Koushounin",
+    "rus_name": "Кошмарный переговорщик",
+    "url": "/mangas/83365-akumu-koushounin",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1610294400000"
+  },
+  {
+    "id": 76873,
+    "name": "Circus Kitan",
+    "rus_name": "Цирк монстров",
+    "url": "/mangas/76873-circus-kitan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 93556,
+    "name": "Kuro Ihon",
+    "rus_name": "Чёрный: Альтернативная версия",
+    "url": "/mangas/93556-kuro-ihon",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1592496000000"
+  },
+  {
+    "id": 71283,
+    "name": "Sayuri",
+    "rus_name": "Саюри",
+    "url": "/mangas/71283-sayuri",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1601136000000"
+  },
+  {
+    "id": 70595,
+    "name": "Haunted Campus",
+    "rus_name": "Призрачный кампус",
+    "url": "/mangas/70595-haunted-campus",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 10511,
+    "name": "Eater",
+    "rus_name": "Пожиратель",
+    "url": "/mangas/10511-eater",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1632067200000"
+  },
+  {
+    "id": 30603,
+    "name": "6000",
+    "rus_name": "Шесть тысяч",
+    "url": "/mangas/30603-6000",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1635264000000"
+  },
+  {
+    "id": 95543,
+    "name": "Akuma-kun no Bouken",
+    "rus_name": "Приключение Дьяволёнка",
+    "url": "/mangas/95543-akuma-kun-no-bouken",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 24889,
+    "name": "Mashoujo",
+    "rus_name": "Девушка-демон",
+    "url": "/mangas/24889-mashoujo",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 59037,
+    "name": "Pentacle",
+    "rus_name": "Магическая фигура",
+    "url": "/mangas/59037-pentacle",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 52181,
+    "name": "D.Y.N. Freaks",
+    "rus_name": "Чаепитие уродов",
+    "url": "/mangas/52181-d-y-n-freaks",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1536076800000"
+  },
+  {
+    "id": 95616,
+    "name": "Kaiki Shininchou",
+    "rus_name": "",
+    "url": "/mangas/95616-kaiki-shininchou",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1638892800000"
+  },
+  {
+    "id": 16739,
+    "name": "Tousei Gensou Hakubutsushi",
+    "rus_name": "Хроники ускользающего мира",
+    "url": "/mangas/16739-tousei-gensou-hakubutsushi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1636560000000"
+  },
+  {
+    "id": 44205,
+    "name": "Shiranui Kitanroku",
+    "rus_name": "Страшные сказки Ширануи",
+    "url": "/mangas/44205-shiranui-kitanroku",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1615392000000"
+  },
+  {
+    "id": 97344,
+    "name": "Mashuri no Hako",
+    "rus_name": "Коробка Масюри",
+    "url": "/mangas/97344-mashuri-no-hako",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1641225600000"
+  },
+  {
+    "id": 94424,
+    "name": "Fireworks",
+    "rus_name": "Фейерверк",
+    "url": "/mangas/94424-fireworks",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630771200000"
+  },
+  {
+    "id": 95693,
+    "name": "Kotou no Oni",
+    "rus_name": "Демон пустынного острова",
+    "url": "/mangas/95693-kotou-no-oni",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600617600000"
+  },
+  {
+    "id": 1215,
+    "name": "Doumu",
+    "rus_name": "Дому — Детские сны",
+    "url": "/mangas/1215-doumu",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1622995200000"
+  },
+  {
+    "id": 70405,
+    "name": "Museum",
+    "rus_name": "Музей",
+    "url": "/mangas/70405-museum",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1624377600000"
+  },
+  {
+    "id": 130158,
+    "name": "Heroine wa Zetsubou Shimashita.",
+    "rus_name": "Героиня была в отчаянии",
+    "url": "/mangas/130158-heroine-wa-zetsubou-shimashita",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1633276800000"
+  },
+  {
+    "id": 142637,
+    "name": "Mieruko-chan: Koushiki Anthology Comic",
+    "rus_name": "Девочка, которая видит это: Антология",
+    "url": "/mangas/142637-mieruko-chan-koushiki-anthology-comic",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangahub"
+    ],
+    "last_change": "1640620800000"
+  },
+  {
+    "id": 107080,
+    "name": "Smoke & Water: Marquis de Sade no Magomusume",
+    "rus_name": "Дым и вода: Внучка маркиза де Сада",
+    "url": "/mangas/107080-smoke-water-marquis-de-sade-no-magomusume",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640534400000"
+  },
+  {
+    "id": 133964,
+    "name": "Zombie darake no Kono Sekai dewa Sex shinai to Ikinokorenai",
+    "rus_name": "В этом мире, полном зомби, вы не сможете выжить без секса",
+    "url": "/mangas/133964-zombie-darake-no-kono-sekai-dewa-sex-shinai-to-ikinokorenai",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1626969600000"
+  },
+  {
+    "id": 1230,
+    "name": "Tokyo Akazukin",
+    "rus_name": "Токийская Красная Шапочка",
+    "url": "/mangas/1230-tokyo-akazukin",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1646755200000"
+  },
+  {
+    "id": 119951,
+    "name": "Outsider",
+    "rus_name": "Изгой",
+    "url": "/mangas/119951-outsider",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 86923,
+    "name": "Shishou Series: Shishou to Boku to",
+    "rus_name": "Господин Учитель: Учитель и я",
+    "url": "/mangas/86923-shishou-series-shishou-to-boku-to",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1631376000000"
+  },
+  {
+    "id": 45943,
+    "name": "MAZE",
+    "rus_name": "",
+    "url": "/mangas/45943-maze",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 35593,
+    "name": "Hanged Doll",
+    "rus_name": "Повешенная кукла",
+    "url": "/mangas/35593-hanged-doll",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1601481600000"
+  },
+  {
+    "id": 106928,
+    "name": "Shishuugoku",
+    "rus_name": "Темница мёртвых",
+    "url": "/mangas/106928-shishuugoku",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1632326400000"
+  },
+  {
+    "id": 29703,
+    "name": "Onigami no Sumu Ie",
+    "rus_name": "Дом, где живёт призрак",
+    "url": "/mangas/29703-onigami-no-sumu-ie",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 116204,
+    "name": "Freudstein no Futago",
+    "rus_name": "Близнецы Фрейдштейн",
+    "url": "/mangas/116204-freudstein-no-futago",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1621872000000"
+  },
+  {
+    "id": 5349,
+    "name": "Kamakiri Onna",
+    "rus_name": "Женщина-богомол",
+    "url": "/mangas/5349-kamakiri-onna",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1611244800000"
+  },
+  {
+    "id": 24648,
+    "name": "Region",
+    "rus_name": "Полчища",
+    "url": "/mangas/24648-region",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1596470400000"
+  },
+  {
+    "id": 99191,
+    "name": "Ao Oni: Genshi-hen",
+    "rus_name": "Синий демон: Начало",
+    "url": "/mangas/99191-ao-oni-genshi-hen",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 131171,
+    "name": "Ghost Teller",
+    "rus_name": "Призрачный сказитель",
+    "url": "/mangas/131171-ghost-teller",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614873600000"
+  },
+  {
+    "id": 122440,
+    "name": "Gijin",
+    "rus_name": "",
+    "url": "/mangas/122440-gijin",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 55587,
+    "name": "Fushigi Teien no Mamono",
+    "rus_name": "",
+    "url": "/mangas/55587-fushigi-teien-no-mamono",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 84603,
+    "name": "Spoonman",
+    "rus_name": "",
+    "url": "/mangas/84603-spoonman",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 16879,
+    "name": "Gakkou Kaidan",
+    "rus_name": "Призрачные истории",
+    "url": "/mangas/16879-gakkou-kaidan",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1610294400000"
+  },
+  {
+    "id": 2566,
+    "name": "Persona 3",
+    "rus_name": "Персона 3",
+    "url": "/mangas/2566-persona-3",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614787200000"
+  },
+  {
+    "id": 8900,
+    "name": "Shihaisha no Tasogare",
+    "rus_name": "Сумерки Повелителя Тьмы",
+    "url": "/mangas/8900-shihaisha-no-tasogare",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 2691,
+    "name": "La Suite D'amour Du Chat Noir",
+    "rus_name": "Пара для чёрной кошки",
+    "url": "/mangas/2691-la-suite-d-amour-du-chat-noir",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 106939,
+    "name": "Ushiro: Fukigen na Shinigami.",
+    "rus_name": "Уширо: Мрачный бог смерти",
+    "url": "/mangas/106939-ushiro-fukigen-na-shinigami",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1631030400000"
+  },
+  {
+    "id": 31981,
+    "name": "Wiseman",
+    "rus_name": "Мудрец",
+    "url": "/mangas/31981-wiseman",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 10306,
+    "name": "Inugami Hakase",
+    "rus_name": "Знаток Инугами",
+    "url": "/mangas/10306-inugami-hakase",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangahub"
+    ],
+    "last_change": "1614182400000"
+  },
+  {
+    "id": 137966,
+    "name": "SCP Zaidan Comic Anthology: Kai",
+    "rus_name": "",
+    "url": "/mangas/137966-scp-zaidan-comic-anthology-kai",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1642262400000"
+  },
+  {
+    "id": 29339,
+    "name": "Kirikiri",
+    "rus_name": "Рукоять",
+    "url": "/mangas/29339-kirikiri",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 86922,
+    "name": "Shishou Series",
+    "rus_name": "Господин Учитель",
+    "url": "/mangas/86922-shishou-series",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1557936000000"
+  },
+  {
+    "id": 15041,
+    "name": "Akai Sora Shiroi Umi",
+    "rus_name": "Красное небо в белом море",
+    "url": "/mangas/15041-akai-sora-shiroi-umi",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1631721600000"
+  },
+  {
+    "id": 95544,
+    "name": "Akuma-kun Seikimatsu Taisen",
+    "rus_name": "Дьяволёнок: Великая война в конце столетия",
+    "url": "/mangas/95544-akuma-kun-seikimatsu-taisen",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 120027,
+    "name": "Shi mo Mata Shisuru Mono Nareba",
+    "rus_name": "",
+    "url": "/mangas/120027-shi-mo-mata-shisuru-mono-nareba",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 8655,
+    "name": "Lunatic Lover's",
+    "rus_name": "Приют влюблённого психопата",
+    "url": "/mangas/8655-lunatic-lover-s",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1570291200000"
+  },
+  {
+    "id": 17004,
+    "name": "Series Itsuki",
+    "rus_name": "",
+    "url": "/mangas/17004-series-itsuki",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 127957,
+    "name": "Shi no Tori",
+    "rus_name": "Мёртвая птица",
+    "url": "/mangas/127957-shi-no-tori",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1631894400000"
+  },
+  {
+    "id": 12537,
+    "name": "Yoru wo Utau Kodomotachi",
+    "rus_name": "Воспевающие ночь",
+    "url": "/mangas/12537-yoru-wo-utau-kodomotachi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1612540800000"
+  },
+  {
+    "id": 451,
+    "name": "Missing: Kamikakushi no Monogatari",
+    "rus_name": "Пропащая: История таинственного исчезновения",
+    "url": "/mangas/451-missing-kamikakushi-no-monogatari",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 28353,
+    "name": "Shiori to Shimiko",
+    "rus_name": "Сиори и Симико",
+    "url": "/mangas/28353-shiori-to-shimiko",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1646841600000"
+  },
+  {
+    "id": 3256,
+    "name": "Fuan no Tane",
+    "rus_name": "Семя страха",
+    "url": "/mangas/3256-fuan-no-tane",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1604332800000"
+  },
+  {
+    "id": 15475,
+    "name": "X-Day",
+    "rus_name": "День X",
+    "url": "/mangas/15475-x-day",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1606579200000"
+  },
+  {
+    "id": 4796,
+    "name": "Tsuki ni Hoero!",
+    "rus_name": "Вой на луну",
+    "url": "/mangas/4796-tsuki-ni-hoero",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 59030,
+    "name": "Eguchi Hisashi no Inu no Nikki, Kusai Hanashi, Sono Hoka no Tanpen",
+    "rus_name": "Собачий дневник Хисаси Эгути и другие истории",
+    "url": "/mangas/59030-eguchi-hisashi-no-inu-no-nikki-kusai-hanashi-sono-hoka-no-tanpen",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 22774,
+    "name": "BUBL",
+    "rus_name": "",
+    "url": "/mangas/22774-bubl",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 952,
+    "name": "Blaster Knuckle",
+    "rus_name": "Электрокастет",
+    "url": "/mangas/952-blaster-knuckle",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1614528000000"
+  },
+  {
+    "id": 125749,
+    "name": "Tokimeki no Ikenie",
+    "rus_name": "Жертва сердцебиения",
+    "url": "/mangas/125749-tokimeki-no-ikenie",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib"
+    ],
+    "last_change": "1601308800000"
+  },
+  {
+    "id": 99380,
+    "name": "Yuurei na Kanojo to Shinrei na Boku",
+    "rus_name": "",
+    "url": "/mangas/99380-yuurei-na-kanojo-to-shinrei-na-boku",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1647705600000"
+  },
+  {
+    "id": 108471,
+    "name": "Kibou no Shima",
+    "rus_name": "Остров страсти",
+    "url": "/mangas/108471-kibou-no-shima",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1575475200000"
+  },
+  {
+    "id": 8569,
+    "name": "Shin Maou Dante",
+    "rus_name": "Новый Данте, властелин демонов",
+    "url": "/mangas/8569-shin-maou-dante",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1641398400000"
+  },
+  {
+    "id": 7920,
+    "name": "Vampire Master",
+    "rus_name": "Повелитель вампиров",
+    "url": "/mangas/7920-vampire-master",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581609600000"
+  },
+  {
+    "id": 117439,
+    "name": "Inagawa-san no Koi to Kaidan",
+    "rus_name": "",
+    "url": "/mangas/117439-inagawa-san-no-koi-to-kaidan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 29191,
+    "name": "Tsujiurauri",
+    "rus_name": "",
+    "url": "/mangas/29191-tsujiurauri",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1631030400000"
+  },
+  {
+    "id": 29435,
+    "name": "Te - Kaiki Meikyuu",
+    "rus_name": "Рука: Таинственный лабиринт",
+    "url": "/mangas/29435-te-kaiki-meikyuu",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 129470,
+    "name": "Sukuitamae, Yaritamae",
+    "rus_name": "",
+    "url": "/mangas/129470-sukuitamae-yaritamae",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 67341,
+    "name": "Teito Monogatari",
+    "rus_name": "Столичная история",
+    "url": "/mangas/67341-teito-monogatari",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1574611200000"
+  },
+  {
+    "id": 182,
+    "name": "Zombie Hunter",
+    "rus_name": "Охотник на зомби",
+    "url": "/mangas/182-zombie-hunter",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1650988800000"
+  },
+  {
+    "id": 111223,
+    "name": "Kaibutsu Oujo Nightmare",
+    "rus_name": "Принцесса чудовищ: Кошмар",
+    "url": "/mangas/111223-kaibutsu-oujo-nightmare",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608998400000"
+  },
+  {
+    "id": 6929,
+    "name": "Kurokami no Medusa",
+    "rus_name": "Черноволосая медуза",
+    "url": "/mangas/6929-kurokami-no-medusa",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1646668800000"
+  },
+  {
+    "id": 73373,
+    "name": "Outer Zone",
+    "rus_name": "Внешняя зона",
+    "url": "/mangas/73373-outer-zone",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 130317,
+    "name": "Nyaight of the Living Cat",
+    "rus_name": "Ночь живых кошаков",
+    "url": "/mangas/130317-nyaight-of-the-living-cat",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 16749,
+    "name": "Kaiki Hakubutsukan",
+    "rus_name": "Таинственный музей",
+    "url": "/mangas/16749-kaiki-hakubutsukan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 3099,
+    "name": "Embalming: The Another Tale of Frankenstein",
+    "rus_name": "Бальзамация: Новый Франкенштейн",
+    "url": "/mangas/3099-embalming-the-another-tale-of-frankenstein",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1579449600000"
+  },
+  {
+    "id": 130864,
+    "name": "Kaigan",
+    "rus_name": "",
+    "url": "/mangas/130864-kaigan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 101988,
+    "name": "Sumika",
+    "rus_name": "Жилище",
+    "url": "/mangas/101988-sumika",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1634486400000"
+  },
+  {
+    "id": 48023,
+    "name": "Kakeru",
+    "rus_name": "Какэру",
+    "url": "/mangas/48023-kakeru",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640448000000"
+  },
+  {
+    "id": 9981,
+    "name": "Presents",
+    "rus_name": "Подарки",
+    "url": "/mangas/9981-presents",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 109610,
+    "name": "Kimi no Tame ni, Oneechan ga Minna Koroshiteageru: Project Dia Horizon",
+    "rus_name": "Ради тебя я убью всех: Проект Полгоризонта",
+    "url": "/mangas/109610-kimi-no-tame-ni-oneechan-ga-minna-koroshiteageru-project-dia-horizon",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608220800000"
+  },
+  {
+    "id": 24456,
+    "name": "Mahou Shoujo Oriko★Magica",
+    "rus_name": "Девочка-волшебница Орико★Волшебство",
+    "url": "/mangas/24456-mahou-shoujo-oriko-magica",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1621958400000"
+  },
+  {
+    "id": 45669,
+    "name": "Bluish",
+    "rus_name": "Синеватый",
+    "url": "/mangas/45669-bluish",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1608912000000"
+  },
+  {
+    "id": 22790,
+    "name": "Kappa no Sanpei",
+    "rus_name": "Каппа Сампэй",
+    "url": "/mangas/22790-kappa-no-sanpei",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1635609600000"
+  },
+  {
+    "id": 75975,
+    "name": "Kagami ga Kita",
+    "rus_name": "",
+    "url": "/mangas/75975-kagami-ga-kita",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangadex",
+      "mangafox",
+      "mangafox"
+    ],
+    "last_change": "1637683200000"
+  },
+  {
+    "id": 92047,
+    "name": "Kuro-senpai to Kuroyashiki no Yami ni Mayowanai",
+    "rus_name": "Прогулки по мрачному особняку с Куро",
+    "url": "/mangas/92047-kuro-senpai-to-kuroyashiki-no-yami-ni-mayowanai",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1643644800000"
+  },
+  {
+    "id": 67345,
+    "name": "Yumeyume: Onmyouji Kidan",
+    "rus_name": "Демоническая повесть волшебника",
+    "url": "/mangas/67345-yumeyume-onmyouji-kidan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1600185600000"
+  },
+  {
+    "id": 123564,
+    "name": "Seija no Koushin: Revenge",
+    "rus_name": "Парад живых: Месть",
+    "url": "/mangas/123564-seija-no-koushin-revenge",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 14259,
+    "name": "Gichigichi-kun",
+    "rus_name": "Гичи Гичи",
+    "url": "/mangas/14259-gichigichi-kun",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1590163200000"
+  },
+  {
+    "id": 121715,
+    "name": "Kaibutsu Shoujo Zukan",
+    "rus_name": "Энциклопедия девушек-монстров",
+    "url": "/mangas/121715-kaibutsu-shoujo-zukan",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1637683200000"
+  },
+  {
+    "id": 21129,
+    "name": "The Man Who Saw Hell",
+    "rus_name": "Человек, видевший Ад",
+    "url": "/mangas/21129-the-man-who-saw-hell",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 92937,
+    "name": "Ginrou Blood Bone",
+    "rus_name": "Серебряный волк, кровь и кости",
+    "url": "/mangas/92937-ginrou-blood-bone",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1575388800000"
+  },
+  {
+    "id": 113810,
+    "name": "Tetsumin",
+    "rus_name": "Железные люди",
+    "url": "/mangas/113810-tetsumin",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1632758400000"
+  },
+  {
+    "id": 121688,
+    "name": "Kuroisha no Dessert",
+    "rus_name": "",
+    "url": "/mangas/121688-kuroisha-no-dessert",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1609689600000"
+  },
+  {
+    "id": 16797,
+    "name": "Erotic Horror",
+    "rus_name": "Мистика любви: Кошмар в летнюю ночь",
+    "url": "/mangas/16797-erotic-horror",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1601740800000"
+  },
+  {
+    "id": 104112,
+    "name": "Eaters Fang",
+    "rus_name": "Клык хищника",
+    "url": "/mangas/104112-eaters-fang",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1636819200000"
+  },
+  {
+    "id": 125037,
+    "name": "Timing",
+    "rus_name": "Контролирующие время",
+    "url": "/mangas/125037-timing",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangafox"
+    ],
+    "last_change": "1587484800000"
+  },
+  {
+    "id": 124826,
+    "name": "Gemini",
+    "rus_name": "Близнецы",
+    "url": "/mangas/124826-gemini",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1631635200000"
+  },
+  {
+    "id": 132760,
+    "name": "Eko Eko Azarak: Reborn",
+    "rus_name": "Эко Эко Азарак: Возрождение",
+    "url": "/mangas/132760-eko-eko-azarak-reborn",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 43339,
+    "name": "Hangyojin",
+    "rus_name": "Водяной",
+    "url": "/mangas/43339-hangyojin",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 3261,
+    "name": "Ju-On",
+    "rus_name": "Проклятие",
+    "url": "/mangas/3261-ju-on",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 9167,
+    "name": "Sin",
+    "rus_name": "Грех",
+    "url": "/mangas/9167-sin",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": "1631376000000"
+  },
+  {
+    "id": 96080,
+    "name": "Mushinuyun",
+    "rus_name": "Царство насекомых",
+    "url": "/mangas/96080-mushinuyun",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 87912,
+    "name": "Tokkou Zero",
+    "rus_name": "Токко: Начало",
+    "url": "/mangas/87912-tokkou-zero",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1531929600000"
+  },
+  {
+    "id": 127328,
+    "name": "Zombie-chan",
+    "rus_name": "Зомби",
+    "url": "/mangas/127328-zombie-chan",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 8782,
+    "name": "Maou Dante (2002)",
+    "rus_name": "Данте, властелин демонов",
+    "url": "/mangas/8782-maou-dante-2002",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1627401600000"
+  },
+  {
+    "id": 86652,
+    "name": "Mugengai",
+    "rus_name": "Улица фантазий",
+    "url": "/mangas/86652-mugengai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 51763,
+    "name": "Koiyami: Hayarigami Another Story",
+    "rus_name": "",
+    "url": "/mangas/51763-koiyami-hayarigami-another-story",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 102986,
+    "name": "Kaibou Kitan",
+    "rus_name": "",
+    "url": "/mangas/102986-kaibou-kitan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 104120,
+    "name": "Terror Night",
+    "rus_name": "Ночь террора",
+    "url": "/mangas/104120-terror-night",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1628352000000"
+  },
+  {
+    "id": 95346,
+    "name": "Ushiro",
+    "rus_name": "Уширо",
+    "url": "/mangas/95346-ushiro",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 141086,
+    "name": "Dunwich no Kai",
+    "rus_name": "Ужас Данвича",
+    "url": "/mangas/141086-dunwich-no-kai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 3494,
+    "name": "Kenja wa Nemuru: Shinjou Mimei no Houseki Jikenbo",
+    "rus_name": "Спящий мудрец",
+    "url": "/mangas/3494-kenja-wa-nemuru-shinjou-mimei-no-houseki-jikenbo",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581782400000"
+  },
+  {
+    "id": 109619,
+    "name": "Ozomashia",
+    "rus_name": "",
+    "url": "/mangas/109619-ozomashia",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1609862400000"
+  },
+  {
+    "id": 127122,
+    "name": "Ganimede: Satsuriku no Shima",
+    "rus_name": "",
+    "url": "/mangas/127122-ganimede-satsuriku-no-shima",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 114988,
+    "name": "Chimamire Sukeban Chainsaw: Reflesh",
+    "rus_name": "Хулиганка с бензопилой: Обновление",
+    "url": "/mangas/114988-chimamire-sukeban-chainsaw-reflesh",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 7653,
+    "name": "ChaoS;HEAd",
+    "rus_name": "Вершина хаоса",
+    "url": "/mangas/7653-chaos-head",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1612022400000"
+  },
+  {
+    "id": 7090,
+    "name": "Tsukumo Nemuru Shizume",
+    "rus_name": "",
+    "url": "/mangas/7090-tsukumo-nemuru-shizume",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1634313600000"
+  },
+  {
+    "id": 125751,
+    "name": "Chihone no Shanikusai",
+    "rus_name": "",
+    "url": "/mangas/125751-chihone-no-shanikusai",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1632412800000"
+  },
+  {
+    "id": 139257,
+    "name": "Gigantis",
+    "rus_name": "Гигантис",
+    "url": "/mangas/139257-gigantis",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1637424000000"
+  },
+  {
+    "id": 94829,
+    "name": "Koteki",
+    "rus_name": "Свист насекомого",
+    "url": "/mangas/94829-koteki",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 44473,
+    "name": "Metamorcode",
+    "rus_name": "Метаморкод",
+    "url": "/mangas/44473-metamorcode",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1598803200000"
+  },
+  {
+    "id": 11307,
+    "name": "Ningen Modoki",
+    "rus_name": "Фальшивый человек",
+    "url": "/mangas/11307-ningen-modoki",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1622649600000"
+  },
+  {
+    "id": 112358,
+    "name": "Akujikiou",
+    "rus_name": "Всеядный король",
+    "url": "/mangas/112358-akujikiou",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1556035200000"
+  },
+  {
+    "id": 17065,
+    "name": "Ningyokan Monogatari",
+    "rus_name": "История особняка русалок",
+    "url": "/mangas/17065-ningyokan-monogatari",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 94835,
+    "name": "Shigyaku Keiyakusha Fausts",
+    "rus_name": "",
+    "url": "/mangas/94835-shigyaku-keiyakusha-fausts",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 64755,
+    "name": "Kaiki Kanzume",
+    "rus_name": "Испорченные консервы",
+    "url": "/mangas/64755-kaiki-kanzume",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1560441600000"
+  },
+  {
+    "id": 17482,
+    "name": "Godeath: Megami no Ketsumyaku",
+    "rus_name": "Богиня смерти",
+    "url": "/mangas/17482-godeath-megami-no-ketsumyaku",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1621008000000"
+  },
+  {
+    "id": 94431,
+    "name": "Reibaishi Izuna: Ascension",
+    "rus_name": "",
+    "url": "/mangas/94431-reibaishi-izuna-ascension",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1641830400000"
+  },
+  {
+    "id": 21640,
+    "name": "Light Novel",
+    "rus_name": "Лайт-новел",
+    "url": "/mangas/21640-light-novel",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1639324800000"
+  },
+  {
+    "id": 4155,
+    "name": "Koi Tomurai",
+    "rus_name": "Похороны любви",
+    "url": "/mangas/4155-koi-tomurai",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1601568000000"
+  },
+  {
+    "id": 17388,
+    "name": "13 Gatsu no Higeki",
+    "rus_name": "Трагедия тринадцатого месяца",
+    "url": "/mangas/17388-13-gatsu-no-higeki",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 114900,
+    "name": "Nemesis Call",
+    "rus_name": "Зов Немезиды",
+    "url": "/mangas/114900-nemesis-call",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 1161,
+    "name": "Kurosagi Shitai Takuhaibin",
+    "rus_name": "Куросаги. Служба доставки трупов",
+    "url": "/mangas/1161-kurosagi-shitai-takuhaibin",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1643385600000"
+  },
+  {
+    "id": 24949,
+    "name": "Kyonyuu Dragon",
+    "rus_name": "Дракон с большой грудью",
+    "url": "/mangas/24949-kyonyuu-dragon",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1646409600000"
+  },
+  {
+    "id": 7697,
+    "name": "Shin Violence Jack",
+    "rus_name": "Истинный жестокий Джек",
+    "url": "/mangas/7697-shin-violence-jack",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1641484800000"
+  },
+  {
+    "id": 59763,
+    "name": "Kuroi Hohoemi",
+    "rus_name": "Чёрная улыбка",
+    "url": "/mangas/59763-kuroi-hohoemi",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1635609600000"
+  },
+  {
+    "id": 114479,
+    "name": "Kaida-san no Kaidan",
+    "rus_name": "Истории Кайды о привидениях",
+    "url": "/mangas/114479-kaida-san-no-kaidan",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1634486400000"
+  },
+  {
+    "id": 44157,
+    "name": "Deguchi Zero",
+    "rus_name": "Выхода нет",
+    "url": "/mangas/44157-deguchi-zero",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581868800000"
+  },
+  {
+    "id": 1347,
+    "name": "Teizokurei Daydream",
+    "rus_name": "Мечты вульгарного духа",
+    "url": "/mangas/1347-teizokurei-daydream",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1645977600000"
+  },
+  {
+    "id": 3621,
+    "name": "Snow in the Dark",
+    "rus_name": "Снег во мраке",
+    "url": "/mangas/3621-snow-in-the-dark",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608912000000"
+  },
+  {
+    "id": 14726,
+    "name": "Death's Reflection",
+    "rus_name": "Отражение смерти",
+    "url": "/mangas/14726-death-s-reflection",
+    "links": [
+      "myanimelist",
+      "mangafox"
+    ],
+    "last_change": "1593964800000"
+  },
+  {
+    "id": 29701,
+    "name": "Yami kara no Shoutaijou",
+    "rus_name": "Послание из темноты",
+    "url": "/mangas/29701-yami-kara-no-shoutaijou",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 124328,
+    "name": "Hengen Taima Yakou Karura Mau!",
+    "rus_name": "Танец Карура",
+    "url": "/mangas/124328-hengen-taima-yakou-karura-mau",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 297,
+    "name": "Diabolo",
+    "rus_name": "Диаболо",
+    "url": "/mangas/297-diabolo",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1619884800000"
+  },
+  {
+    "id": 61827,
+    "name": "Byakko Kitan",
+    "rus_name": "Сказка о белом лисе",
+    "url": "/mangas/61827-byakko-kitan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 114503,
+    "name": "Zetsubou no Rakuen",
+    "rus_name": "Рай отчаяния",
+    "url": "/mangas/114503-zetsubou-no-rakuen",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
       "mangaupdates",
       "mangadex",
       "mangafox"
@@ -6632,10 +6347,1367 @@ let manga = [
     "last_change": "1634227200000"
   },
   {
-    "id": 94379,
-    "name": "Umibe no Machi",
+    "id": 13603,
+    "name": "Kodoku Experiment",
+    "rus_name": "Эксперимент Кодоку",
+    "url": "/mangas/13603-kodoku-experiment",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581868800000"
+  },
+  {
+    "id": 19491,
+    "name": "Scramble Doumei",
     "rus_name": "",
-    "url": "/mangas/94379-umibe-no-machi",
+    "url": "/mangas/19491-scramble-doumei",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 88042,
+    "name": "Naname no Ongaku",
+    "rus_name": "",
+    "url": "/mangas/88042-naname-no-ongaku",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 126099,
+    "name": "Suicide Girl",
+    "rus_name": "Девушка-самоубийца",
+    "url": "/mangas/126099-suicide-girl",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1638201600000"
+  },
+  {
+    "id": 109159,
+    "name": "Shikabanechou Undead",
+    "rus_name": "Город живых мертвецов",
+    "url": "/mangas/109159-shikabanechou-undead",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608048000000"
+  },
+  {
+    "id": 120657,
+    "name": "Fly",
+    "rus_name": "",
+    "url": "/mangas/120657-fly",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 120238,
+    "name": "Shikabana: Hana, Shitai, Koto",
+    "rus_name": "",
+    "url": "/mangas/120238-shikabana-hana-shitai-koto",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 73849,
+    "name": "Bishounen Meigenshuu",
+    "rus_name": "",
+    "url": "/mangas/73849-bishounen-meigenshuu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 16926,
+    "name": "Rasenbana",
+    "rus_name": "",
+    "url": "/mangas/16926-rasenbana",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1632585600000"
+  },
+  {
+    "id": 97942,
+    "name": "Picaro",
+    "rus_name": "",
+    "url": "/mangas/97942-picaro",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 26001,
+    "name": "Bug",
+    "rus_name": "",
+    "url": "/mangas/26001-bug",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 87999,
+    "name": "Kyoufu Shinbun",
+    "rus_name": "Газета ужасов",
+    "url": "/mangas/87999-kyoufu-shinbun",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 1803,
+    "name": "Byakuya Zoushi",
+    "rus_name": "Черновики белых ночей",
+    "url": "/mangas/1803-byakuya-zoushi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1622736000000"
+  },
+  {
+    "id": 29379,
+    "name": "Kagami no Naka no Yami",
+    "rus_name": "Тьма в зеркале",
+    "url": "/mangas/29379-kagami-no-naka-no-yami",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 58245,
+    "name": "Youkai Kyoushitsu",
+    "rus_name": "Сверхъестественный класс",
+    "url": "/mangas/58245-youkai-kyoushitsu",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610035200000"
+  },
+  {
+    "id": 119066,
+    "name": "Tales of the Unusual",
+    "rus_name": "Потусторонние истории",
+    "url": "/mangas/119066-tales-of-the-unusual",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1623168000000"
+  },
+  {
+    "id": 4070,
+    "name": "Sister Red",
+    "rus_name": "Сёстры Рэд",
+    "url": "/mangas/4070-sister-red",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640793600000"
+  },
+  {
+    "id": 112064,
+    "name": "Shokuryou Kyoushitsu",
+    "rus_name": "Класс охоты и поедания",
+    "url": "/mangas/112064-shokuryou-kyoushitsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 885,
+    "name": "Hakushaku Cain Series",
+    "rus_name": "Граф Каин",
+    "url": "/mangas/885-hakushaku-cain-series",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614268800000"
+  },
+  {
+    "id": 104440,
+    "name": "Monkey Peak",
+    "rus_name": "Обезьяний пик",
+    "url": "/mangas/104440-monkey-peak",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608480000000"
+  },
+  {
+    "id": 4742,
+    "name": "Kamen Rider Spirits",
+    "rus_name": "Духи Наездника в маске",
+    "url": "/mangas/4742-kamen-rider-spirits",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1564243200000"
+  },
+  {
+    "id": 35133,
+    "name": "Seiketsu no Haguruma",
+    "rus_name": "Истории о Хагуруме",
+    "url": "/mangas/35133-seiketsu-no-haguruma",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1632153600000"
+  },
+  {
+    "id": 95958,
+    "name": "Versailles of the Dead",
+    "rus_name": "Версаль мёртвых",
+    "url": "/mangas/95958-versailles-of-the-dead",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608048000000"
+  },
+  {
+    "id": 54249,
+    "name": "Gankyu Kitan Yui",
+    "rus_name": "",
+    "url": "/mangas/54249-gankyu-kitan-yui",
+    "last_change": "",
+    "links": [
+      "myanimelist"
+    ]
+  },
+  {
+    "id": 88000,
+    "name": "Kyoufu Shinbun II",
+    "rus_name": "Газета ужасов 2",
+    "url": "/mangas/88000-kyoufu-shinbun-ii",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 65221,
+    "name": "Obake no Oyatsu",
+    "rus_name": "",
+    "url": "/mangas/65221-obake-no-oyatsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 29213,
+    "name": "Kigata ga Kita!: \"Kyoufu Shinbun\" yori",
+    "rus_name": "",
+    "url": "/mangas/29213-kigata-ga-kita-kyoufu-shinbun-yori",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1631116800000"
+  },
+  {
+    "id": 107808,
+    "name": "Iron Ghost no Shoujo",
+    "rus_name": "Призрак девушки из стали",
+    "url": "/mangas/107808-iron-ghost-no-shoujo",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": "1571500800000"
+  },
+  {
+    "id": 50723,
+    "name": "Black Theater: Obaachan ga Shitai Kusai yo",
+    "rus_name": "Чёрный театр: Воняющий труп бабушки",
+    "url": "/mangas/50723-black-theater-obaachan-ga-shitai-kusai-yo",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640102400000"
+  },
+  {
+    "id": 4003,
+    "name": "Inviting Darkness",
+    "rus_name": "Манящая тьма",
+    "url": "/mangas/4003-inviting-darkness",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 707,
+    "name": "Melty Blood",
+    "rus_name": "Талая кровь",
+    "url": "/mangas/707-melty-blood",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "readmanga",
+      "mangalib",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1636128000000"
+  },
+  {
+    "id": 1734,
+    "name": "Blood+: Yakou Joushi",
+    "rus_name": "Кровь+: Город ночных скитальцев",
+    "url": "/mangas/1734-blood-yakou-joushi",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600617600000"
+  },
+  {
+    "id": 112848,
+    "name": "Material Polka",
+    "rus_name": "",
+    "url": "/mangas/112848-material-polka",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 124610,
+    "name": "Bishoujo Bosatsu Miroku-chan",
+    "rus_name": "Девушка-бодхисаттва Мироку",
+    "url": "/mangas/124610-bishoujo-bosatsu-miroku-chan",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 127484,
+    "name": "Ningen Bokujou",
+    "rus_name": "Человеческая ферма",
+    "url": "/mangas/127484-ningen-bokujou",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1618502400000"
+  },
+  {
+    "id": 92542,
+    "name": "Shin Toshi Densetsu",
+    "rus_name": "",
+    "url": "/mangas/92542-shin-toshi-densetsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 132721,
+    "name": "Story Teller",
+    "rus_name": "Сказочница",
+    "url": "/mangas/132721-story-teller",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1631116800000"
+  },
+  {
+    "id": 126729,
+    "name": "Yakusai ga Ore wo Aishiteru",
+    "rus_name": "Несчастье любит меня",
+    "url": "/mangas/126729-yakusai-ga-ore-wo-aishiteru",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1593878400000"
+  },
+  {
+    "id": 117980,
+    "name": "Jazu",
+    "rus_name": "",
+    "url": "/mangas/117980-jazu",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4068,
+    "name": "BioMeat: Nectar",
+    "rus_name": "Биомясо",
+    "url": "/mangas/4068-biomeat-nectar",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1577980800000"
+  },
+  {
+    "id": 115346,
+    "name": "Aka Ihon",
+    "rus_name": "Красная книга",
+    "url": "/mangas/115346-aka-ihon",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1592496000000"
+  },
+  {
+    "id": 131045,
+    "name": "Kaidanbayashi",
+    "rus_name": "Призрачные истории",
+    "url": "/mangas/131045-kaidanbayashi",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1611676800000"
+  },
+  {
+    "id": 16535,
+    "name": "Tatoeba Konna Yuurei Kidan",
+    "rus_name": "Например, такая необычная история о привидениях",
+    "url": "/mangas/16535-tatoeba-konna-yuurei-kidan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 57471,
+    "name": "The Beauty in the Haunted Temple",
+    "rus_name": "Красота призрачного храма",
+    "url": "/mangas/57471-the-beauty-in-the-haunted-temple",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 124329,
+    "name": "Hengen Taima Yakou Shin Karura Mau!",
+    "rus_name": "Новый танец Карура",
+    "url": "/mangas/124329-hengen-taima-yakou-shin-karura-mau",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 61191,
+    "name": "Kouishou Radio",
+    "rus_name": "Пост-невротическое радио",
+    "url": "/mangas/61191-kouishou-radio",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1631635200000"
+  },
+  {
+    "id": 36659,
+    "name": "Shoujo Pandora",
+    "rus_name": "Девушка по имени Пандора",
+    "url": "/mangas/36659-shoujo-pandora",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1622649600000"
+  },
+  {
+    "id": 96216,
+    "name": "LIttLE 13",
+    "rus_name": "Тринадцатилетняя",
+    "url": "/mangas/96216-little-13",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1597161600000"
+  },
+  {
+    "id": 110015,
+    "name": "Saiko Kuro",
+    "rus_name": "Сайко: Тьма",
+    "url": "/mangas/110015-saiko-kuro",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1636646400000"
+  },
+  {
+    "id": 113982,
+    "name": "Akai Kemono",
+    "rus_name": "Красный монстр",
+    "url": "/mangas/113982-akai-kemono",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib"
+    ],
+    "last_change": "1605369600000"
+  },
+  {
+    "id": 3373,
+    "name": "Kowai Hon",
+    "rus_name": "Страшная книга",
+    "url": "/mangas/3373-kowai-hon",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 119699,
+    "name": "Seijo no Yurikago, Dokujo no Hitsugi",
+    "rus_name": "",
+    "url": "/mangas/119699-seijo-no-yurikago-dokujo-no-hitsugi",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1631635200000"
+  },
+  {
+    "id": 67695,
+    "name": "Evil Eater",
+    "rus_name": "Пожиратель зла",
+    "url": "/mangas/67695-evil-eater",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 107511,
+    "name": "Boku to Furio to Koutei de",
+    "rus_name": "",
+    "url": "/mangas/107511-boku-to-furio-to-koutei-de",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1646755200000"
+  },
+  {
+    "id": 85868,
+    "name": "!",
+    "rus_name": "Восклицательный знак",
+    "url": "/mangas/85868-",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1632067200000"
+  },
+  {
+    "id": 14583,
+    "name": "Shitarou-Kun",
+    "rus_name": "Ситаро-кун",
+    "url": "/mangas/14583-shitarou-kun",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 120669,
+    "name": "Kiriko Kill",
+    "rus_name": "Кирико убивает",
+    "url": "/mangas/120669-kiriko-kill",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1608220800000"
+  },
+  {
+    "id": 96123,
+    "name": "Tokubetsuhou Dai-001-jou: Dust",
+    "rus_name": "",
+    "url": "/mangas/96123-tokubetsuhou-dai-001-jou-dust",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 109591,
+    "name": "Aejuma-sama no Gakkou",
+    "rus_name": "Школа Эчома",
+    "url": "/mangas/109591-aejuma-sama-no-gakkou",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1627747200000"
+  },
+  {
+    "id": 15508,
+    "name": "Shukuren - Gin no Mori no On",
+    "rus_name": "Сакурэн — демон серебряного леса",
+    "url": "/mangas/15508-shukuren-gin-no-mori-no-on",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1631376000000"
+  },
+  {
+    "id": 45827,
+    "name": "Ugetsu Monogatari",
+    "rus_name": "Истории туманной луны после дождя",
+    "url": "/mangas/45827-ugetsu-monogatari",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1600185600000"
+  },
+  {
+    "id": 111295,
+    "name": "Seija no Koushin",
+    "rus_name": "Парад живых",
+    "url": "/mangas/111295-seija-no-koushin",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 27485,
+    "name": "Manga Grimm Douwa: Inraku ni Torawareta Grimm Douwa",
+    "rus_name": "В плену чувственного наслаждения",
+    "url": "/mangas/27485-manga-grimm-douwa-inraku-ni-torawareta-grimm-douwa",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1626364800000"
+  },
+  {
+    "id": 25857,
+    "name": "Tokeijikake no Ringo",
+    "rus_name": "Заводное яблоко",
+    "url": "/mangas/25857-tokeijikake-no-ringo",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1602000000000"
+  },
+  {
+    "id": 102120,
+    "name": "Hanawa Kazuichi Shoki Sakuhinshu",
+    "rus_name": "Ранние работы Кадзуити Ханавы",
+    "url": "/mangas/102120-hanawa-kazuichi-shoki-sakuhinshu",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1624377600000"
+  },
+  {
+    "id": 3921,
+    "name": "Crimson Cross: Shi ga Futari wo Wakatsu made",
+    "rus_name": "Багровый крест: Пока смерть не разлучит нас",
+    "url": "/mangas/3921-crimson-cross-shi-ga-futari-wo-wakatsu-made",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610726400000"
+  },
+  {
+    "id": 61273,
+    "name": "Itsuka Tenma wo Kiru Hexen",
+    "rus_name": "",
+    "url": "/mangas/61273-itsuka-tenma-wo-kiru-hexen",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1639152000000"
+  },
+  {
+    "id": 20248,
+    "name": "Blood Stain",
+    "rus_name": "Кровавое пятно",
+    "url": "/mangas/20248-blood-stain",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 43347,
+    "name": "Kuroi Nekomen",
+    "rus_name": "Морда чёрной кошки",
+    "url": "/mangas/43347-kuroi-nekomen",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 14540,
+    "name": "Akurei Tsukai",
+    "rus_name": "Посланник демона",
+    "url": "/mangas/14540-akurei-tsukai",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1631462400000"
+  },
+  {
+    "id": 75347,
+    "name": "Sister",
+    "rus_name": "Сестра",
+    "url": "/mangas/75347-sister",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1622649600000"
+  },
+  {
+    "id": 49349,
+    "name": "Fushigi-chou Sanban-chi",
+    "rus_name": "Улица Тайн, 3",
+    "url": "/mangas/49349-fushigi-chou-sanban-chi",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1622304000000"
+  },
+  {
+    "id": 8678,
+    "name": "Vampire Yui",
+    "rus_name": "Принцесса-вампир Юи",
+    "url": "/mangas/8678-vampire-yui",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4642,
+    "name": "Akai Kiba",
+    "rus_name": "Алый клык",
+    "url": "/mangas/4642-akai-kiba",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": "1580486400000"
+  },
+  {
+    "id": 93112,
+    "name": "Odoro: Youko to Tanonaka no Hyakkikou Jikenbo",
+    "rus_name": "",
+    "url": "/mangas/93112-odoro-youko-to-tanonaka-no-hyakkikou-jikenbo",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 21361,
+    "name": "Iwatoishi Tarou no Reiseki Kitan",
+    "rus_name": "",
+    "url": "/mangas/21361-iwatoishi-tarou-no-reiseki-kitan",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 29741,
+    "name": "Vanilla Spider",
+    "rus_name": "Ванильный паук",
+    "url": "/mangas/29741-vanilla-spider",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1638979200000"
+  },
+  {
+    "id": 132167,
+    "name": "Kyochuu Sanmyaku",
+    "rus_name": "Гора жуков-мутантов",
+    "url": "/mangas/132167-kyochuu-sanmyaku",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1618675200000"
+  },
+  {
+    "id": 20795,
+    "name": "Genwaku no Matenrou",
+    "rus_name": "Городской мираж",
+    "url": "/mangas/20795-genwaku-no-matenrou",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 90724,
+    "name": "Tomogui",
+    "rus_name": "Поедая друг друга",
+    "url": "/mangas/90724-tomogui",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1564156800000"
+  },
+  {
+    "id": 79009,
+    "name": "Harukkun",
+    "rus_name": "Работник на день",
+    "url": "/mangas/79009-harukkun",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1644854400000"
+  },
+  {
+    "id": 97879,
+    "name": "Kisekae Doll Mami-chan",
+    "rus_name": "",
+    "url": "/mangas/97879-kisekae-doll-mami-chan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 35839,
+    "name": "Jekyll Hakase to Hyde-shi",
+    "rus_name": "Странная история доктора Джекила и мистера Хайда",
+    "url": "/mangas/35839-jekyll-hakase-to-hyde-shi",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1632153600000"
+  },
+  {
+    "id": 46406,
+    "name": "Negai",
+    "rus_name": "Желание",
+    "url": "/mangas/46406-negai",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 29399,
+    "name": "Keikoku - Akuma no Fukkatsu",
+    "rus_name": "Осторожно: Пробуждение дьявола",
+    "url": "/mangas/29399-keikoku-akuma-no-fukkatsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 46780,
+    "name": "Gachirin ni Kirisaku",
+    "rus_name": "Срезанные в полнолуние цветы",
+    "url": "/mangas/46780-gachirin-ni-kirisaku",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1614873600000"
+  },
+  {
+    "id": 20195,
+    "name": "Happy Epicurean",
+    "rus_name": "Счастливый эпикуреец",
+    "url": "/mangas/20195-happy-epicurean",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 125314,
+    "name": "Zetsubou Shuuraku",
+    "rus_name": "Деревня отчаяния",
+    "url": "/mangas/125314-zetsubou-shuuraku",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1639152000000"
+  },
+  {
+    "id": 9170,
+    "name": "U wa Uchuusen no U",
+    "rus_name": "Р — значит ракета",
+    "url": "/mangas/9170-u-wa-uchuusen-no-u",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 137685,
+    "name": "Shinyuutou: Ii Hito de Nakereba Owari",
+    "rus_name": "",
+    "url": "/mangas/137685-shinyuutou-ii-hito-de-nakereba-owari",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 383,
+    "name": "Kamen Tantei",
+    "rus_name": "Детектив в маске",
+    "url": "/mangas/383-kamen-tantei",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 123982,
+    "name": "Shin Karura Mau!",
+    "rus_name": "Истинный танец Карура",
+    "url": "/mangas/123982-shin-karura-mau",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 90109,
+    "name": "Maken",
+    "rus_name": "Пёс и другие рассказы",
+    "url": "/mangas/90109-maken",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1646928000000"
+  },
+  {
+    "id": 30553,
+    "name": "Watashi ga Kieta!",
+    "rus_name": "Я исчез!",
+    "url": "/mangas/30553-watashi-ga-kieta",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 9057,
+    "name": "Shoujo Tsubaki",
+    "rus_name": "Шоу уродов господина Араси",
+    "url": "/mangas/9057-shoujo-tsubaki",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1629907200000"
+  },
+  {
+    "id": 103648,
+    "name": "Shi ni Aruki",
+    "rus_name": "",
+    "url": "/mangas/103648-shi-ni-aruki",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 86943,
+    "name": "Senbonzakura",
+    "rus_name": "Тысяча вишнёвых деревьев",
+    "url": "/mangas/86943-senbonzakura",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates"
+    ],
+    "last_change": "1614960000000"
+  },
+  {
+    "id": 131623,
+    "name": "Gajuu",
+    "rus_name": "Зверь Гадзю",
+    "url": "/mangas/131623-gajuu",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1617811200000"
+  },
+  {
+    "id": 462,
+    "name": "Shin Petshop of Horrors",
+    "rus_name": "Новый магазинчик ужасов",
+    "url": "/mangas/462-shin-petshop-of-horrors",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1613923200000"
+  },
+  {
+    "id": 95620,
+    "name": "Kokekakiikii",
+    "rus_name": "",
+    "url": "/mangas/95620-kokekakiikii",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 41659,
+    "name": "Ghost School",
+    "rus_name": "Школа призраков",
+    "url": "/mangas/41659-ghost-school",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 5785,
+    "name": "Jigoku Mushi wo Kuu! Oninbo",
+    "rus_name": "Онинбо и адские личинки",
+    "url": "/mangas/5785-jigoku-mushi-wo-kuu-oninbo",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1609776000000"
+  },
+  {
+    "id": 13395,
+    "name": "Horobi",
+    "rus_name": "Хороби",
+    "url": "/mangas/13395-horobi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 29751,
+    "name": "Mienai Sakebi",
+    "rus_name": "Невидимый крик",
+    "url": "/mangas/29751-mienai-sakebi",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 123753,
+    "name": "Crueler Than Dead",
+    "rus_name": "Мучительнее, чем смерть",
+    "url": "/mangas/123753-crueler-than-dead",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1646409600000"
+  },
+  {
+    "id": 130258,
+    "name": "Marika",
+    "rus_name": "Марика",
+    "url": "/mangas/130258-marika",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1646409600000"
+  },
+  {
+    "id": 99357,
+    "name": "Bijo Amanda",
+    "rus_name": "Красивая Аманда",
+    "url": "/mangas/99357-bijo-amanda",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 49691,
+    "name": "Jacarandá",
+    "rus_name": "Жакаранда",
+    "url": "/mangas/49691-jacarand",
     "links": [
       "myanimelist",
       "mangaupdates",
@@ -6645,62 +7717,1106 @@ let manga = [
     "last_change": "1631376000000"
   },
   {
-    "id": 85411,
-    "name": "Inu ni Naritai",
-    "rus_name": "Хочу стать собакой",
-    "url": "/mangas/85411-inu-ni-naritai",
+    "id": 119042,
+    "name": "Hinatsugimura",
+    "rus_name": "",
+    "url": "/mangas/119042-hinatsugimura",
     "links": [
-      "myanimelist"
+      "myanimelist",
+      "mangaupdates"
     ],
-    "last_change": "1534780800000"
+    "last_change": "1636214400000"
   },
   {
-    "id": 3129,
-    "name": "The Ring 2",
-    "rus_name": "Звонок 2",
-    "url": "/mangas/3129-the-ring-2",
+    "id": 125806,
+    "name": "Innsmouth no Kage: Lovecraft Kessakushuu",
+    "rus_name": "Тень над Иннсмутом",
+    "url": "/mangas/125806-innsmouth-no-kage-lovecraft-kessakushuu",
     "links": [
-      "anime_news_network",
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 63777,
+    "name": "Harawatagatari",
+    "rus_name": "Жизнь девочек-зомби",
+    "url": "/mangas/63777-harawatagatari",
+    "links": [
       "myanimelist",
       "readmanga",
+      "mangalib",
       "mangaupdates",
       "mangadex"
     ],
-    "last_change": "1646496000000"
+    "last_change": "1608393600000"
   },
   {
-    "id": 44229,
-    "name": "Super Danganronpa 2: Nanami Chiaki no Sayonara Zetsubou Daibouken",
-    "rus_name": "Супер-Данганронпа 2: Прощайте, отчаянные приключения Тиаки Нанами",
-    "url": "/mangas/44229-super-danganronpa-2-nanami-chiaki-no-sayonara-zetsubou-daibouken",
+    "id": 118668,
+    "name": "Dark Gathering",
+    "rus_name": "Тёмное собрание",
+    "url": "/mangas/118668-dark-gathering",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1639929600000"
+  },
+  {
+    "id": 63161,
+    "name": "Zouroku no Kibyo",
+    "rus_name": "Болезнь Зороку",
+    "url": "/mangas/63161-zouroku-no-kibyo",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": "1611072000000"
+  },
+  {
+    "id": 117264,
+    "name": "Bathtub ni Notta Kyoudai: Chikyuu Suibotsuki",
+    "rus_name": "",
+    "url": "/mangas/117264-bathtub-ni-notta-kyoudai-chikyuu-suibotsuki",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1619366400000"
+  },
+  {
+    "id": 63793,
+    "name": "Kemonogari",
+    "rus_name": "Охотник за нелюдьми",
+    "url": "/mangas/63793-kemonogari",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 43965,
+    "name": "Kyoufu e no Shoutaijou",
+    "rus_name": "",
+    "url": "/mangas/43965-kyoufu-e-no-shoutaijou",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1633536000000"
+  },
+  {
+    "id": 133584,
+    "name": "Nenkin Ningen Hitomoji",
+    "rus_name": "",
+    "url": "/mangas/133584-nenkin-ningen-hitomoji",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 3262,
+    "name": "Ju-On Volume 2",
+    "rus_name": "Проклятие: Второй том",
+    "url": "/mangas/3262-ju-on-volume-2",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 96122,
+    "name": "Real Onigokko",
+    "rus_name": "",
+    "url": "/mangas/96122-real-onigokko",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1639324800000"
+  },
+  {
+    "id": 139693,
+    "name": "Shokuryou Jinrui Re",
+    "rus_name": "Человечество на закуску: Голодные откровения",
+    "url": "/mangas/139693-shokuryou-jinrui-re",
     "links": [
       "official_site",
       "wikipedia",
       "myanimelist",
       "readmanga",
+      "mangalib",
       "mangaupdates",
-      "mangafox"
+      "mangadex"
     ],
-    "last_change": "1567785600000"
+    "last_change": "1643817600000"
   },
   {
-    "id": 23169,
-    "name": "Domestic",
+    "id": 35737,
+    "name": "Kugiko-chan",
+    "rus_name": "Кугико-тян",
+    "url": "/mangas/35737-kugiko-chan",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 112518,
+    "name": "Bokutachi wa Genki desu",
+    "rus_name": "Мы в порядке",
+    "url": "/mangas/112518-bokutachi-wa-genki-desu",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 103209,
+    "name": "Ajuutan",
     "rus_name": "",
-    "url": "/mangas/23169-domestic",
-    "last_change": "1637856000000",
+    "url": "/mangas/103209-ajuutan",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1647792000000"
+  },
+  {
+    "id": 46864,
+    "name": "Renai Shoujo Zukan",
+    "rus_name": "Тень Миями",
+    "url": "/mangas/46864-renai-shoujo-zukan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 98115,
+    "name": "Hakoniwa Yuugi",
+    "rus_name": "Игра в миниатюрном саду",
+    "url": "/mangas/98115-hakoniwa-yuugi",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 43331,
+    "name": "Akumu",
+    "rus_name": "Ночной кошмар",
+    "url": "/mangas/43331-akumu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": "1500825600000"
+  },
+  {
+    "id": 128523,
+    "name": "Black Brain",
+    "rus_name": "Чёрный мозг",
+    "url": "/mangas/128523-black-brain",
     "links": [
       "myanimelist",
       "mangaupdates"
-    ]
+    ],
+    "last_change": "1597334400000"
   },
   {
-    "id": 1225,
-    "name": "Kaine",
-    "rus_name": "Каин",
-    "url": "/mangas/1225-kaine",
+    "id": 8750,
+    "name": "Gui Mo",
+    "rus_name": "",
+    "url": "/mangas/8750-gui-mo",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 102990,
+    "name": "Yadori Ishi",
+    "rus_name": "",
+    "url": "/mangas/102990-yadori-ishi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 31157,
+    "name": "Maki no Gakkyuu Nisshi",
+    "rus_name": "Дневник магического класса",
+    "url": "/mangas/31157-maki-no-gakkyuu-nisshi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 80471,
+    "name": "Nemureru Mori no Charon",
+    "rus_name": "Спящая Харон",
+    "url": "/mangas/80471-nemureru-mori-no-charon",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1640016000000"
+  },
+  {
+    "id": 126557,
+    "name": "Mad Summer School",
+    "rus_name": "Безумная летняя школа",
+    "url": "/mangas/126557-mad-summer-school",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1630080000000"
+  },
+  {
+    "id": 113482,
+    "name": "Yubikiribako",
+    "rus_name": "",
+    "url": "/mangas/113482-yubikiribako",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 120838,
+    "name": "Haburi",
+    "rus_name": "Хабури",
+    "url": "/mangas/120838-haburi",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates"
+    ],
+    "last_change": "1602259200000"
+  },
+  {
+    "id": 120326,
+    "name": "Zoumotsujima",
+    "rus_name": "Остров потрохов",
+    "url": "/mangas/120326-zoumotsujima",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1640620800000"
+  },
+  {
+    "id": 25111,
+    "name": "Joyuurei",
+    "rus_name": "Призрак актрисы",
+    "url": "/mangas/25111-joyuurei",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 110012,
+    "name": "Parham Itan",
+    "rus_name": "",
+    "url": "/mangas/110012-parham-itan",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 114284,
+    "name": "Yajin",
+    "rus_name": "Ночники",
+    "url": "/mangas/114284-yajin",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1626883200000"
+  },
+  {
+    "id": 32229,
+    "name": "Chocolat no Mahou",
+    "rus_name": "Шоколадная магия",
+    "url": "/mangas/32229-chocolat-no-mahou",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 83587,
+    "name": "Subete no Jidai wo Tsuujite no Satsujinjutsu",
+    "rus_name": "Методы убийства на протяжении веков",
+    "url": "/mangas/83587-subete-no-jidai-wo-tsuujite-no-satsujinjutsu",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1612454400000"
+  },
+  {
+    "id": 101362,
+    "name": "Akibattalion",
+    "rus_name": "Батальон Акиба",
+    "url": "/mangas/101362-akibattalion",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 23445,
+    "name": "Oneechan Bara Kurenai",
+    "rus_name": "",
+    "url": "/mangas/23445-oneechan-bara-kurenai",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 129910,
+    "name": "Kankin Kuiki Level X",
+    "rus_name": "Запретная зона: Уровень X",
+    "url": "/mangas/129910-kankin-kuiki-level-x",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 108546,
+    "name": "Hebi Onna Hajimemashita",
+    "rus_name": "Приятно познакомиться, девушка-змея",
+    "url": "/mangas/108546-hebi-onna-hajimemashita",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1645804800000"
+  },
+  {
+    "id": 126282,
+    "name": "Chijou 100-kai: Dasshutsu Kakuritsu 0.0001%",
+    "rus_name": "Сто этажей над землёй: Шансы на спасение ноль целых одна десятитысячная процента",
+    "url": "/mangas/126282-chijou-100-kai-dasshutsu-kakuritsu-0-0001",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1620748800000"
+  },
+  {
+    "id": 125713,
+    "name": "Hentai",
+    "rus_name": "Хентай",
+    "url": "/mangas/125713-hentai",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1637942400000"
+  },
+  {
+    "id": 566,
+    "name": "Visitor",
+    "rus_name": "Гостья",
+    "url": "/mangas/566-visitor",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib"
+    ],
+    "last_change": "1602518400000"
+  },
+  {
+    "id": 102204,
+    "name": "I Am a Hero in Ibaraki",
+    "rus_name": "Я — герой Ибараки",
+    "url": "/mangas/102204-i-am-a-hero-in-ibaraki",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1639238400000"
+  },
+  {
+    "id": 101088,
+    "name": "Asura",
+    "rus_name": "Асура",
+    "url": "/mangas/101088-asura",
     "links": [
       "anime_news_network",
+      "myanimelist"
+    ],
+    "last_change": "1536422400000"
+  },
+  {
+    "id": 102705,
+    "name": "Danshou no Grimm",
+    "rus_name": "Фрагменты Гримм",
+    "url": "/mangas/102705-danshou-no-grimm",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1583596800000"
+  },
+  {
+    "id": 94311,
+    "name": "Shoujo ga Kowareta Toki",
+    "rus_name": "Когда девочка ломается",
+    "url": "/mangas/94311-shoujo-ga-kowareta-toki",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1636819200000"
+  },
+  {
+    "id": 128871,
+    "name": "Kisei Rettou",
+    "rus_name": "Остров паразитов",
+    "url": "/mangas/128871-kisei-rettou",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1632758400000"
+  },
+  {
+    "id": 125419,
+    "name": "Zeus no Te",
+    "rus_name": "Рука Зевса",
+    "url": "/mangas/125419-zeus-no-te",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 109535,
+    "name": "Neko wa Yomigaeru",
+    "rus_name": "",
+    "url": "/mangas/109535-neko-wa-yomigaeru",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1637942400000"
+  },
+  {
+    "id": 31929,
+    "name": "Mite Wa Ikenai",
+    "rus_name": "",
+    "url": "/mangas/31929-mite-wa-ikenai",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 22775,
+    "name": "Chou Kowai Gakkou no Kaidan",
+    "rus_name": "Сверхстрашная школьная история о привидениях",
+    "url": "/mangas/22775-chou-kowai-gakkou-no-kaidan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 7417,
+    "name": "IWGP Denshi no Hoshi",
+    "rus_name": "",
+    "url": "/mangas/7417-iwgp-denshi-no-hoshi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 120468,
+    "name": "Graveyard no Nejikureta Ie",
+    "rus_name": "Искривлённый дом на кладбище",
+    "url": "/mangas/120468-graveyard-no-nejikureta-ie",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 635,
+    "name": "God Child",
+    "rus_name": "Крестник",
+    "url": "/mangas/635-god-child",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1613232000000"
+  },
+  {
+    "id": 140055,
+    "name": "Juukoku no Panagia",
+    "rus_name": "Панагия страны зверей",
+    "url": "/mangas/140055-juukoku-no-panagia",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 72613,
+    "name": "Dohii! Obake ga Boku wo Penpen Naguru!",
+    "rus_name": "",
+    "url": "/mangas/72613-dohii-obake-ga-boku-wo-penpen-naguru",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1634140800000"
+  },
+  {
+    "id": 121325,
+    "name": "Tenkuu Shinpan Arrive",
+    "rus_name": "Небесное вторжение: Пришествие",
+    "url": "/mangas/121325-tenkuu-shinpan-arrive",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610812800000"
+  },
+  {
+    "id": 109912,
+    "name": "Hijuumura",
+    "rus_name": "",
+    "url": "/mangas/109912-hijuumura",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1637942400000"
+  },
+  {
+    "id": 23655,
+    "name": "Kimun Kamui",
+    "rus_name": "Бог гор",
+    "url": "/mangas/23655-kimun-kamui",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 97877,
+    "name": "Toshi Densetsu Jr.",
+    "rus_name": "",
+    "url": "/mangas/97877-toshi-densetsu-jr",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 19572,
+    "name": "Amagoushi no Yakata",
+    "rus_name": "",
+    "url": "/mangas/19572-amagoushi-no-yakata",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 118185,
+    "name": "Anata no Kodou wo Misasete.",
+    "rus_name": "Позволь понаблюдать за твоим сердцебиением",
+    "url": "/mangas/118185-anata-no-kodou-wo-misasete",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 5084,
+    "name": "Konya mo Hitori de Nemurenai",
+    "rus_name": "Сегодня ночью я не усну",
+    "url": "/mangas/5084-konya-mo-hitori-de-nemurenai",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 110773,
+    "name": "Kiokuya",
+    "rus_name": "Торговец памятью",
+    "url": "/mangas/110773-kiokuya",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 35357,
+    "name": ":REverSAL",
+    "rus_name": "Преображение",
+    "url": "/mangas/35357-reversal",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1601049600000"
+  },
+  {
+    "id": 79489,
+    "name": "Manga Grimm Douwa: Midara de Yokubuka na Akazukin",
+    "rus_name": "Бесконечность",
+    "url": "/mangas/79489-manga-grimm-douwa-midara-de-yokubuka-na-akazukin",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": "1596038400000"
+  },
+  {
+    "id": 68739,
+    "name": "Necrolog",
+    "rus_name": "Некролог",
+    "url": "/mangas/68739-necrolog",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 90546,
+    "name": "Gakuen Rengoku Zombie Mate",
+    "rus_name": "",
+    "url": "/mangas/90546-gakuen-rengoku-zombie-mate",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 22198,
+    "name": "Bonba!",
+    "rus_name": "Бомба!",
+    "url": "/mangas/22198-bonba",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 83543,
+    "name": "Senritsu! Ooguchi Onna",
+    "rus_name": "",
+    "url": "/mangas/83543-senritsu-ooguchi-onna",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 77867,
+    "name": "Kurai Rouka to Ushiro no Genkan",
+    "rus_name": "",
+    "url": "/mangas/77867-kurai-rouka-to-ushiro-no-genkan",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1634140800000"
+  },
+  {
+    "id": 22355,
+    "name": "Hakaba Kitaro",
+    "rus_name": "Китаро с кладбища",
+    "url": "/mangas/22355-hakaba-kitaro",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 97027,
+    "name": "Souboutei Kowasubeshi",
+    "rus_name": "Соботэй должен быть уничтожен",
+    "url": "/mangas/97027-souboutei-kowasubeshi",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1628352000000"
+  },
+  {
+    "id": 91796,
+    "name": "Jigoku Kozou",
+    "rus_name": "Мальчик из ада",
+    "url": "/mangas/91796-jigoku-kozou",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 101286,
+    "name": "Ankoku Joshi",
+    "rus_name": "Девушки во тьме",
+    "url": "/mangas/101286-ankoku-joshi",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 102107,
+    "name": "Mushoku Kyousei Shuuyoujo",
+    "rus_name": "Безработные концлагеря",
+    "url": "/mangas/102107-mushoku-kyousei-shuuyoujo",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1628092800000"
+  },
+  {
+    "id": 105184,
+    "name": "Sophie Rose to Ibara no Warlock",
+    "rus_name": "",
+    "url": "/mangas/105184-sophie-rose-to-ibara-no-warlock",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 50727,
+    "name": "Hannya Haramita",
+    "rus_name": "Высшее просветление",
+    "url": "/mangas/50727-hannya-haramita",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1640188800000"
+  },
+  {
+    "id": 1682,
+    "name": "Kagome Kagome",
+    "rus_name": "Кагомэ-кагомэ",
+    "url": "/mangas/1682-kagome-kagome",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1551801600000"
+  },
+  {
+    "id": 975,
+    "name": "Ludwig Kakumei",
+    "rus_name": "Бунтарь Людвиг",
+    "url": "/mangas/975-ludwig-kakumei",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1621958400000"
+  },
+  {
+    "id": 94076,
+    "name": "Hontou ni Atta Shougeki no Kyoufu Taiken",
+    "rus_name": "",
+    "url": "/mangas/94076-hontou-ni-atta-shougeki-no-kyoufu-taiken",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640793600000"
+  },
+  {
+    "id": 63941,
+    "name": "Y no Rakuen",
+    "rus_name": "",
+    "url": "/mangas/63941-y-no-rakuen",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640966400000"
+  },
+  {
+    "id": 51725,
+    "name": "KIG⊃R∩MI",
+    "rus_name": "Кигуруми",
+    "url": "/mangas/51725-kig-r-mi",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 3696,
+    "name": "Yoru no Kakaku - Night Exile",
+    "rus_name": "Ночной изгнанник",
+    "url": "/mangas/3696-yoru-no-kakaku-night-exile",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600012800000"
+  },
+  {
+    "id": 59109,
+    "name": "Honoo no Nobunaga: Sengoku Gaiden",
+    "rus_name": "Пылающий Нобунага эпохи Сэнгоку: Гайдэн",
+    "url": "/mangas/59109-honoo-no-nobunaga-sengoku-gaiden",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1638547200000"
+  },
+  {
+    "id": 60385,
+    "name": "Akai Imouto",
+    "rus_name": "Окровавленная сестра",
+    "url": "/mangas/60385-akai-imouto",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 138388,
+    "name": "Mimicry",
+    "rus_name": "Мимикрия",
+    "url": "/mangas/138388-mimicry",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 13203,
+    "name": "Shio no Koe",
+    "rus_name": "Голос Сио",
+    "url": "/mangas/13203-shio-no-koe",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 115782,
+    "name": "8LDK: Shisha no Ou",
+    "rus_name": "KoLD8: Король живых мертвецов",
+    "url": "/mangas/115782-8ldk-shisha-no-ou",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": "1562342400000"
+  },
+  {
+    "id": 105869,
+    "name": "Wonderful Wonder World",
+    "rus_name": "Удивительный мир чудес",
+    "url": "/mangas/105869-wonderful-wonder-world",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 43345,
+    "name": "Fukushuu Kijin",
+    "rus_name": "Мстительные людоеды",
+    "url": "/mangas/43345-fukushuu-kijin",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 10289,
+    "name": "Akanbou Shoujo",
+    "rus_name": "Девушка-младенец",
+    "url": "/mangas/10289-akanbou-shoujo",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1630684800000"
+  },
+  {
+    "id": 106965,
+    "name": "Tengoku no Ragnarok",
+    "rus_name": "Небесный Рагнарёк",
+    "url": "/mangas/106965-tengoku-no-ragnarok",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 100766,
+    "name": "I Am a Hero Koushiki Comic Anthology: 8 Tales of the ZQN",
+    "rus_name": "Восемь историй ZQN",
+    "url": "/mangas/100766-i-am-a-hero-koushiki-comic-anthology-8-tales-of-the-zqn",
+    "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -6709,15 +8825,867 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1632844800000"
+    "last_change": "1623254400000"
   },
   {
-    "id": 909,
-    "name": "Gyo: Ugomeku Bukimi",
-    "rus_name": "Рыба",
-    "url": "/mangas/909-gyo-ugomeku-bukimi",
+    "id": 1833,
+    "name": "D no Fuuin",
+    "rus_name": "Печать Д",
+    "url": "/mangas/1833-d-no-fuuin",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1619884800000"
+  },
+  {
+    "id": 97176,
+    "name": "Yoru Himesama",
+    "rus_name": "Принцесса ночи",
+    "url": "/mangas/97176-yoru-himesama",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610294400000"
+  },
+  {
+    "id": 134203,
+    "name": "Yomigaeru Shoujo",
+    "rus_name": "Воскресшая девушка",
+    "url": "/mangas/134203-yomigaeru-shoujo",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 74135,
+    "name": "Unagi Oni",
+    "rus_name": "Демонический угорь",
+    "url": "/mangas/74135-unagi-oni",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 96488,
+    "name": "B's-LOVEY Anthology: BL of the Dead",
+    "rus_name": "",
+    "url": "/mangas/96488-b-s-lovey-anthology-bl-of-the-dead",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1608048000000"
+  },
+  {
+    "id": 111378,
+    "name": "Karadasagashi Kai",
+    "rus_name": "Решение для поиска тела",
+    "url": "/mangas/111378-karadasagashi-kai",
     "links": [
       "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 13716,
+    "name": "Tenkousei Jinno Murasaki",
+    "rus_name": "Переведённый ученик — Мурасаки Дзинно",
+    "url": "/mangas/13716-tenkousei-jinno-murasaki",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1619452800000"
+  },
+  {
+    "id": 124243,
+    "name": "Jigoku Kurayami Hana mo Naki",
+    "rus_name": "Ад без цветов",
+    "url": "/mangas/124243-jigoku-kurayami-hana-mo-naki",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1631030400000"
+  },
+  {
+    "id": 67343,
+    "name": "Teito Monogatari: Tokio Wars",
+    "rus_name": "Столичная история: Токийские войны",
+    "url": "/mangas/67343-teito-monogatari-tokio-wars",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1631116800000"
+  },
+  {
+    "id": 114406,
+    "name": "5-fungo no Sekai",
+    "rus_name": "Мир через пять минут",
+    "url": "/mangas/114406-5-fungo-no-sekai",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1606233600000"
+  },
+  {
+    "id": 133746,
+    "name": "Hobohobo Horobimashite",
+    "rus_name": "",
+    "url": "/mangas/133746-hobohobo-horobimashite",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 127087,
+    "name": "Kimi ga Niku ni Nattemo",
+    "rus_name": "Даже если ты превратишься в фарш",
+    "url": "/mangas/127087-kimi-ga-niku-ni-nattemo",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib"
+    ],
+    "last_change": "1607011200000"
+  },
+  {
+    "id": 124599,
+    "name": "Fuji no Yamai wa Fushi no Yamai",
+    "rus_name": "",
+    "url": "/mangas/124599-fuji-no-yamai-wa-fushi-no-yamai",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 34031,
+    "name": "Rugged Nymphomania",
+    "rus_name": "Неравенственная нимфомания",
+    "url": "/mangas/34031-rugged-nymphomania",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1635177600000"
+  },
+  {
+    "id": 1601,
+    "name": "Death Trance",
+    "rus_name": "Смертельный транс",
+    "url": "/mangas/1601-death-trance",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 99181,
+    "name": "Smile",
+    "rus_name": "Улыбка",
+    "url": "/mangas/99181-smile",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1636819200000"
+  },
+  {
+    "id": 32891,
+    "name": "Kijin Gahou",
+    "rus_name": "Эксцентричный сборник",
+    "url": "/mangas/32891-kijin-gahou",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1647014400000"
+  },
+  {
+    "id": 18196,
+    "name": "Garden",
+    "rus_name": "Сад",
+    "url": "/mangas/18196-garden",
+    "links": [
+      "myanimelist",
+      "mangafox"
+    ],
+    "last_change": "1594656000000"
+  },
+  {
+    "id": 27931,
+    "name": "Ying Yang Road",
+    "rus_name": "Дорога Инь-ян",
+    "url": "/mangas/27931-ying-yang-road",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 20742,
+    "name": "Shiroi Kageboushi",
+    "rus_name": "Белый силуэт",
+    "url": "/mangas/20742-shiroi-kageboushi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 78121,
+    "name": "Dolly♥Kill Kill",
+    "rus_name": "Убийцы Долли",
+    "url": "/mangas/78121-dolly-kill-kill",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1620144000000"
+  },
+  {
+    "id": 31155,
+    "name": "Kaiki Kurabu",
+    "rus_name": "Таинственный клуб",
+    "url": "/mangas/31155-kaiki-kurabu",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 138906,
+    "name": "Akayoroshi: Yami Hanafuda Yugitan",
+    "rus_name": "",
+    "url": "/mangas/138906-akayoroshi-yami-hanafuda-yugitan",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1638374400000"
+  },
+  {
+    "id": 95376,
+    "name": "Mononobe Koshoten Kaikitan",
+    "rus_name": "Загадочные истории антикварного магазинчика Мононобэ",
+    "url": "/mangas/95376-mononobe-koshoten-kaikitan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1599753600000"
+  },
+  {
+    "id": 129582,
+    "name": "Uriko-hime no Yoru Cinderella no Asa",
+    "rus_name": "Ночь принцессы Урико, утро Золушки",
+    "url": "/mangas/129582-uriko-hime-no-yoru-cinderella-no-asa",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 50543,
+    "name": "2 x Bone",
+    "rus_name": "В два раза больше костей",
+    "url": "/mangas/50543-2-x-bone",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 117927,
+    "name": "Bakemono Yawa-zukushi",
+    "rus_name": "Ночные призрачные истории",
+    "url": "/mangas/117927-bakemono-yawa-zukushi",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581177600000"
+  },
+  {
+    "id": 121730,
+    "name": "Dai Kyochuu Rettou",
+    "rus_name": "Ещё больший остров насекомых-гигантов",
+    "url": "/mangas/121730-dai-kyochuu-rettou",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1625932800000"
+  },
+  {
+    "id": 125752,
+    "name": "Fuan no Tane*",
+    "rus_name": "Семя страха. Астериск",
+    "url": "/mangas/125752-fuan-no-tane",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 111384,
+    "name": "Vampire Yui: Saishuushou",
+    "rus_name": "Принцесса-вампир Юи: Заключительная глава",
+    "url": "/mangas/111384-vampire-yui-saishuushou",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 48247,
+    "name": "Yami no Shihosha Judge",
+    "rus_name": "Судья тьмы",
+    "url": "/mangas/48247-yami-no-shihosha-judge",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 118997,
+    "name": "Kitan Gekitetsu Survivor!!",
+    "rus_name": "",
+    "url": "/mangas/118997-kitan-gekitetsu-survivor",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 29407,
+    "name": "Jinrou Densetsu",
+    "rus_name": "Легенда об оборотне",
+    "url": "/mangas/29407-jinrou-densetsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 93555,
+    "name": "Houkago Death Game",
+    "rus_name": "Игра смерти после школы",
+    "url": "/mangas/93555-houkago-death-game",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1640793600000"
+  },
+  {
+    "id": 79485,
+    "name": "Manga Grimm Douwa: Inbi de Zankoku na Shirayukihime",
+    "rus_name": "Порочная Белоснежка",
+    "url": "/mangas/79485-manga-grimm-douwa-inbi-de-zankoku-na-shirayukihime",
+    "last_change": "",
+    "links": [
+      "myanimelist"
+    ]
+  },
+  {
+    "id": 93748,
+    "name": "Sekai no Owari no Hajimari ni",
+    "rus_name": "",
+    "url": "/mangas/93748-sekai-no-owari-no-hajimari-ni",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1636128000000"
+  },
+  {
+    "id": 130986,
+    "name": "Nanashi: Nakushita Nanika no Sagashikata",
+    "rus_name": "",
+    "url": "/mangas/130986-nanashi-nakushita-nanika-no-sagashikata",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 8719,
+    "name": "Mist Story",
+    "rus_name": "История тумана",
+    "url": "/mangas/8719-mist-story",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1610380800000"
+  },
+  {
+    "id": 18385,
+    "name": "Mamono Hunter Youko",
+    "rus_name": "Ёко — охотница на демонов",
+    "url": "/mangas/18385-mamono-hunter-youko",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 132934,
+    "name": "Grimm no You na Monogatari: Trude Obasan",
+    "rus_name": "Сказки, как у братьев Гримм: Госпожа Труда",
+    "url": "/mangas/132934-grimm-no-you-na-monogatari-trude-obasan",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1631116800000"
+  },
+  {
+    "id": 61247,
+    "name": "Death House - Shi no Ie",
+    "rus_name": "",
+    "url": "/mangas/61247-death-house-shi-no-ie",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 13546,
+    "name": "Akai Hebi",
+    "rus_name": "Красная змея",
+    "url": "/mangas/13546-akai-hebi",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1630080000000"
+  },
+  {
+    "id": 112662,
+    "name": "Zombie Bat",
+    "rus_name": "Бита против зомби",
+    "url": "/mangas/112662-zombie-bat",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1635609600000"
+  },
+  {
+    "id": 31165,
+    "name": "Shieno Final",
+    "rus_name": "Конец смерти",
+    "url": "/mangas/31165-shieno-final",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 24104,
+    "name": "Kabe Otoko",
+    "rus_name": "",
+    "url": "/mangas/24104-kabe-otoko",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 93308,
+    "name": "Bukita-kun",
+    "rus_name": "Букита-кун",
+    "url": "/mangas/93308-bukita-kun",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 22938,
+    "name": "Joker",
+    "rus_name": "Джокер",
+    "url": "/mangas/22938-joker",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1646841600000"
+  },
+  {
+    "id": 88318,
+    "name": "Jikantou",
+    "rus_name": "",
+    "url": "/mangas/88318-jikantou",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1636819200000"
+  },
+  {
+    "id": 130866,
+    "name": "Nuresobotsu Kurokami",
+    "rus_name": "",
+    "url": "/mangas/130866-nuresobotsu-kurokami",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 104119,
+    "name": "Oomagatoki",
+    "rus_name": "",
+    "url": "/mangas/104119-oomagatoki",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 48285,
+    "name": "Tokyo Summer of the Dead",
+    "rus_name": "Токийское лето мертвецов",
+    "url": "/mangas/48285-tokyo-summer-of-the-dead",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 129421,
+    "name": "Boku to Akumu to Oneesan",
+    "rus_name": "Я и мои кошмары",
+    "url": "/mangas/129421-boku-to-akumu-to-oneesan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1626883200000"
+  },
+  {
+    "id": 110918,
+    "name": "Hazureta Minna no Atama no Neji",
+    "rus_name": "Каждый свободный винт",
+    "url": "/mangas/110918-hazureta-minna-no-atama-no-neji",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangafox"
+    ],
+    "last_change": "1587312000000"
+  },
+  {
+    "id": 55253,
+    "name": "Oshiire no Shounen",
+    "rus_name": "Мальчик из чулана",
+    "url": "/mangas/55253-oshiire-no-shounen",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1583596800000"
+  },
+  {
+    "id": 18384,
+    "name": "Wizards Nation",
+    "rus_name": "Мастера нации",
+    "url": "/mangas/18384-wizards-nation",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1599235200000"
+  },
+  {
+    "id": 118635,
+    "name": "Kako no Anata wo Yuukai Shimashita",
+    "rus_name": "Я похитил тебя в прошлом",
+    "url": "/mangas/118635-kako-no-anata-wo-yuukai-shimashita",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 125040,
+    "name": "Again",
+    "rus_name": "Снова",
+    "url": "/mangas/125040-again",
+    "links": [
+      "official_site",
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1589731200000"
+  },
+  {
+    "id": 22191,
+    "name": "Dantalian no Shoka",
+    "rus_name": "Таинственная библиотека Данталиан",
+    "url": "/mangas/22191-dantalian-no-shoka",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1580832000000"
+  },
+  {
+    "id": 114288,
+    "name": "Kugiko-chan ga Iru!",
+    "rus_name": "",
+    "url": "/mangas/114288-kugiko-chan-ga-iru",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 83193,
+    "name": "Nananenme no Kazoe Uta",
+    "rus_name": "",
+    "url": "/mangas/83193-nananenme-no-kazoe-uta",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 95064,
+    "name": "Houtai Shoujo Aiwa: Kokuchou no Noroi",
+    "rus_name": "Грустная история девушки с повязкой: Проклятие чёрной бабочки",
+    "url": "/mangas/95064-houtai-shoujo-aiwa-kokuchou-no-noroi",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 19088,
+    "name": "Comics Underground Japan",
+    "rus_name": "Японский андеграунд",
+    "url": "/mangas/19088-comics-underground-japan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1636300800000"
+  },
+  {
+    "id": 106966,
+    "name": "Chousou no Babel",
+    "rus_name": "Вавилон: Небесное погребение",
+    "url": "/mangas/106966-chousou-no-babel",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates"
+    ],
+    "last_change": "1616169600000"
+  },
+  {
+    "id": 13666,
+    "name": "Korokoro Soushi: Ooedo Muzan Juusanku",
+    "rus_name": "Кровавые хроники: Тринадцать мучеников Оэдо",
+    "url": "/mangas/13666-korokoro-soushi-ooedo-muzan-juusanku",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1629907200000"
+  },
+  {
+    "id": 55769,
+    "name": "Tsuki Kuu Mushi",
+    "rus_name": "",
+    "url": "/mangas/55769-tsuki-kuu-mushi",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1532102400000"
+  },
+  {
+    "id": 99364,
+    "name": "Majonna",
+    "rus_name": "",
+    "url": "/mangas/99364-majonna",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1636819200000"
+  },
+  {
+    "id": 131035,
+    "name": "Zombies",
+    "rus_name": "Зомби",
+    "url": "/mangas/131035-zombies",
+    "links": [
+      "myanimelist",
+      "mangalib",
+      "mangaupdates",
+      "mangadex"
+    ],
+    "last_change": "1621094400000"
+  },
+  {
+    "id": 120470,
+    "name": "Kamui Jihen",
+    "rus_name": "Инцидент Камуи",
+    "url": "/mangas/120470-kamui-jihen",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 121021,
+    "name": "Takara no Yome",
+    "rus_name": "",
+    "url": "/mangas/121021-takara-no-yome",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 26833,
+    "name": "Shoujo Gensou Necrophilia",
+    "rus_name": "Некрофилия потусторонней девушки",
+    "url": "/mangas/26833-shoujo-gensou-necrophilia",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1593187200000"
+  },
+  {
+    "id": 88131,
+    "name": "Igai: The Play Dead/Alive",
+    "rus_name": "Игра: Между жизнью и смертью",
+    "url": "/mangas/88131-igai-the-play-dead-alive",
+    "links": [
+      "official_site",
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -6729,15 +9697,322 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1608566400000"
+    "last_change": "1646496000000"
   },
   {
-    "id": 114330,
-    "name": "Diner",
-    "rus_name": "Бистро",
-    "url": "/mangas/114330-diner",
+    "id": 1842,
+    "name": "Cafe Occult",
+    "rus_name": "Оккультное кафе",
+    "url": "/mangas/1842-cafe-occult",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 95954,
+    "name": "Tokyo Undead",
+    "rus_name": "Мертвецы Токио",
+    "url": "/mangas/95954-tokyo-undead",
     "links": [
       "official_site",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1610380800000"
+  },
+  {
+    "id": 47609,
+    "name": "Comic Anthology Kiwami: Horror, Suspense, Mystery",
+    "rus_name": "Ужас, саспенс, загадки",
+    "url": "/mangas/47609-comic-anthology-kiwami-horror-suspense-mystery",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": "1600531200000"
+  },
+  {
+    "id": 17135,
+    "name": "Gakkou de Atta Kowai Hanashi",
+    "rus_name": "Школьные истории ужасов",
+    "url": "/mangas/17135-gakkou-de-atta-kowai-hanashi",
+    "links": [
+      "myanimelist",
+      "readmanga"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 31163,
+    "name": "Shinrei Taiken: Jikkenshitsu no Mariko",
+    "rus_name": "",
+    "url": "/mangas/31163-shinrei-taiken-jikkenshitsu-no-mariko",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4624,
+    "name": "Jack Frost",
+    "rus_name": "Джек Фрост",
+    "url": "/mangas/4624-jack-frost",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1644595200000"
+  },
+  {
+    "id": 22917,
+    "name": "Se no Me",
+    "rus_name": "",
+    "url": "/mangas/22917-se-no-me",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 109572,
+    "name": "Gesshoku Kitan",
+    "rus_name": "Мистические истории лунного затмения",
+    "url": "/mangas/109572-gesshoku-kitan",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1633708800000"
+  },
+  {
+    "id": 11741,
+    "name": "Bokkesan",
+    "rus_name": "Бокке-сан",
+    "url": "/mangas/11741-bokkesan",
+    "links": [
+      "wikipedia",
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1581609600000"
+  },
+  {
+    "id": 106962,
+    "name": "Yoru no Sekai wa Utsukushii",
+    "rus_name": "",
+    "url": "/mangas/106962-yoru-no-sekai-wa-utsukushii",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 106409,
+    "name": "Happy End.",
+    "rus_name": "Счастливый конец",
+    "url": "/mangas/106409-happy-end",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 109609,
+    "name": "Tomogui Kyoushitsu",
+    "rus_name": "Класс друзей-пожирателей",
+    "url": "/mangas/109609-tomogui-kyoushitsu",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1624982400000"
+  },
+  {
+    "id": 79451,
+    "name": "Hell Mother",
+    "rus_name": "Адская мать",
+    "url": "/mangas/79451-hell-mother",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 55303,
+    "name": "Yuuyami Tokkoutai",
+    "rus_name": "Сумеречный отряд",
+    "url": "/mangas/55303-yuuyami-tokkoutai",
+    "links": [
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1634140800000"
+  },
+  {
+    "id": 16752,
+    "name": "Satsui no Message",
+    "rus_name": "Сообщение о намерении убить",
+    "url": "/mangas/16752-satsui-no-message",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 55237,
+    "name": "Kakuriyo Monogatari",
+    "rus_name": "Сказка о загробной жизни",
+    "url": "/mangas/55237-kakuriyo-monogatari",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1580227200000"
+  },
+  {
+    "id": 115712,
+    "name": "Rengoku Joshi",
+    "rus_name": "Девичье чистилище",
+    "url": "/mangas/115712-rengoku-joshi",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1632326400000"
+  },
+  {
+    "id": 13562,
+    "name": "Doll Star: Kotodama Tsukai Ihon",
+    "rus_name": "Кукольная звезда",
+    "url": "/mangas/13562-doll-star-kotodama-tsukai-ihon",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1631721600000"
+  },
+  {
+    "id": 29433,
+    "name": "Yuurei Gakkou",
+    "rus_name": "Школьные призраки",
+    "url": "/mangas/29433-yuurei-gakkou",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 5407,
+    "name": "Kuchisake Onna Densetsu",
+    "rus_name": "Легенда о женщине с разрезанным ртом",
+    "url": "/mangas/5407-kuchisake-onna-densetsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 116238,
+    "name": "Warui Yume no Sono Saki...",
+    "rus_name": "За гранью кошмаров...",
+    "url": "/mangas/116238-warui-yume-no-sono-saki",
+    "links": [
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox"
+    ],
+    "last_change": "1595001600000"
+  },
+  {
+    "id": 54883,
+    "name": "Kaidan",
+    "rus_name": "История о привидениях",
+    "url": "/mangas/54883-kaidan",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 87141,
+    "name": "Kyoui no Ikiryou",
+    "rus_name": "",
+    "url": "/mangas/87141-kyoui-no-ikiryou",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 13386,
+    "name": "Toshi Densetsu",
+    "rus_name": "Городские легенды",
+    "url": "/mangas/13386-toshi-densetsu",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1622736000000"
+  },
+  {
+    "id": 17964,
+    "name": "Mononoke-zoushi",
+    "rus_name": "Мононокэ Соши",
+    "url": "/mangas/17964-mononoke-zoushi",
+    "links": [
       "wikipedia",
       "myanimelist",
       "readmanga",
@@ -6751,229 +10026,178 @@ let manga = [
     "last_change": "1629734400000"
   },
   {
-    "id": 73265,
-    "name": "Mind Game",
-    "rus_name": "Игры разума",
-    "url": "/mangas/73265-mind-game",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1609516800000"
-  },
-  {
-    "id": 89244,
-    "name": "Zettai Zetsubou Shoujo: Danganronpa Another Episode",
-    "rus_name": "Девушки в абсолютном отчаянии",
-    "url": "/mangas/89244-zettai-zetsubou-shoujo-danganronpa-another-episode",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1620576000000"
-  },
-  {
-    "id": 81925,
-    "name": "Nemurenai Yoru no Ohanashi",
-    "rus_name": "Рассказ о бессонной ночи",
-    "url": "/mangas/81925-nemurenai-yoru-no-ohanashi",
+    "id": 10543,
+    "name": "Chairudo",
+    "rus_name": "",
+    "url": "/mangas/10543-chairudo",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 876,
-    "name": "Moon Boy",
-    "rus_name": "Лунный мальчик",
-    "url": "/mangas/876-moon-boy",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1528992000000"
-  },
-  {
-    "id": 131032,
-    "name": "Sennou Shitsuji",
-    "rus_name": "Дворецкий по промыванию мозгов",
-    "url": "/mangas/131032-sennou-shitsuji",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1619625600000"
-  },
-  {
-    "id": 65227,
-    "name": "Holy Holy",
-    "rus_name": "Свят, свят",
-    "url": "/mangas/65227-holy-holy",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 28719,
-    "name": "Kyou kara Hitman",
-    "rus_name": "Убийца — работа на полставки",
-    "url": "/mangas/28719-kyou-kara-hitman",
+    "id": 11744,
+    "name": "Hebi Shoujo",
+    "rus_name": "Девушка-змея",
+    "url": "/mangas/11744-hebi-shoujo",
     "links": [
       "official_site",
       "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1614873600000"
-  },
-  {
-    "id": 88704,
-    "name": "Ankoku Gakkou",
-    "rus_name": "Тёмная школа",
-    "url": "/mangas/88704-ankoku-gakkou",
-    "links": [
-      "official_site",
       "myanimelist",
       "mangaupdates",
       "mangadex"
     ],
-    "last_change": "1636646400000"
+    "last_change": "1630684800000"
   },
   {
-    "id": 26012,
-    "name": "Kokoro no Kanashimi",
-    "rus_name": "Грусть сердца",
-    "url": "/mangas/26012-kokoro-no-kanashimi",
+    "id": 108483,
+    "name": "Kyou kara Zombie!",
+    "rus_name": "",
+    "url": "/mangas/108483-kyou-kara-zombie",
     "links": [
-      "anime_news_network",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 91951,
+    "name": "Mushroom",
+    "rus_name": "Грибы",
+    "url": "/mangas/91951-mushroom",
+    "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
       "mangadex",
-      "mangafox",
       "mangahub"
     ],
-    "last_change": "1610899200000"
+    "last_change": "1610380800000"
   },
   {
-    "id": 16081,
-    "name": "Umineko no Naku Koro ni - Episode 3: Banquet of the Golden Witch",
-    "rus_name": "Когда плачут чайки 3: Банкет Золотой Ведьмы",
-    "url": "/mangas/16081-umineko-no-naku-koro-ni-episode-3-banquet-of-the-golden-witch",
+    "id": 82205,
+    "name": "Yami Toshi Densetsu",
+    "rus_name": "Мрачные городские легенды",
+    "url": "/mangas/82205-yami-toshi-densetsu",
     "links": [
-      "anime_news_network",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 87578,
+    "name": "Fushigi Tsuushin: Toilet no Hanako-san",
+    "rus_name": "",
+    "url": "/mangas/87578-fushigi-tsuushin-toilet-no-hanako-san",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 94604,
+    "name": "Outer Zone: Re:Visited",
+    "rus_name": "",
+    "url": "/mangas/94604-outer-zone-re-visited",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 95617,
+    "name": "Kaiki to Fuushi Sakuhinshuu",
+    "rus_name": "Сборник загадочных и сатирических произведений",
+    "url": "/mangas/95617-kaiki-to-fuushi-sakuhinshuu",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1635609600000"
+  },
+  {
+    "id": 29431,
+    "name": "Halloween Densetsu",
+    "rus_name": "Легенда Хэллоуина",
+    "url": "/mangas/29431-halloween-densetsu",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 67373,
+    "name": "Mystery Minzoku Gakusha Yakumo Itsuki",
+    "rus_name": "",
+    "url": "/mangas/67373-mystery-minzoku-gakusha-yakumo-itsuki",
+    "links": [
+      "wikipedia",
+      "myanimelist",
+      "mangaupdates",
+      "mangadex",
+      "mangafox"
+    ],
+    "last_change": "1633449600000"
+  },
+  {
+    "id": 125748,
+    "name": "Yamiyo ni Asobu na Kodomotachi",
+    "rus_name": "Не играйте, дети, во тьме ночи",
+    "url": "/mangas/125748-yamiyo-ni-asobu-na-kodomotachi",
+    "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 92984,
-    "name": "Gakkougurashi! Anthology Comic: Kai",
-    "rus_name": "Школьная жизнь! Антология II",
-    "url": "/mangas/92984-gakkougurashi-anthology-comic-kai",
-    "links": [
-      "myanimelist",
       "mangaupdates",
       "mangafox"
     ],
-    "last_change": "1536163200000"
+    "last_change": "1604073600000"
   },
   {
-    "id": 85597,
-    "name": "Corpse Party: Coupling x Anthology",
-    "rus_name": "Вечеринка мертвецов: Связь x Антология",
-    "url": "/mangas/85597-corpse-party-coupling-x-anthology",
+    "id": 112664,
+    "name": "Chou Rakuen Ichiba",
+    "rus_name": "",
+    "url": "/mangas/112664-chou-rakuen-ichiba",
     "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1619366400000"
+  },
+  {
+    "id": 17987,
+    "name": "Shin Jigoku Shoujo",
+    "rus_name": "Адская девочка: Продолжение",
+    "url": "/mangas/17987-shin-jigoku-shoujo",
+    "links": [
+      "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1536336000000"
+  },
+  {
+    "id": 24819,
+    "name": "Teizokureigari",
+    "rus_name": "Охота вульгарного духа",
+    "url": "/mangas/24819-teizokureigari",
+    "links": [
+      "wikipedia",
       "myanimelist",
       "mangaupdates",
       "mangadex"
     ],
-    "last_change": "1641312000000"
+    "last_change": "1645977600000"
   },
   {
-    "id": 61683,
-    "name": "Trash.",
-    "rus_name": "Треш",
-    "url": "/mangas/61683-trash",
+    "id": 46714,
+    "name": "Shuuen no Shiori",
+    "rus_name": "Закладка смерти",
+    "url": "/mangas/46714-shuuen-no-shiori",
     "links": [
       "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 111183,
-    "name": "Kimitachi wa Dou Ikiru ka",
-    "rus_name": "Как поживаете?",
-    "url": "/mangas/111183-kimitachi-wa-dou-ikiru-ka",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1613059200000"
-  },
-  {
-    "id": 126926,
-    "name": "Mr. Mallow Blue",
-    "rus_name": "",
-    "url": "/mangas/126926-mr-mallow-blue",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1629475200000"
-  },
-  {
-    "id": 40097,
-    "name": "Yorukumo",
-    "rus_name": "Ночной паук",
-    "url": "/mangas/40097-yorukumo",
-    "links": [
-      "official_site",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -6982,72 +10206,23 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1598803200000"
+    "last_change": "1598025600000"
   },
   {
-    "id": 59343,
-    "name": "Monkurochou",
-    "rus_name": "",
-    "url": "/mangas/59343-monkurochou",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1638288000000"
-  },
-  {
-    "id": 114971,
-    "name": "R402",
-    "rus_name": "Комната 402",
-    "url": "/mangas/114971-r402",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1629129600000"
-  },
-  {
-    "id": 14859,
-    "name": "Hikari",
-    "rus_name": "Луч света",
-    "url": "/mangas/14859-hikari",
+    "id": 94066,
+    "name": "Zetsubou no Eve",
+    "rus_name": "Отчаяние Евы",
+    "url": "/mangas/94066-zetsubou-no-eve",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 97174,
-    "name": "Baby Boom",
-    "rus_name": "Бэби-бум",
-    "url": "/mangas/97174-baby-boom",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 105711,
-    "name": "Die Dol",
-    "rus_name": "Падший идол",
-    "url": "/mangas/105711-die-dol",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1641225600000"
-  },
-  {
-    "id": 48423,
-    "name": "Long Goodbye",
-    "rus_name": "Вечное прощание",
-    "url": "/mangas/48423-long-goodbye",
+    "id": 77505,
+    "name": "Kowa-Kowa",
+    "rus_name": "Сладкая жизнь",
+    "url": "/mangas/77505-kowa-kowa",
     "links": [
       "myanimelist",
       "readmanga"
@@ -7055,291 +10230,120 @@ let manga = [
     "last_change": ""
   },
   {
-    "id": 121030,
-    "name": "Saigo no Isha wa Sakura wo Miagete Kimi wo Omou",
-    "rus_name": "",
-    "url": "/mangas/121030-saigo-no-isha-wa-sakura-wo-miagete-kimi-wo-omou",
+    "id": 8872,
+    "name": "Fuan no Tane+",
+    "rus_name": "Семя страха. Плюс",
+    "url": "/mangas/8872-fuan-no-tane",
     "links": [
       "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 104439,
-    "name": "Mother Ghoul",
-    "rus_name": "Мать-гуль",
-    "url": "/mangas/104439-mother-ghoul",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates"
-    ],
-    "last_change": "1629820800000"
-  },
-  {
-    "id": 94305,
-    "name": "Naraku no Hitsuji",
-    "rus_name": "Подсчёт из ада",
-    "url": "/mangas/94305-naraku-no-hitsuji",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1581264000000"
-  },
-  {
-    "id": 101564,
-    "name": "Iceland",
-    "rus_name": "Исландия",
-    "url": "/mangas/101564-iceland",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1632067200000"
-  },
-  {
-    "id": 3130,
-    "name": "The Ring 3: Rasen",
-    "rus_name": "Звонок 3: Бешенство",
-    "url": "/mangas/3130-the-ring-3-rasen",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1504800000000"
-  },
-  {
-    "id": 122212,
-    "name": "Sion no Niwa",
-    "rus_name": "",
-    "url": "/mangas/122212-sion-no-niwa",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1639584000000"
-  },
-  {
-    "id": 122753,
-    "name": "Kanojo Gacha",
-    "rus_name": "Девушка-гача",
-    "url": "/mangas/122753-kanojo-gacha",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1607443200000"
-  },
-  {
-    "id": 58209,
-    "name": "Shin Kurosawa: Saikyou Densetsu",
-    "rus_name": "Легенда о сильнейшем из мужчин Куросаве 2",
-    "url": "/mangas/58209-shin-kurosawa-saikyou-densetsu",
-    "links": [
       "wikipedia",
       "anime_news_network",
       "myanimelist",
+      "readmanga",
+      "mangalib",
       "mangaupdates",
       "mangadex",
-      "mangafox"
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1647100800000"
+    "last_change": "1610467200000"
   },
   {
-    "id": 68725,
-    "name": "Onna no Ana",
+    "id": 23397,
+    "name": "Reverend D",
     "rus_name": "",
-    "url": "/mangas/68725-onna-no-ana",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 94590,
-    "name": "Secretly, Greatly",
-    "rus_name": "Тайное благородство",
-    "url": "/mangas/94590-secretly-greatly",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 105702,
-    "name": "Bakki",
-    "rus_name": "Фанатик",
-    "url": "/mangas/105702-bakki",
+    "url": "/mangas/23397-reverend-d",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 9752,
-    "name": "Kakusan",
-    "rus_name": "Диффузная болезнь",
-    "url": "/mangas/9752-kakusan",
+    "id": 12390,
+    "name": "Yukei Seikyo Kukla",
+    "rus_name": "",
+    "url": "/mangas/12390-yukei-seikyo-kukla",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 105888,
+    "name": "Kyoufu",
+    "rus_name": "Страх",
+    "url": "/mangas/105888-kyoufu",
     "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
       "mangaupdates",
       "mangadex",
-      "mangafox"
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1636041600000"
+    "last_change": "1630684800000"
   },
   {
-    "id": 135329,
-    "name": "Blank Space",
-    "rus_name": "Пустое пространство",
-    "url": "/mangas/135329-blank-space",
+    "id": 118694,
+    "name": "Muramatsuri",
+    "rus_name": "",
+    "url": "/mangas/118694-muramatsuri",
     "links": [
       "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1634140800000"
-  },
-  {
-    "id": 118879,
-    "name": "Yamikin Ushijima-kun Gaiden: Nikumamushi Densetsu",
-    "rus_name": "Ростовщик Усидзима: Легенда о Никумамуси —  Гайдэн",
-    "url": "/mangas/118879-yamikin-ushijima-kun-gaiden-nikumamushi-densetsu",
-    "links": [
-      "official_site",
-      "wikipedia",
       "myanimelist",
       "mangaupdates"
     ],
-    "last_change": "1595952000000"
+    "last_change": "1609862400000"
   },
   {
-    "id": 62551,
-    "name": "Abyss",
-    "rus_name": "Бездна",
-    "url": "/mangas/62551-abyss",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 120474,
-    "name": "Satsukare",
-    "rus_name": "Сацукарэ",
-    "url": "/mangas/120474-satsukare",
+    "id": 127424,
+    "name": "Harasaki",
+    "rus_name": "Харасаки",
+    "url": "/mangas/127424-harasaki",
     "links": [
       "official_site",
-      "wikipedia",
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 18754,
-    "name": "Beast and Harrian",
-    "rus_name": "",
-    "url": "/mangas/18754-beast-and-harrian",
+    "id": 782,
+    "name": "Blood+ Adagio",
+    "rus_name": "Кровь+ А",
+    "url": "/mangas/782-blood-adagio",
     "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 122653,
-    "name": "Spectral Wizard",
-    "rus_name": "Призрачный волшебник",
-    "url": "/mangas/122653-spectral-wizard",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 12893,
-    "name": "Riman Gambler Mouse",
-    "rus_name": "",
-    "url": "/mangas/12893-riman-gambler-mouse",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 96866,
-    "name": "Nibiiro no Seishun",
-    "rus_name": "",
-    "url": "/mangas/96866-nibiiro-no-seishun",
-    "links": [
+      "anime_news_network",
       "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangahub"
+    ],
+    "last_change": "1651507200000"
+  },
+  {
+    "id": 18774,
+    "name": "Higanbana no Saku Yoru ni",
+    "rus_name": "Ночь, в которую цвёл ликорис",
+    "url": "/mangas/18774-higanbana-no-saku-yoru-ni",
+    "links": [
+      "wikipedia",
+      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
       "mangaupdates",
       "mangadex",
-      "mangafox"
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1646668800000"
+    "last_change": "1641484800000"
   },
   {
-    "id": 80921,
-    "name": "Ai wo Ano Yo ni Oitekita",
-    "rus_name": "",
-    "url": "/mangas/80921-ai-wo-ano-yo-ni-oitekita",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 23194,
-    "name": "\"Bungaku Shoujo\" to Oishii Recipe",
-    "rus_name": "Литературная барышня и вкусный рецепт",
-    "url": "/mangas/23194-bungaku-shoujo-to-oishii-recipe",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 127058,
-    "name": "Jisatsu Houjo",
-    "rus_name": "Дева самоубийства",
-    "url": "/mangas/127058-jisatsu-houjo",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 13609,
-    "name": "7x7-D",
-    "rus_name": "",
-    "url": "/mangas/13609-7x7-d",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 34215,
-    "name": "Banji Kaichou",
-    "rus_name": "Всё идеально",
-    "url": "/mangas/34215-banji-kaichou",
+    "id": 104169,
+    "name": "Dementia 21",
+    "rus_name": "Слабоумие двадцать один",
+    "url": "/mangas/104169-dementia-21",
     "links": [
       "myanimelist",
       "mangaupdates"
@@ -7347,46 +10351,60 @@ let manga = [
     "last_change": "1640102400000"
   },
   {
-    "id": 113299,
-    "name": "Sekai no Aikotoba wa Mizu: Andou Ikori Sakuhinshuu",
+    "id": 16306,
+    "name": "Nouko no Koi",
     "rus_name": "",
-    "url": "/mangas/113299-sekai-no-aikotoba-wa-mizu-andou-ikori-sakuhinshuu",
+    "url": "/mangas/16306-nouko-no-koi",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 42087,
-    "name": "Kindai Nihon Bungaku Meisakusen",
-    "rus_name": "Коллекция шедевров современной японской литературы",
-    "url": "/mangas/42087-kindai-nihon-bungaku-meisakusen",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 112237,
-    "name": "Akuratsu",
-    "rus_name": "",
-    "url": "/mangas/112237-akuratsu",
+    "id": 43343,
+    "name": "Kagehime",
+    "rus_name": "Принцесса теней",
+    "url": "/mangas/43343-kagehime",
     "links": [
       "myanimelist",
       "mangaupdates"
     ],
-    "last_change": "1634486400000"
+    "last_change": "1630684800000"
   },
   {
-    "id": 105722,
-    "name": "ChaoS;Child: Children's Collapse",
-    "rus_name": "Дитя хаоса: Детский коллапс",
-    "url": "/mangas/105722-chaos-child-children-s-collapse",
+    "id": 89082,
+    "name": "Gakkou no Kaidan",
+    "rus_name": "Школьные истории о привидениях",
+    "url": "/mangas/89082-gakkou-no-kaidan",
+    "links": [
+      "wikipedia",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 92369,
+    "name": "Kudan no Gotoshi",
+    "rus_name": "Как сказал Кудан",
+    "url": "/mangas/92369-kudan-no-gotoshi",
     "links": [
       "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1600444800000"
+  },
+  {
+    "id": 12397,
+    "name": "Canaria Child",
+    "rus_name": "Дитя канарейки",
+    "url": "/mangas/12397-canaria-child",
+    "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -7396,204 +10414,151 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1612022400000"
+    "last_change": "1612540800000"
   },
   {
-    "id": 133871,
-    "name": "Hametsu no Kanojo",
-    "rus_name": "Испорченная девушка",
-    "url": "/mangas/133871-hametsu-no-kanojo",
+    "id": 12191,
+    "name": "M Collection",
+    "rus_name": "Коллекция ужасов",
+    "url": "/mangas/12191-m-collection",
     "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1613664000000"
-  },
-  {
-    "id": 123503,
-    "name": "Raising Hell",
-    "rus_name": "",
-    "url": "/mangas/123503-raising-hell",
-    "links": [
-      "official_site",
       "myanimelist",
       "mangaupdates"
     ],
-    "last_change": "1629561600000"
+    "last_change": "1575216000000"
   },
   {
-    "id": 58657,
-    "name": "NOeSIS: Uso wo Tsuita Kioku no Monogatari",
-    "rus_name": "Игры с разумом",
-    "url": "/mangas/58657-noesis-uso-wo-tsuita-kioku-no-monogatari",
+    "id": 103212,
+    "name": "Kazoku Scramble",
+    "rus_name": "Семейная схватка",
+    "url": "/mangas/103212-kazoku-scramble",
+    "links": [
+      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 58731,
+    "name": "Akumugari",
+    "rus_name": "Кошмарная охота",
+    "url": "/mangas/58731-akumugari",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 37753,
+    "name": "Aiyoku no Eustia",
+    "rus_name": "Потускневшие крылья Эустии",
+    "url": "/mangas/37753-aiyoku-no-eustia",
     "links": [
       "official_site",
       "wikipedia",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1598198400000"
+  },
+  {
+    "id": 13300,
+    "name": "Rakuen",
+    "rus_name": "Рай",
+    "url": "/mangas/13300-rakuen",
+    "links": [
       "myanimelist",
       "readmanga"
     ],
     "last_change": ""
   },
   {
-    "id": 3231,
-    "name": "A Cat and a Bird",
-    "rus_name": "Кошка и птица",
-    "url": "/mangas/3231-a-cat-and-a-bird",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1646841600000"
-  },
-  {
-    "id": 2990,
-    "name": "M",
-    "rus_name": "М",
-    "url": "/mangas/2990-m",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1643904000000"
-  },
-  {
-    "id": 70179,
-    "name": "Ubume no Natsu",
-    "rus_name": "Лето Убумэ",
-    "url": "/mangas/70179-ubume-no-natsu",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1561910400000"
-  },
-  {
-    "id": 120573,
-    "name": "Sacchan, Boku wa.",
-    "rus_name": "Дорогая Саттян",
-    "url": "/mangas/120573-sacchan-boku-wa",
+    "id": 109611,
+    "name": "Ano Natsu no Eve",
+    "rus_name": "Канун лета",
+    "url": "/mangas/109611-ano-natsu-no-eve",
     "links": [
       "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 36329,
+    "name": "Parasite Eve Diva - N.Y. Shi no Utahime",
+    "rus_name": "Паразит Ева: Дива — Нью-Йоркская певица смерти",
+    "url": "/mangas/36329-parasite-eve-diva-n-y-shi-no-utahime",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 41661,
+    "name": "Kyoufu Gallery",
+    "rus_name": "Галерея ужасов",
+    "url": "/mangas/41661-kyoufu-gallery",
+    "links": [
+      "myanimelist",
+      "mangafox"
+    ],
+    "last_change": "1593964800000"
+  },
+  {
+    "id": 95460,
+    "name": "Broadway of the Dead Jombie: Doutei SOS",
+    "rus_name": "Бродвей мёртвых женщин: Сос невинных",
+    "url": "/mangas/95460-broadway-of-the-dead-jombie-doutei-sos",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 15500,
+    "name": "Sugiru Juunana no Haru",
+    "rus_name": "Моя семнадцатая весна",
+    "url": "/mangas/15500-sugiru-juunana-no-haru",
+    "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
-      "mangadex",
-      "mangafox"
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1608393600000"
+    "last_change": "1602345600000"
   },
   {
-    "id": 9063,
-    "name": "Hikarabita Taiji",
-    "rus_name": "Высохший плод",
-    "url": "/mangas/9063-hikarabita-taiji",
+    "id": 19167,
+    "name": "Kiben Gakuha, Yotsuya-senpai no Kaidan.",
+    "rus_name": "Философское богословие и призрачные истории Йоцуи-сэнпая",
+    "url": "/mangas/19167-kiben-gakuha-yotsuya-senpai-no-kaidan",
     "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 91009,
-    "name": "I'm Home",
-    "rus_name": "Я дома",
-    "url": "/mangas/91009-i-m-home",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 115612,
-    "name": "Skyhigh: Hevәn",
-    "rus_name": "Небесная высь: Небо",
-    "url": "/mangas/115612-skyhigh-hev-n",
-    "links": [
-      "wikipedia",
       "myanimelist",
+      "readmanga",
       "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
       "mangadex",
       "mangafox",
+      "mangafox",
       "mangahub"
     ],
-    "last_change": "1626364800000"
+    "last_change": "1615392000000"
   },
   {
-    "id": 100257,
-    "name": "Hard Boiled Angel",
-    "rus_name": "",
-    "url": "/mangas/100257-hard-boiled-angel",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 86814,
-    "name": "Faust",
-    "rus_name": "Фауст",
-    "url": "/mangas/86814-faust",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": "1588348800000"
-  },
-  {
-    "id": 8535,
-    "name": "One Missed Call",
-    "rus_name": "Один пропущенный звонок",
-    "url": "/mangas/8535-one-missed-call",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 126748,
-    "name": "Saturn Return",
-    "rus_name": "Возвращение Сатурна",
-    "url": "/mangas/126748-saturn-return",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1628352000000"
-  },
-  {
-    "id": 94166,
-    "name": "Shimauma Gaiden: Aka to Kiinu",
-    "rus_name": "",
-    "url": "/mangas/94166-shimauma-gaiden-aka-to-kiinu",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 99555,
-    "name": "Itomeguri no Sobyou",
-    "rus_name": "Сплетённое из нитей полотно",
-    "url": "/mangas/99555-itomeguri-no-sobyou",
+    "id": 4695,
+    "name": "Redrum 327",
+    "rus_name": "Редрам-327",
+    "url": "/mangas/4695-redrum-327",
     "links": [
       "myanimelist",
       "readmanga",
@@ -7602,13 +10567,13 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1598371200000"
+    "last_change": "1600963200000"
   },
   {
-    "id": 33129,
-    "name": "Deimos no Hanayome: Saishuushou",
+    "id": 95618,
+    "name": "Kappa-Kou",
     "rus_name": "",
-    "url": "/mangas/33129-deimos-no-hanayome-saishuushou",
+    "url": "/mangas/95618-kappa-kou",
     "links": [
       "wikipedia",
       "myanimelist"
@@ -7616,23 +10581,36 @@ let manga = [
     "last_change": ""
   },
   {
-    "id": 112002,
-    "name": "Spinoza",
-    "rus_name": "Спиноза",
-    "url": "/mangas/112002-spinoza",
+    "id": 13566,
+    "name": "Shin National Kid",
+    "rus_name": "Новое дитя нации",
+    "url": "/mangas/13566-shin-national-kid",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangaupdates",
+      "mangahub"
+    ],
+    "last_change": "1590163200000"
+  },
+  {
+    "id": 20576,
+    "name": "Paranoia Street",
+    "rus_name": "Улица паранойи",
+    "url": "/mangas/20576-paranoia-street",
     "links": [
       "myanimelist",
       "mangaupdates",
-      "mangadex",
       "mangafox"
     ],
-    "last_change": "1637683200000"
+    "last_change": "1565193600000"
   },
   {
-    "id": 113206,
-    "name": "Yoake no Boogiepop",
-    "rus_name": "Бугипоп на рассвете",
-    "url": "/mangas/113206-yoake-no-boogiepop",
+    "id": 96142,
+    "name": "Real Onigokko JK",
+    "rus_name": "",
+    "url": "/mangas/96142-real-onigokko-jk",
     "links": [
       "wikipedia",
       "myanimelist"
@@ -7640,141 +10618,76 @@ let manga = [
     "last_change": ""
   },
   {
-    "id": 48329,
-    "name": "Girl Hunt",
-    "rus_name": "Охота на девушек",
-    "url": "/mangas/48329-girl-hunt",
+    "id": 29405,
+    "name": "Onryou Densetsu",
+    "rus_name": "Легенда об онрё",
+    "url": "/mangas/29405-onryou-densetsu",
     "links": [
-      "official_site",
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 4218,
+    "name": "Megami Ibunroku: Persona",
+    "rus_name": "Летопись странных историй Богини: Персона",
+    "url": "/mangas/4218-megami-ibunroku-persona",
+    "links": [
+      "anime_news_network",
+      "myanimelist",
+      "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1593100800000"
+  },
+  {
+    "id": 106766,
+    "name": "Shinigami Doll",
+    "rus_name": "",
+    "url": "/mangas/106766-shinigami-doll",
+    "links": [
+      "myanimelist"
+    ],
+    "last_change": ""
+  },
+  {
+    "id": 181,
+    "name": "Zombieya Reiko",
+    "rus_name": "Магазин зомби Рэйко",
+    "url": "/mangas/181-zombieya-reiko",
+    "links": [
+      "wikipedia",
       "myanimelist",
       "mangaupdates"
     ],
-    "last_change": "1620230400000"
+    "last_change": "1621440000000"
   },
   {
-    "id": 117140,
-    "name": "Da Aphorism",
-    "rus_name": "",
-    "url": "/mangas/117140-da-aphorism",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1613318400000"
-  },
-  {
-    "id": 112792,
-    "name": "Nanaokuen wo Te ni Ireta Boku ni Arigachi na Koto.",
-    "rus_name": "",
-    "url": "/mangas/112792-nanaokuen-wo-te-ni-ireta-boku-ni-arigachi-na-koto",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 17686,
-    "name": "Self",
-    "rus_name": "Сам",
-    "url": "/mangas/17686-self",
+    "id": 72167,
+    "name": "Kirisame ga Furu Mori",
+    "rus_name": "Лес моросящего дождя",
+    "url": "/mangas/72167-kirisame-ga-furu-mori",
     "links": [
       "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1639670400000"
-  },
-  {
-    "id": 112408,
-    "name": "Mama",
-    "rus_name": "Мама",
-    "url": "/mangas/112408-mama",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 1829,
-    "name": "K no Souretsu",
-    "rus_name": "Похороны К",
-    "url": "/mangas/1829-k-no-souretsu",
-    "links": [
       "myanimelist",
       "readmanga",
       "mangalib",
       "remanga",
       "mangaupdates",
-      "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1629907200000"
+    "last_change": "1595779200000"
   },
   {
-    "id": 10744,
-    "name": "Silent Eye",
-    "rus_name": "Безмолвный взгляд",
-    "url": "/mangas/10744-silent-eye",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 140710,
-    "name": "Flight: Tsurita Kuniko Sakuhinshuu",
-    "rus_name": "Полёт: Сборник рассказов Кунико Цуриты",
-    "url": "/mangas/140710-flight-tsurita-kuniko-sakuhinshuu",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 17255,
-    "name": "Kaijidou Mokuroku",
-    "rus_name": "",
-    "url": "/mangas/17255-kaijidou-mokuroku",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1640966400000"
-  },
-  {
-    "id": 59781,
-    "name": "Flowers",
-    "rus_name": "Цветы",
-    "url": "/mangas/59781-flowers",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1633708800000"
-  },
-  {
-    "id": 106400,
-    "name": "Tsumi no Koe: Shouwa Saidai no Mikaiketsu Jiken",
-    "rus_name": "Голос порока",
-    "url": "/mangas/106400-tsumi-no-koe-shouwa-saidai-no-mikaiketsu-jiken",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 110625,
-    "name": "Kuu Onna",
-    "rus_name": "Ненасытная женщина",
-    "url": "/mangas/110625-kuu-onna",
+    "id": 75345,
+    "name": "Eden no Saigo ni",
+    "rus_name": "В конце Эдема",
+    "url": "/mangas/75345-eden-no-saigo-ni",
     "links": [
       "myanimelist",
       "mangaupdates"
@@ -7782,95 +10695,12 @@ let manga = [
     "last_change": "1622649600000"
   },
   {
-    "id": 105393,
-    "name": "Ihotose Box",
-    "rus_name": "Пятисотлетний ящик",
-    "url": "/mangas/105393-ihotose-box",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 65669,
-    "name": "Takato Shounen no Jikenbo",
-    "rus_name": "Дело ведёт юный детектив Такато",
-    "url": "/mangas/65669-takato-shounen-no-jikenbo",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1602518400000"
-  },
-  {
-    "id": 21891,
-    "name": "Dandelion",
-    "rus_name": "Данделион",
-    "url": "/mangas/21891-dandelion",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 105854,
-    "name": "AI no Idenshi",
-    "rus_name": "Гены любви",
-    "url": "/mangas/105854-ai-no-idenshi",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1630339200000"
-  },
-  {
-    "id": 16053,
-    "name": "Yumekui Kenbun: Moukyoudou",
-    "rus_name": "Инспектор ночных кошмаров",
-    "url": "/mangas/16053-yumekui-kenbun-moukyoudou",
+    "id": 101980,
+    "name": "I Am a Hero in Nagasaki",
+    "rus_name": "Я — герой Нагасаки",
+    "url": "/mangas/101980-i-am-a-hero-in-nagasaki",
     "links": [
       "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 118515,
-    "name": "Gainen Dorobou",
-    "rus_name": "",
-    "url": "/mangas/118515-gainen-dorobou",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 31123,
-    "name": "Kowai Kurai Ataru kara...",
-    "rus_name": "",
-    "url": "/mangas/31123-kowai-kurai-ataru-kara",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 130277,
-    "name": "Natsume Arata no Kekkon",
-    "rus_name": "Арата Нацумэ женится",
-    "url": "/mangas/130277-natsume-arata-no-kekkon",
-    "links": [
-      "official_site",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -7878,345 +10708,55 @@ let manga = [
       "mangadex",
       "mangafox"
     ],
-    "last_change": "1626451200000"
+    "last_change": "1610121600000"
   },
   {
-    "id": 20894,
-    "name": "Shin Black Jack ni Yoroshiku",
-    "rus_name": "Новый привет Чёрному Джеку",
-    "url": "/mangas/20894-shin-black-jack-ni-yoroshiku",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 1715,
-    "name": "Yousai Gakuen",
-    "rus_name": "Школа-крепость",
-    "url": "/mangas/1715-yousai-gakuen",
+    "id": 107102,
+    "name": "Akudou Bunko",
+    "rus_name": "Библиотека плохого парня",
+    "url": "/mangas/107102-akudou-bunko",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 6033,
-    "name": "Yume no Akichi",
-    "rus_name": "Страна снов",
-    "url": "/mangas/6033-yume-no-akichi",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1630339200000"
-  },
-  {
-    "id": 57781,
-    "name": "Vaia'n Maiden",
+    "id": 77845,
+    "name": "Matsurowanu Mono: Oni no Wataru Furumichi",
     "rus_name": "",
-    "url": "/mangas/57781-vaia-n-maiden",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1640966400000"
-  },
-  {
-    "id": 94021,
-    "name": "Kodomo no Asobi",
-    "rus_name": "Детские игры",
-    "url": "/mangas/94021-kodomo-no-asobi",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1570809600000"
-  },
-  {
-    "id": 48485,
-    "name": "Ao no Honoo",
-    "rus_name": "Синее пламя",
-    "url": "/mangas/48485-ao-no-honoo",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1631721600000"
-  },
-  {
-    "id": 20354,
-    "name": "Psycho Doctor Kai Kyosuke",
-    "rus_name": "Психиатр Кёсукэ Кай",
-    "url": "/mangas/20354-psycho-doctor-kai-kyosuke",
+    "url": "/mangas/77845-matsurowanu-mono-oni-no-wataru-furumichi",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 86715,
-    "name": "Siva no Yoru",
-    "rus_name": "",
-    "url": "/mangas/86715-siva-no-yoru",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1636819200000"
-  },
-  {
-    "id": 33593,
-    "name": "Ekimae Hanayome",
-    "rus_name": "Привокзальная невеста",
-    "url": "/mangas/33593-ekimae-hanayome",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1637683200000"
-  },
-  {
-    "id": 120466,
-    "name": "Do Aphorism",
-    "rus_name": "Афоризм лука и стрелы",
-    "url": "/mangas/120466-do-aphorism",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1613318400000"
-  },
-  {
-    "id": 128677,
-    "name": "Cthulhu no Yobigoe: Lovecraft Kessakushuu",
-    "rus_name": "Зов Ктулху",
-    "url": "/mangas/128677-cthulhu-no-yobigoe-lovecraft-kessakushuu",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 35475,
-    "name": "G",
-    "rus_name": "Джи",
-    "url": "/mangas/35475-g",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1621612800000"
-  },
-  {
-    "id": 21643,
-    "name": "Persona 4 Dengeki Comic Anthology",
-    "rus_name": "Персона 4: Антология Дэнгэки",
-    "url": "/mangas/21643-persona-4-dengeki-comic-anthology",
+    "id": 86211,
+    "name": "Bloody Lily",
+    "rus_name": "Кровавая лилия",
+    "url": "/mangas/86211-bloody-lily",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 18039,
-    "name": "Ore Satsujin Jiken!?",
-    "rus_name": "",
-    "url": "/mangas/18039-ore-satsujin-jiken",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1646841600000"
-  },
-  {
-    "id": 118390,
-    "name": "Btooom! U-18",
-    "rus_name": "Бтууум! U-18",
-    "url": "/mangas/118390-btooom-u-18",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1646409600000"
-  },
-  {
-    "id": 135567,
-    "name": "Shin Honkaku Mahou Shoujo Risuka",
-    "rus_name": "Новая подлинная волшебница Рисука",
-    "url": "/mangas/135567-shin-honkaku-mahou-shoujo-risuka",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1626624000000"
-  },
-  {
-    "id": 24696,
-    "name": "Yume no Hate",
-    "rus_name": "Конец мечты",
-    "url": "/mangas/24696-yume-no-hate",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 135197,
-    "name": "Shintan Kairou",
-    "rus_name": "Коридор бездны",
-    "url": "/mangas/135197-shintan-kairou",
+    "id": 49055,
+    "name": "Godzilla vs. Mechagodzilla: Kessenshi",
+    "rus_name": "Годзилла против Мехагодзиллы",
+    "url": "/mangas/49055-godzilla-vs-mechagodzilla-kessenshi",
     "links": [
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 51765,
-    "name": "Sono Saki no Fuukei",
-    "rus_name": "По ту сторону пейзажа",
-    "url": "/mangas/51765-sono-saki-no-fuukei",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1639497600000"
-  },
-  {
-    "id": 90725,
-    "name": "Ousama Game: Rinjou",
-    "rus_name": "Королевская игра: Визит",
-    "url": "/mangas/90725-ousama-game-rinjou",
+    "id": 8585,
+    "name": "Hanako to Guuwa no Teller",
+    "rus_name": "Ханако и рассказчик аллегорий",
+    "url": "/mangas/8585-hanako-to-guuwa-no-teller",
     "links": [
       "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1563465600000"
-  },
-  {
-    "id": 22539,
-    "name": "Violence & Peace",
-    "rus_name": "Насилие и мир",
-    "url": "/mangas/22539-violence-peace",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 102989,
-    "name": "Ijime no Jikan",
-    "rus_name": "Время для издевательств",
-    "url": "/mangas/102989-ijime-no-jikan",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1628697600000"
-  },
-  {
-    "id": 13307,
-    "name": "Baptist: Manipulated Age of the Gods",
-    "rus_name": "Баптист: Манипулируемая эпоха богов",
-    "url": "/mangas/13307-baptist-manipulated-age-of-the-gods",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 121953,
-    "name": "Muhoutou",
-    "rus_name": "Остров беззакония",
-    "url": "/mangas/121953-muhoutou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1638547200000"
-  },
-  {
-    "id": 114797,
-    "name": "Organ Divider",
-    "rus_name": "Делительный орган",
-    "url": "/mangas/114797-organ-divider",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangafox"
-    ],
-    "last_change": "1579104000000"
-  },
-  {
-    "id": 74789,
-    "name": "Umareru Kachi no Nakatta Jibun ga Anna no Tame ni Dekiru Ikutsuka no Koto",
-    "rus_name": "Нелицеприятные вещи, которые я сделал с малышкой Анной",
-    "url": "/mangas/74789-umareru-kachi-no-nakatta-jibun-ga-anna-no-tame-ni-dekiru-ikutsuka-no-koto",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1595779200000"
-  },
-  {
-    "id": 80531,
-    "name": "Snowilybell",
-    "rus_name": "Сновилибелл",
-    "url": "/mangas/80531-snowilybell",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 121395,
-    "name": "Franken Fran Frantic",
-    "rus_name": "Безумная Франкен Фран",
-    "url": "/mangas/121395-franken-fran-frantic",
-    "links": [
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -8225,33 +10765,46 @@ let manga = [
       "remanga",
       "mangaupdates",
       "mangadex",
-      "mangafox"
+      "mangafox",
+      "mangahub"
     ],
-    "last_change": "1614441600000"
+    "last_change": "1615392000000"
   },
   {
-    "id": 103173,
-    "name": "Fata Morgana no Yakata: Anata no Hitomi wo Tozasu Monogatari",
-    "rus_name": "Дом иллюзий: История с закрытыми глазами",
-    "url": "/mangas/103173-fata-morgana-no-yakata-anata-no-hitomi-wo-tozasu-monogatari",
+    "id": 92529,
+    "name": "Hitokui: Origin",
+    "rus_name": "Хищник: Начало",
+    "url": "/mangas/92529-hitokui-origin",
     "links": [
       "wikipedia",
       "myanimelist",
+      "mangaupdates"
+    ],
+    "last_change": "1567440000000"
+  },
+  {
+    "id": 102161,
+    "name": "Isekai no Shikisai",
+    "rus_name": "Цвет из иных миров",
+    "url": "/mangas/102161-isekai-no-shikisai",
+    "links": [
+      "myanimelist",
+      "readmanga",
       "mangalib",
+      "remanga",
       "mangaupdates",
       "mangadex",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1635350400000"
+    "last_change": "1609171200000"
   },
   {
-    "id": 118728,
-    "name": "At the End of the Road",
-    "rus_name": "Итог",
-    "url": "/mangas/118728-at-the-end-of-the-road",
+    "id": 13841,
+    "name": "Mimi no Kaidan",
+    "rus_name": "Истории о привидениях от Мими",
+    "url": "/mangas/13841-mimi-no-kaidan",
     "links": [
-      "official_site",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -8264,405 +10817,49 @@ let manga = [
     "last_change": "1608220800000"
   },
   {
-    "id": 79997,
-    "name": "Delusional Boy",
-    "rus_name": "Живущий в иллюзиях",
-    "url": "/mangas/79997-delusional-boy",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1636992000000"
-  },
-  {
-    "id": 44069,
-    "name": "F no Meikyuu",
-    "rus_name": "Тайна F",
-    "url": "/mangas/44069-f-no-meikyuu",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1639843200000"
-  },
-  {
-    "id": 114837,
-    "name": "Kuro to Kuro to Shiro no Prunelle",
+    "id": 120839,
+    "name": "Nikusogimura",
     "rus_name": "",
-    "url": "/mangas/114837-kuro-to-kuro-to-shiro-no-prunelle",
+    "url": "/mangas/120839-nikusogimura",
     "links": [
+      "official_site",
       "myanimelist"
     ],
     "last_change": ""
   },
   {
-    "id": 20664,
-    "name": "Shinzou no Nai Kyojin",
-    "rus_name": "Бессердечный великан",
-    "url": "/mangas/20664-shinzou-no-nai-kyojin",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 24646,
-    "name": "Watashi wa Shingo",
-    "rus_name": "Меня зовут Шинго",
-    "url": "/mangas/24646-watashi-wa-shingo",
+    "id": 82595,
+    "name": "Kurosagi Shitai Takuhaibin Spin-off: Matsuoka Kunio Youkai Taiji",
+    "rus_name": "Куросаги. Служба доставки трупов: Изгнание духа Кунио Мацуоки",
+    "url": "/mangas/82595-kurosagi-shitai-takuhaibin-spin-off-matsuoka-kunio-youkai-taiji",
     "links": [
       "wikipedia",
       "myanimelist",
-      "mangaupdates",
-      "mangadex",
       "mangafox"
     ],
-    "last_change": "1630684800000"
+    "last_change": "1595260800000"
   },
   {
-    "id": 121448,
-    "name": "Henai Cafe",
-    "rus_name": "Беспристрастное кафе",
-    "url": "/mangas/121448-henai-cafe",
+    "id": 1909,
+    "name": "Zankoku na Douwatachi",
+    "rus_name": "Жестокие сказки",
+    "url": "/mangas/1909-zankoku-na-douwatachi",
     "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 51237,
-    "name": "Kouboku no Keibu",
-    "rus_name": "Инспектор полиции",
-    "url": "/mangas/51237-kouboku-no-keibu",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 22945,
-    "name": "Conductor",
-    "rus_name": "Дирижёр",
-    "url": "/mangas/22945-conductor",
-    "links": [
+      "anime_news_network",
       "myanimelist",
       "readmanga",
       "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1639324800000"
-  },
-  {
-    "id": 136352,
-    "name": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara",
-    "rus_name": "Журнал мононокэ, автор Тюдзэндзи",
-    "url": "/mangas/136352-chuuzenji-sensei-mononoke-kougiroku-sensei-ga-nazo-wo-hodoite-shimau-kara",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1622217600000"
-  },
-  {
-    "id": 31133,
-    "name": "Kare wa Dandan Chi ni Somaru",
-    "rus_name": "Он постепенно становится кровавым",
-    "url": "/mangas/31133-kare-wa-dandan-chi-ni-somaru",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 104513,
-    "name": "Tesso no Ori",
-    "rus_name": "Мышеловка",
-    "url": "/mangas/104513-tesso-no-ori",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1589644800000"
-  },
-  {
-    "id": 21583,
-    "name": "Lucifer no Migite",
-    "rus_name": "Правая рука Люцифера",
-    "url": "/mangas/21583-lucifer-no-migite",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "remanga",
       "mangaupdates",
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1592323200000"
+    "last_change": "1600099200000"
   },
   {
-    "id": 118041,
-    "name": "Kiseijuu Reversi",
-    "rus_name": "Паразит Реверси",
-    "url": "/mangas/118041-kiseijuu-reversi",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1608134400000"
-  },
-  {
-    "id": 18471,
-    "name": "Agape",
-    "rus_name": "АГАПЕ",
-    "url": "/mangas/18471-agape",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635264000000"
-  },
-  {
-    "id": 15527,
-    "name": "Jagan wa Gachirin ni Tobu",
-    "rus_name": "Очи зла летят на полную Луну",
-    "url": "/mangas/15527-jagan-wa-gachirin-ni-tobu",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangahub"
-    ],
-    "last_change": "1536940800000"
-  },
-  {
-    "id": 122204,
-    "name": "Dead Company",
-    "rus_name": "Компания мертвеца",
-    "url": "/mangas/122204-dead-company",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1593619200000"
-  },
-  {
-    "id": 106614,
-    "name": "Guuzou Jihen: Hato ni Himei wa Kikoenai",
-    "rus_name": "",
-    "url": "/mangas/106614-guuzou-jihen-hato-ni-himei-wa-kikoenai",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 132479,
-    "name": "Phobia",
-    "rus_name": "Фобия",
-    "url": "/mangas/132479-phobia",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1634140800000"
-  },
-  {
-    "id": 18234,
-    "name": "Morphine",
-    "rus_name": "Морфин",
-    "url": "/mangas/18234-morphine",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 103760,
-    "name": "Gekiga Kachikujin Yapoo",
-    "rus_name": "Япу — человеческий скот: Гэкига",
-    "url": "/mangas/103760-gekiga-kachikujin-yapoo",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1635177600000"
-  },
-  {
-    "id": 122995,
-    "name": "Satsujin Purgatorium",
-    "rus_name": "Чистилище для киллера",
-    "url": "/mangas/122995-satsujin-purgatorium",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1636128000000"
-  },
-  {
-    "id": 25848,
-    "name": "Hana",
-    "rus_name": "Цветок",
-    "url": "/mangas/25848-hana",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1616083200000"
-  },
-  {
-    "id": 125510,
-    "name": "Fish",
-    "rus_name": "Рыба",
-    "url": "/mangas/125510-fish",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 16098,
-    "name": "Dahlia no Obi",
-    "rus_name": "",
-    "url": "/mangas/16098-dahlia-no-obi",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 124428,
-    "name": "Goumon Meikyuu",
-    "rus_name": "Лабиринт пыток",
-    "url": "/mangas/124428-goumon-meikyuu",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1615651200000"
-  },
-  {
-    "id": 21474,
-    "name": "Chin-Man",
-    "rus_name": "",
-    "url": "/mangas/21474-chin-man",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 126834,
-    "name": "Kokkuri Majo Saiban",
-    "rus_name": "",
-    "url": "/mangas/126834-kokkuri-majo-saiban",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1596643200000"
-  },
-  {
-    "id": 23584,
-    "name": "Sacred Dream",
-    "rus_name": "Священный сон",
-    "url": "/mangas/23584-sacred-dream",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 22092,
-    "name": "Hakoniwa Mushi",
-    "rus_name": "",
-    "url": "/mangas/22092-hakoniwa-mushi",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 25208,
-    "name": "Savior",
-    "rus_name": "Спаситель",
-    "url": "/mangas/25208-savior",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 72509,
-    "name": "\"Bungaku Shoujo\" to Koisuru Poet",
-    "rus_name": "Литературная барышня и поэт, томящийся от любви",
-    "url": "/mangas/72509-bungaku-shoujo-to-koisuru-poet",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 43727,
-    "name": "Wings",
-    "rus_name": "Крылья",
-    "url": "/mangas/43727-wings",
+    "id": 18091,
+    "name": "Hiki",
+    "rus_name": "Ящик с призраком",
+    "url": "/mangas/18091-hiki",
     "links": [
       "myanimelist",
       "readmanga",
@@ -8670,1602 +10867,14 @@ let manga = [
       "mangaupdates",
       "mangafox"
     ],
-    "last_change": "1601654400000"
+    "last_change": "1619452800000"
   },
   {
-    "id": 113311,
-    "name": "Satsujin Ryoudan: Madmen",
-    "rus_name": "",
-    "url": "/mangas/113311-satsujin-ryoudan-madmen",
+    "id": 47457,
+    "name": "Yaotsukumo",
+    "rus_name": "Яоцукумо",
+    "url": "/mangas/47457-yaotsukumo",
     "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 22936,
-    "name": "Jugai",
-    "rus_name": "Проклятый город",
-    "url": "/mangas/22936-jugai",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1646841600000"
-  },
-  {
-    "id": 72653,
-    "name": "Vanilla Fiction",
-    "rus_name": "Ванильная фантазия",
-    "url": "/mangas/72653-vanilla-fiction",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1518883200000"
-  },
-  {
-    "id": 44013,
-    "name": "Kiseki no Shounen",
-    "rus_name": "",
-    "url": "/mangas/44013-kiseki-no-shounen",
-    "links": [
-      "myanimelist",
-      "mangafox"
-    ],
-    "last_change": "1594051200000"
-  },
-  {
-    "id": 23253,
-    "name": "Angel Mark",
-    "rus_name": "Знак ангела",
-    "url": "/mangas/23253-angel-mark",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1630771200000"
-  },
-  {
-    "id": 110002,
-    "name": "Daidorei-ku: Kimi to 1-oku 3-zenman no Dorei",
-    "rus_name": "Ты и 130 миллионов рабов",
-    "url": "/mangas/110002-daidorei-ku-kimi-to-1-oku-3-zenman-no-dorei",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1560268800000"
-  },
-  {
-    "id": 94576,
-    "name": "Subtle Disaster",
-    "rus_name": "Неуловимое несчастье",
-    "url": "/mangas/94576-subtle-disaster",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1628265600000"
-  },
-  {
-    "id": 115770,
-    "name": "Stalker Koui ga Barete Jinsei Shuuryou Otoko",
-    "rus_name": "",
-    "url": "/mangas/115770-stalker-koui-ga-barete-jinsei-shuuryou-otoko",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 5765,
-    "name": "Saint Marie",
-    "rus_name": "Святая Мари",
-    "url": "/mangas/5765-saint-marie",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 18924,
-    "name": "Sci-Fi Harry",
-    "rus_name": "Фантастический Гарри",
-    "url": "/mangas/18924-sci-fi-harry",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1561996800000"
-  },
-  {
-    "id": 30165,
-    "name": "Sayounara, Utsukushii Hito",
-    "rus_name": "Прощай, красавица",
-    "url": "/mangas/30165-sayounara-utsukushii-hito",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 64707,
-    "name": "Mirai Saijiki: Bio no Mokushiroku",
-    "rus_name": "",
-    "url": "/mangas/64707-mirai-saijiki-bio-no-mokushiroku",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 20982,
-    "name": "Hizashi",
-    "rus_name": "Солнечный свет",
-    "url": "/mangas/20982-hizashi",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1549987200000"
-  },
-  {
-    "id": 20655,
-    "name": "Skyhigh 4",
-    "rus_name": "Небесная высь 4",
-    "url": "/mangas/20655-skyhigh-4",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1626364800000"
-  },
-  {
-    "id": 114962,
-    "name": "Himitsu no Chaiharo",
-    "rus_name": "",
-    "url": "/mangas/114962-himitsu-no-chaiharo",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 96188,
-    "name": "Nakayoshi Dan no Bouken",
-    "rus_name": "",
-    "url": "/mangas/96188-nakayoshi-dan-no-bouken",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 59127,
-    "name": "Cruise - Ishi Yamada Kouhei Koukai-shi",
-    "rus_name": "",
-    "url": "/mangas/59127-cruise-ishi-yamada-kouhei-koukai-shi",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 9173,
-    "name": "Mesh",
-    "rus_name": "Петля",
-    "url": "/mangas/9173-mesh",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 94756,
-    "name": "Dakatsu",
-    "rus_name": "",
-    "url": "/mangas/94756-dakatsu",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 27679,
-    "name": "Necromancer",
-    "rus_name": "Некромант",
-    "url": "/mangas/27679-necromancer",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610380800000"
-  },
-  {
-    "id": 77789,
-    "name": "Boku wa Inu",
-    "rus_name": "Я — собака",
-    "url": "/mangas/77789-boku-wa-inu",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1640188800000"
-  },
-  {
-    "id": 16601,
-    "name": "Limit",
-    "rus_name": "Лимит",
-    "url": "/mangas/16601-limit",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1579795200000"
-  },
-  {
-    "id": 114951,
-    "name": "Toki wo Koeru Kage",
-    "rus_name": "За гранью времён",
-    "url": "/mangas/114951-toki-wo-koeru-kage",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1609171200000"
-  },
-  {
-    "id": 88015,
-    "name": "Henshin no News",
-    "rus_name": "Новости о трансформациях",
-    "url": "/mangas/88015-henshin-no-news",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1640793600000"
-  },
-  {
-    "id": 72603,
-    "name": "Dorobou Night Trick",
-    "rus_name": "Ночные проделки вора",
-    "url": "/mangas/72603-dorobou-night-trick",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1636819200000"
-  },
-  {
-    "id": 18327,
-    "name": "Monochrome Myst",
-    "rus_name": "Монохромный мистик",
-    "url": "/mangas/18327-monochrome-myst",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1598544000000"
-  },
-  {
-    "id": 90765,
-    "name": "Karamazov no Kyoudai",
-    "rus_name": "Братья Карамазовы",
-    "url": "/mangas/90765-karamazov-no-kyoudai",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": "1632240000000"
-  },
-  {
-    "id": 92304,
-    "name": "Rengoku Game",
-    "rus_name": "",
-    "url": "/mangas/92304-rengoku-game",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 105434,
-    "name": "Six",
-    "rus_name": "Шесть",
-    "url": "/mangas/105434-six",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 65153,
-    "name": "Jigokugata Ningen Doubutsuen: Daiisshou - Noushou Sakuretsu Girl",
-    "rus_name": "Девушка с воспалённым мозгом",
-    "url": "/mangas/65153-jigokugata-ningen-doubutsuen-daiisshou-noushou-sakuretsu-girl",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1643558400000"
-  },
-  {
-    "id": 36199,
-    "name": "Another 0",
-    "rus_name": "Иная 0",
-    "url": "/mangas/36199-another-0",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1614960000000"
-  },
-  {
-    "id": 92316,
-    "name": "Shisha no Teikoku",
-    "rus_name": "Империя мёртвых",
-    "url": "/mangas/92316-shisha-no-teikoku",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1607184000000"
-  },
-  {
-    "id": 36037,
-    "name": "\"Bungaku Shoujo\" to Ue Kawaku Ghost",
-    "rus_name": "Литературная барышня и голодный дух",
-    "url": "/mangas/36037-bungaku-shoujo-to-ue-kawaku-ghost",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1624636800000"
-  },
-  {
-    "id": 84913,
-    "name": "Binzume no Jigoku",
-    "rus_name": "Ад в бутылках",
-    "url": "/mangas/84913-binzume-no-jigoku",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 1090,
-    "name": "Aegis",
-    "rus_name": "Аегис",
-    "url": "/mangas/1090-aegis",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 100215,
-    "name": "Gundog",
-    "rus_name": "Заключённый голодный зверь",
-    "url": "/mangas/100215-gundog",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1631808000000"
-  },
-  {
-    "id": 17372,
-    "name": "Death Sweeper",
-    "rus_name": "Чистильщик",
-    "url": "/mangas/17372-death-sweeper",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1639843200000"
-  },
-  {
-    "id": 52343,
-    "name": "Jun: Shoutarou no Fantasy World",
-    "rus_name": "Дзюн - мир фантазий Сётаро",
-    "url": "/mangas/52343-jun-shoutarou-no-fantasy-world",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangafox"
-    ],
-    "last_change": "1595174400000"
-  },
-  {
-    "id": 14623,
-    "name": "Aka Tights Otoko",
-    "rus_name": "Мужчина в красных колготках",
-    "url": "/mangas/14623-aka-tights-otoko",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1631376000000"
-  },
-  {
-    "id": 126247,
-    "name": "Kuronou Syndrome",
-    "rus_name": "Синдром чёрного мозга",
-    "url": "/mangas/126247-kuronou-syndrome",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1629216000000"
-  },
-  {
-    "id": 36671,
-    "name": "Ningen Shikkaku Kai",
-    "rus_name": "Исповедь «неполноценного» человека: Сломленный",
-    "url": "/mangas/36671-ningen-shikkaku-kai",
-    "links": [
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1565539200000"
-  },
-  {
-    "id": 26582,
-    "name": "Gemsilica",
-    "rus_name": "Красная луна",
-    "url": "/mangas/26582-gemsilica",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1642003200000"
-  },
-  {
-    "id": 128108,
-    "name": "Gakkougurashi! Otayori",
-    "rus_name": "Школьная жизнь! Письмо",
-    "url": "/mangas/128108-gakkougurashi-otayori",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1624464000000"
-  },
-  {
-    "id": 64731,
-    "name": "Bocchiman",
-    "rus_name": "Боччимен",
-    "url": "/mangas/64731-bocchiman",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangahub"
-    ],
-    "last_change": "1557590400000"
-  },
-  {
-    "id": 130471,
-    "name": "Kujou no Taizai",
-    "rus_name": "Смертные грехи Кудзё",
-    "url": "/mangas/130471-kujou-no-taizai",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1647878400000"
-  },
-  {
-    "id": 18292,
-    "name": "Wsamarus 2001",
-    "rus_name": "",
-    "url": "/mangas/18292-wsamarus-2001",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1634745600000"
-  },
-  {
-    "id": 28277,
-    "name": "B.B. Fish",
-    "rus_name": "Голубая рыба-бабочка",
-    "url": "/mangas/28277-b-b-fish",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "mangaupdates"
-    ],
-    "last_change": "1572710400000"
-  },
-  {
-    "id": 54895,
-    "name": "Switch: the volume on Dragon Fruit",
-    "rus_name": "Переключатель: Плод дракона",
-    "url": "/mangas/54895-switch-the-volume-on-dragon-fruit",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 89245,
-    "name": "Zettai Zetsubou Shoujo: Danganronpa Another Episode - Genocider Mode",
-    "rus_name": "Девушки в абсолютном отчаянии: Геноцид Джек",
-    "url": "/mangas/89245-zettai-zetsubou-shoujo-danganronpa-another-episode-genocider-mode",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1604073600000"
-  },
-  {
-    "id": 104233,
-    "name": "Akihiko Kaku Katariki",
-    "rus_name": "",
-    "url": "/mangas/104233-akihiko-kaku-katariki",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 106197,
-    "name": "Utsukushii Inu",
-    "rus_name": "Красивая собака",
-    "url": "/mangas/106197-utsukushii-inu",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 98130,
-    "name": "Houfuku Gakuen",
-    "rus_name": "",
-    "url": "/mangas/98130-houfuku-gakuen",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 119865,
-    "name": "Aishiteimasu, Kyouko-san.",
-    "rus_name": "Я люблю тебя, Кёко",
-    "url": "/mangas/119865-aishiteimasu-kyouko-san",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "mangalib"
-    ],
-    "last_change": "1600358400000"
-  },
-  {
-    "id": 121944,
-    "name": "Danzi",
-    "rus_name": "Данци",
-    "url": "/mangas/121944-danzi",
-    "links": [
-      "myanimelist",
-      "mangafox"
-    ],
-    "last_change": "1585843200000"
-  },
-  {
-    "id": 129060,
-    "name": "Ookami Game",
-    "rus_name": "Волчья игра",
-    "url": "/mangas/129060-ookami-game",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 130173,
-    "name": "Seikimatsu Bakurouden Saga",
-    "rus_name": "",
-    "url": "/mangas/130173-seikimatsu-bakurouden-saga",
-    "links": [
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 861,
-    "name": "Togari",
-    "rus_name": "Тогари",
-    "url": "/mangas/861-togari",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1629561600000"
-  },
-  {
-    "id": 89218,
-    "name": "Yuugo Final",
-    "rus_name": "Юго — Финал",
-    "url": "/mangas/89218-yuugo-final",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 43707,
-    "name": "DRAMAtical Murder",
-    "rus_name": "Драматическое убийство",
-    "url": "/mangas/43707-dramatical-murder",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1590940800000"
-  },
-  {
-    "id": 24808,
-    "name": "Kami no Kodomo",
-    "rus_name": "Дитя Бога",
-    "url": "/mangas/24808-kami-no-kodomo",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 124028,
-    "name": "Yuusha Meitantei",
-    "rus_name": "Великий и храбрый детектив",
-    "url": "/mangas/124028-yuusha-meitantei",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 119035,
-    "name": "Shin Shinchou Kouki: Nobunaga-kun to Watashi",
-    "rus_name": "",
-    "url": "/mangas/119035-shin-shinchou-kouki-nobunaga-kun-to-watashi",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 296,
-    "name": "Anne Freaks",
-    "rus_name": "Забавы Анны",
-    "url": "/mangas/296-anne-freaks",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1642780800000"
-  },
-  {
-    "id": 268,
-    "name": "Crazy Love Story",
-    "rus_name": "Безумная история любви",
-    "url": "/mangas/268-crazy-love-story",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 143,
-    "name": "Beautiful People",
-    "rus_name": "Прекрасные люди",
-    "url": "/mangas/143-beautiful-people",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609084800000"
-  },
-  {
-    "id": 276,
-    "name": "The End",
-    "rus_name": "Тупик",
-    "url": "/mangas/276-the-end",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1602259200000"
-  },
-  {
-    "id": 109460,
-    "name": "Shakai Futekigousha no Ana",
-    "rus_name": "",
-    "url": "/mangas/109460-shakai-futekigousha-no-ana",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 122804,
-    "name": "Spectral Wizard: Saikyou no Mahou wo Meguru Bouken",
-    "rus_name": "",
-    "url": "/mangas/122804-spectral-wizard-saikyou-no-mahou-wo-meguru-bouken",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 406,
-    "name": "Cossette no Shouzou",
-    "rus_name": "Портрет малышки Козетты",
-    "url": "/mangas/406-cossette-no-shouzou",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1596988800000"
-  },
-  {
-    "id": 495,
-    "name": "Rakuen",
-    "rus_name": "Рай",
-    "url": "/mangas/495-rakuen",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1627228800000"
-  },
-  {
-    "id": 576,
-    "name": "X-Day",
-    "rus_name": "День-X",
-    "url": "/mangas/576-x-day",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 401,
-    "name": "Kiseijuu",
-    "rus_name": "Паразит",
-    "url": "/mangas/401-kiseijuu",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608134400000"
-  },
-  {
-    "id": 486,
-    "name": "Priest",
-    "rus_name": "Священник",
-    "url": "/mangas/486-priest",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1592755200000"
-  },
-  {
-    "id": 19370,
-    "name": "Hone no Oto",
-    "rus_name": "Звук костей",
-    "url": "/mangas/19370-hone-no-oto",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1623340800000"
-  },
-  {
-    "id": 1402,
-    "name": "100% Perfect Girl",
-    "rus_name": "100% идеальная девушка",
-    "url": "/mangas/1402-100-perfect-girl",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1619539200000"
-  },
-  {
-    "id": 99662,
-    "name": "The House Cat",
-    "rus_name": "Домашний кот",
-    "url": "/mangas/99662-the-house-cat",
-    "links": [
-      "official_site",
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 1297,
-    "name": "Iryuu: Team Medical Dragon",
-    "rus_name": "Команда «Медицинский дракон»",
-    "url": "/mangas/1297-iryuu-team-medical-dragon",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1634313600000"
-  },
-  {
-    "id": 77123,
-    "name": "Kaerazaru Toki no Monogatari",
-    "rus_name": "Сказания об ушедшем времени",
-    "url": "/mangas/77123-kaerazaru-toki-no-monogatari",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1641312000000"
-  },
-  {
-    "id": 4553,
-    "name": "Himizu",
-    "rus_name": "Химидзу",
-    "url": "/mangas/4553-himizu",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1627660800000"
-  },
-  {
-    "id": 102317,
-    "name": "Tenshi no Tamago",
-    "rus_name": "Яйцо ангела",
-    "url": "/mangas/102317-tenshi-no-tamago",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1636819200000"
-  },
-  {
-    "id": 19094,
-    "name": "Corpse Party: Blood Covered",
-    "rus_name": "Вечеринка мертвецов: Покрытые кровью",
-    "url": "/mangas/z19094-corpse-party-blood-covered",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1637769600000"
-  },
-  {
-    "id": 20588,
-    "name": "Doyoubi ni wa Kitto Iku kara",
-    "rus_name": "Я уверен, что пойду в субботу",
-    "url": "/mangas/20588-doyoubi-ni-wa-kitto-iku-kara",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 112932,
-    "name": "Kafka",
-    "rus_name": "Кафка: Классика в комиксах",
-    "url": "/mangas/112932-kafka",
-    "links": [
-      "myanimelist",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1570809600000"
-  },
-  {
-    "id": 82861,
-    "name": "Yuutousei no Asobikata",
-    "rus_name": "Как играть отличника",
-    "url": "/mangas/82861-yuutousei-no-asobikata",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 68243,
-    "name": "Zoku 11-nin Iru!: Higashi no Chihei, Nishi no Towa",
-    "rus_name": "Их было одиннадцать: Горизонт востока, вечность запада",
-    "url": "/mangas/68243-zoku-11-nin-iru-higashi-no-chihei-nishi-no-towa",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1607875200000"
-  },
-  {
-    "id": 96354,
-    "name": "Higurashi no Naku Koro ni Kizuna",
-    "rus_name": "Когда плачут цикады: Узы",
-    "url": "/mangas/96354-higurashi-no-naku-koro-ni-kizuna",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 105955,
-    "name": "Babel no Toshokan",
-    "rus_name": "Вавилонская библиотека",
-    "url": "/mangas/105955-babel-no-toshokan",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635264000000"
-  },
-  {
-    "id": 17910,
-    "name": "Yomawari Sensei",
-    "rus_name": "Ночной патруль учителя",
-    "url": "/mangas/17910-yomawari-sensei",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609603200000"
-  },
-  {
-    "id": 106338,
-    "name": "Sora no Makigai",
-    "rus_name": "Небесные раковины",
-    "url": "/mangas/106338-sora-no-makigai",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 106237,
-    "name": "Yume no Shima de Aimashou",
-    "rus_name": "Встретимся на острове мечты",
-    "url": "/mangas/106237-yume-no-shima-de-aimashou",
-    "links": [
-      "myanimelist"
-    ],
-    "last_change": ""
-  },
-  {
-    "id": 17792,
-    "name": "8.1: Yamada Yuusuke Gekijou",
-    "rus_name": "8.1 - Театр Ямады Юске",
-    "url": "/mangas/17792-8-1-yamada-yuusuke-gekijou",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1602950400000"
-  },
-  {
-    "id": 18992,
-    "name": "Sakuranbo Syndrome - Cupid no Itazura II",
-    "rus_name": "Вишнёвый синдром",
-    "url": "/mangas/18992-sakuranbo-syndrome-cupid-no-itazura-ii",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1637510400000"
-  },
-  {
-    "id": 1543,
-    "name": "Mirai Nikki: Mosaic",
-    "rus_name": "Дневник будущего: Мозаика",
-    "url": "/mangas/1543-mirai-nikki-mosaic",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600272000000"
-  },
-  {
-    "id": 1266,
-    "name": "Higurashi no Naku Koro ni Kai: Utsutsukowashi-hen",
-    "rus_name": "Когда плачут цикады: Глава о разрушении реальности",
-    "url": "/mangas/1266-higurashi-no-naku-koro-ni-kai-utsutsukowashi-hen",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 103803,
-    "name": "Melancholia",
-    "rus_name": "Меланхолия",
-    "url": "/mangas/103803-melancholia",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1627142400000"
-  },
-  {
-    "id": 344,
-    "name": "ES: Eternal Sabbath",
-    "rus_name": "Вечный покой",
-    "url": "/mangas/344-es-eternal-sabbath",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1599408000000"
-  },
-  {
-    "id": 1264,
-    "name": "Higurashi no Naku Koro ni: Onisarashi-hen",
-    "rus_name": "Когда плачут цикады: Глава о разоблаченном демоне",
-    "url": "/mangas/1264-higurashi-no-naku-koro-ni-onisarashi-hen",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 743,
-    "name": "21st Century Boys",
-    "rus_name": "Мальчишки двадцать первого века",
-    "url": "/mangas/743-21st-century-boys",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 958,
-    "name": "Goth",
-    "rus_name": "Гот",
-    "url": "/mangas/958-goth",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608566400000"
-  },
-  {
-    "id": 35725,
-    "name": "Motto, Ikitai...",
-    "rus_name": "Я хотела жить ещё.",
-    "url": "/mangas/35725-motto-ikitai",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1629216000000"
-  },
-  {
-    "id": 1261,
-    "name": "Higurashi no Naku Koro ni: Himatsubushi-hen",
-    "rus_name": "Когда плачут цикады: Глава о потерянном времени",
-    "url": "/mangas/z1261-higurashi-no-naku-koro-ni-himatsubushi-hen",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1595779200000"
-  },
-  {
-    "id": 3578,
-    "name": "Shikei Shikkouchuu Datsugoku Shinkouchuu",
-    "rus_name": "Осуждение и побег",
-    "url": "/mangas/3578-shikei-shikkouchuu-datsugoku-shinkouchuu",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1593187200000"
-  },
-  {
-    "id": 3229,
-    "name": "Paranoia Star",
-    "rus_name": "Звезда паранойи",
-    "url": "/mangas/3229-paranoia-star",
-    "links": [
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1623600000000"
-  },
-  {
-    "id": 52057,
-    "name": "Oukoku Game",
-    "rus_name": "Подчиняясь правилам игры",
-    "url": "/mangas/52057-oukoku-game",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1578153600000"
-  },
-  {
-    "id": 34571,
-    "name": "Corpse Party: Book of Shadows",
-    "rus_name": "Вечеринка мертвецов: Книга теней",
-    "url": "/mangas/34571-corpse-party-book-of-shadows",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1637769600000"
-  },
-  {
-    "id": 977,
-    "name": "Zashiki Onna",
-    "rus_name": "Преследующая женщина",
-    "url": "/mangas/977-zashiki-onna",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1602259200000"
-  },
-  {
-    "id": 37975,
-    "name": "Anorexia: Shikabane Hanako wa Kyoshokushou",
-    "rus_name": "Анорексия",
-    "url": "/mangas/37975-anorexia-shikabane-hanako-wa-kyoshokushou",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1610899200000"
-  },
-  {
-    "id": 39139,
-    "name": "Apocalypse no Toride",
-    "rus_name": "Крепость апокалипсиса",
-    "url": "/mangas/39139-apocalypse-no-toride",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635264000000"
-  },
-  {
-    "id": 1702,
-    "name": "Jisatsu Circle",
-    "rus_name": "Клуб самоубийц",
-    "url": "/mangas/1702-jisatsu-circle",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 50027,
-    "name": "About Death",
-    "rus_name": "Жизнь и смерть",
-    "url": "/mangas/50027-about-death",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1615824000000"
-  },
-  {
-    "id": 19423,
-    "name": "Kishibe Rohan Louvre e Iku",
-    "rus_name": "Рохан в Лувре",
-    "url": "/mangas/19423-kishibe-rohan-louvre-e-iku",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangahub"
-    ],
-    "last_change": "1615305600000"
-  },
-  {
-    "id": 5627,
-    "name": "Bloody Monday",
-    "rus_name": "Кровавый понедельник",
-    "url": "/mangas/5627-bloody-monday",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
       "myanimelist",
       "readmanga",
       "mangalib",
@@ -10276,12 +10885,12 @@ let manga = [
     "last_change": "1603728000000"
   },
   {
-    "id": 91536,
-    "name": "Imawa no Michi no Alice",
-    "rus_name": "Алиса на Обочине",
-    "url": "/mangas/91536-imawa-no-michi-no-alice",
+    "id": 24836,
+    "name": "Ousama Game",
+    "rus_name": "Королевская игра",
+    "url": "/mangas/24836-ousama-game",
     "links": [
-      "official_site",
+      "wikipedia",
       "wikipedia",
       "anime_news_network",
       "myanimelist",
@@ -10291,231 +10900,44 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1605628800000"
+    "last_change": "1604419200000"
   },
   {
-    "id": 10675,
-    "name": "Panorama Toukitan",
-    "rus_name": "Необыкновенная история острова Панорама",
-    "url": "/mangas/10675-panorama-toukitan",
+    "id": 113671,
+    "name": "Winter Woods",
+    "rus_name": "Зимний лес",
+    "url": "/mangas/113671-winter-woods",
     "links": [
-      "wikipedia",
-      "anime_news_network",
       "myanimelist",
       "readmanga",
+      "mangalib",
+      "remanga",
+      "mangaupdates",
+      "mangadex",
+      "mangafox",
+      "mangahub"
+    ],
+    "last_change": "1611849600000"
+  },
+  {
+    "id": 95654,
+    "name": "World 4u_",
+    "rus_name": "Мир для тебя",
+    "url": "/mangas/95654-world-4u",
+    "links": [
+      "official_site",
+      "wikipedia",
+      "myanimelist",
       "mangaupdates",
       "mangadex"
     ],
-    "last_change": "1631635200000"
+    "last_change": "1639411200000"
   },
   {
-    "id": 104271,
-    "name": "Chi no Wadachi",
-    "rus_name": "Кровавый след",
-    "url": "/mangas/104271-chi-no-wadachi",
-    "last_change": "1609257600000",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ]
-  },
-  {
-    "id": 12309,
-    "name": "Arisa",
-    "rus_name": "Ариса",
-    "url": "/mangas/12309-arisa",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1603555200000"
-  },
-  {
-    "id": 99143,
-    "name": "Chikyuu wa Boku ga Mawasu",
-    "rus_name": "Земля вращается в моей руке",
-    "url": "/mangas/99143-chikyuu-wa-boku-ga-mawasu",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1550678400000"
-  },
-  {
-    "id": 44753,
-    "name": "Ito Junji Kyoufu Manga Collection - Chi Tamaki",
-    "rus_name": "Кустарник с кровавыми плодами",
-    "url": "/mangas/44753-ito-junji-kyoufu-manga-collection-chi-tamaki",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 111595,
-    "name": "0.0 Mhz",
-    "rus_name": "0.0 Герц",
-    "url": "/mangas/111595-0-0-mhz",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1618675200000"
-  },
-  {
-    "id": 110922,
-    "name": "Shigahime",
-    "rus_name": "Принцесса Трупозуб",
-    "url": "/mangas/110922-shigahime",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646496000000"
-  },
-  {
-    "id": 37543,
-    "name": "Tokage no Ou",
-    "rus_name": "Король-ящерица",
-    "url": "/mangas/37543-tokage-no-ou",
-    "links": [
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib"
-    ],
-    "last_change": "1605801600000"
-  },
-  {
-    "id": 1153,
-    "name": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
-    "rus_name": "Нарутару",
-    "url": "/mangas/1153-narutaru-mukuro-naru-hoshi-tama-taru-ko",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangafox"
-    ],
-    "last_change": "1599148800000"
-  },
-  {
-    "id": 1662,
-    "name": "Papillon: Hana to Chou",
-    "rus_name": "Папийон - Цветок и Бабочка",
-    "url": "/mangas/1662-papillon-hana-to-chou",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1579881600000"
-  },
-  {
-    "id": 26206,
-    "name": "Corpse Party: Musume",
-    "rus_name": "Вечеринка мертвецов: Дочь",
-    "url": "/mangas/26206-corpse-party-musume",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1637769600000"
-  },
-  {
-    "id": 14558,
-    "name": "Kindai Renai",
-    "rus_name": "Прерванная любовь",
-    "url": "/mangas/14558-kindai-renai",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1627228800000"
-  },
-  {
-    "id": 5943,
-    "name": "Hanshin",
-    "rus_name": "Полубог",
-    "url": "/mangas/5943-hanshin",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "readmanga",
-      "mangalib",
-      "mangalib",
-      "remanga",
-      "remanga",
-      "mangaupdates",
-      "mangaupdates",
-      "mangadex",
-      "mangadex",
-      "mangafox",
-      "mangafox"
-    ],
-    "last_change": "1633536000000"
-  },
-  {
-    "id": 10956,
-    "name": "Doctor Du Ming",
-    "rus_name": "Доктор Ду Минг",
-    "url": "/mangas/10956-doctor-du-ming",
+    "id": 115507,
+    "name": "Sensor",
+    "rus_name": "Путешествие суккуба",
+    "url": "/mangas/115507-sensor",
     "links": [
       "myanimelist",
       "readmanga",
@@ -10526,350 +10948,6 @@ let manga = [
       "mangafox",
       "mangahub"
     ],
-    "last_change": "1629907200000"
-  },
-  {
-    "id": 11036,
-    "name": "Yuutai Nova",
-    "rus_name": "Ютаи Нова",
-    "url": "/mangas/11036-yuutai-nova",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1609257600000"
-  },
-  {
-    "id": 11544,
-    "name": "Aphorism",
-    "rus_name": "Афоризм",
-    "url": "/mangas/11544-aphorism",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1613318400000"
-  },
-  {
-    "id": 12672,
-    "name": "Saitama Chainsaw Shoujo",
-    "rus_name": "Сайтамская девушка с бензопилой",
-    "url": "/mangas/12672-saitama-chainsaw-shoujo",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1600531200000"
-  },
-  {
-    "id": 113780,
-    "name": "Mahou Shoujo Site Sept",
-    "rus_name": "Сайт волшебниц. Sept",
-    "url": "/mangas/113780-mahou-shoujo-site-sept",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1644854400000"
-  },
-  {
-    "id": 111571,
-    "name": "Blue Phobia",
-    "rus_name": "Фобия синего",
-    "url": "/mangas/111571-blue-phobia",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1631721600000"
-  },
-  {
-    "id": 12292,
-    "name": "Higurashi no Naku Koro ni: Kokoroiyashi-hen",
-    "rus_name": "Когда плачут цикады: Глава об исцелении сердец",
-    "url": "/mangas/z12292-higurashi-no-naku-koro-ni-kokoroiyashi-hen",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1646928000000"
-  },
-  {
-    "id": 32773,
-    "name": "50 Million Km",
-    "rus_name": "50 миллионов километров",
-    "url": "/mangas/32773-50-million-km",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1602000000000"
-  },
-  {
-    "id": 13290,
-    "name": "Ningen Shikkaku",
-    "rus_name": "Исповедь «неполноценного» человека",
-    "url": "/mangas/13290-ningen-shikkaku",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "mangalib",
-      "mangaupdates",
-      "mangadex"
-    ],
-    "last_change": "1634572800000"
-  },
-  {
-    "id": 13149,
-    "name": "Ageha",
-    "rus_name": "Бабочка",
-    "url": "/mangas/13149-ageha",
-    "links": [
-      "myanimelist",
-      "readmanga"
-    ],
-    "last_change": "1502899200000"
-  },
-  {
-    "id": 14998,
-    "name": "Higurashi no Naku Koro ni: Kataribanashi-hen Comic Anthology EX.",
-    "rus_name": "Когда плачут цикады: Глава о сборнике коротких историй",
-    "url": "/mangas/14998-higurashi-no-naku-koro-ni-kataribanashi-hen-comic-anthology-ex",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1634745600000"
-  },
-  {
-    "id": 22518,
-    "name": "Usotsuki Mii-kun to Kowareta Maa-chan: Totteoki no Uso",
-    "rus_name": "Лгущий Ми-кун и сломленная Маа-чан: Драгоценная ложь",
-    "url": "/mangas/22518-usotsuki-mii-kun-to-kowareta-maa-chan-totteoki-no-uso",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1635609600000"
-  },
-  {
-    "id": 13568,
-    "name": "Barairo no Kaibutsu",
-    "rus_name": "Монстр цвета розы",
-    "url": "/mangas/13568-barairo-no-kaibutsu",
-    "links": [
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "remanga",
-      "mangaupdates",
-      "mangahub"
-    ],
-    "last_change": "1600617600000"
-  },
-  {
-    "id": 13102,
-    "name": "Kanojo wo Mamoru 51 no Houhou",
-    "rus_name": "51 способ как спасти свою девушку",
-    "url": "/mangas/13102-kanojo-wo-mamoru-51-no-houhou",
-    "links": [
-      "wikipedia",
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608998400000"
-  },
-  {
-    "id": 14222,
-    "name": "Bloody Monday Season 2: Pandora no Hako",
-    "rus_name": "Кровавый понедельник: 2 сезон",
-    "url": "/mangas/14222-bloody-monday-season-2-pandora-no-hako",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1603728000000"
-  },
-  {
-    "id": 14770,
-    "name": "Are You Alice?",
-    "rus_name": "А ты Алиса?",
-    "url": "/mangas/14770-are-you-alice",
-    "links": [
-      "wikipedia",
-      "anime_news_network",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1608912000000"
-  },
-  {
-    "id": 117623,
-    "name": "Ori no Naka no Soloist",
-    "rus_name": "Тюремный солист",
-    "url": "/mangas/117623-ori-no-naka-no-soloist",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1623772800000"
-  },
-  {
-    "id": 44747,
-    "name": "Ito Junji Kyoufu Manga Collection - Souichi no Tanoshii Nikki",
-    "rus_name": "Соити",
-    "url": "/mangas/44747-ito-junji-kyoufu-manga-collection-souichi-no-tanoshii-nikki",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangahub"
-    ],
-    "last_change": "1595692800000"
-  },
-  {
-    "id": 104547,
-    "name": "Kakegurui Midari",
-    "rus_name": "Безумный азарт: Мидари",
-    "url": "/mangas/104547-kakegurui-midari",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "wikipedia",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1611504000000"
-  },
-  {
-    "id": 75171,
-    "name": "Funouhan",
-    "rus_name": "Невозможность защиты",
-    "url": "/mangas/75171-funouhan",
-    "links": [
-      "official_site",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox",
-      "mangahub"
-    ],
-    "last_change": "1623254400000"
-  },
-  {
-    "id": 130593,
-    "name": "Imawa no Kuni no Alice Retry",
-    "rus_name": "Алиса в Пограничье: Повторная попытка",
-    "url": "/mangas/130593-imawa-no-kuni-no-alice-retry",
-    "links": [
-      "official_site",
-      "wikipedia",
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "mangaupdates"
-    ],
-    "last_change": "1606060800000"
-  },
-  {
-    "id": 129984,
-    "name": "Akai Kiri no Naka kara",
-    "rus_name": "Из красного тумана",
-    "url": "/mangas/129984-akai-kiri-no-naka-kara",
-    "links": [
-      "myanimelist",
-      "readmanga",
-      "mangalib",
-      "remanga",
-      "mangaupdates",
-      "mangadex",
-      "mangafox"
-    ],
-    "last_change": "1629475200000"
+    "last_change": "1610035200000"
   }
-];
+]

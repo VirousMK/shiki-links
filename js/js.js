@@ -66,7 +66,7 @@ $.each(mangaList, function (i, title) {
 		}
 	});
 
-	if (i > 0 && flag) {
+	if (i > -1 && flag) {
 		sum++;
 		title.name = encodeURIComponent(title.name);
 		if (title.japanese) title.japanese = encodeURIComponent(title.japanese[0]);
@@ -150,7 +150,7 @@ $body.append($('<button>', {
 			if (a < b) return -1;
 			return 0;
 		});
-		console.log(JSON.stringify(blist));
+		console.log( JSON.stringify(blist) );
 	},
 	css: {
 		position: 'fixed',
