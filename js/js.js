@@ -66,7 +66,7 @@ $.each(mangaList, function (i, title) {
 		}
 	});
 
-	if (i > -1 && flag) {
+	if (i > 41 && flag) {
 		sum++;
 		title.name = encodeURIComponent(title.name);
 		if (title.japanese) title.japanese = encodeURIComponent(title.japanese[0]);
