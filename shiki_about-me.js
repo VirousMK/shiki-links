@@ -35,7 +35,7 @@ let data = {
     {genres: 'Смена пола', ids: '74', censorship: '✓', num: 476},
     {genres: 'Спорт', ids: '76', censorship: '✓', num: 775},
     {genres: 'Психологическое', ids: '67', censorship: '✓', num: 729},
-    {genres: 'Ужасы', ids: '80', censorship: '✓', num: 42}
+    {genres: 'Ужасы', ids: '80', censorship: '✓', num: 124}
   ],
   details: {
     values: [18867, 2604, 47, 21518],
@@ -46,7 +46,7 @@ let data = {
       ["Всего", "Всего", "Всего"]
     ]
   },
-  updateDate: '7 мая 2022'
+  updateDate: '8 мая 2022'
 };
 
 

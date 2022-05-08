@@ -22,6 +22,7 @@
  * Смена пола																						74															476
  * Спорт																								76															775
  * Психологическое																			67															729
+ * Хоррор																								80															807
  * 
  * Романтика, Комедия, !Школа, !Сёдзё, !Повседневность	62,49,!60,!63,!54,!73,!75
  * Романтика, Школа, Сёдзё, !Комедия, !Повседневность		62,60,63,!49,!54,!73,!75
@@ -66,7 +67,7 @@ $.each(mangaList, function (i, title) {
 		}
 	});
 
-	if (i > 111 && flag) {
+	if (i > 123 && flag) {
 		sum++;
 		title.name = encodeURIComponent(title.name);
 		if (title.japanese) title.japanese = encodeURIComponent(title.japanese[0]);
