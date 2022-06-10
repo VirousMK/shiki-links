@@ -38,7 +38,7 @@ let data = {
     {genres: 'Ужасы', ids: '80', censorship: '✓', num: 325}
   ],
   details: {
-    values: [20552, 1530, 1261, 23343],    
+    values: [21210, 1559, 1313, 24082], 
     titles: [
       ["Добавленная ссылка", "Добавленные ссылки", "Добавленных ссылок"],
       ["Исправленная ссылка", "Исправленые ссылки", "Исправленых ссылок"],
@@ -133,6 +133,7 @@ let str = `
                 [br]([code]/iuri___eto_moia_rabota_[/code] содержится внутри [code]/iuri___eto_moia_rabota___A5238[/code])
                 [*]Совпадают домены и путь одной ссылки содержится в пути другой
               [/list]
+              Остальные случаи считаются добавленными, либо удалёнными, в зависимости от колонки, в которой находится ссылка («До изменений», либо «После изменений»)[br]
               P.S. Решение по-прежнему сомнительное, возможно, стоит подумать над другим
             [/quote]
           [/div]
@@ -252,7 +253,7 @@ let str = `
                   [span=u-td][b]Всего[/b][/span]
                   [span=u-td][/span]
                   [span=u-td][/span]
-                  [span=u-td tr][b]${data.checked.reduce((prev, curr) => {return {num: prev.num + curr.num}}).num}[/b][/span]
+                  [span=u-td tr][b]${spacesOfNum( data.checked.reduce((prev, curr) => {return {num: prev.num + curr.num}}).num )}[/b][/span]
                 [/div]
               [/div]
             [/div]
