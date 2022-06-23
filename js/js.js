@@ -33,18 +33,13 @@
 console.log(blist);
 console.log(manga);
 
-let mangaList = [];
-$.each(manga, function(i) {
-	if (blist.indexOf(this.id) === -1 && this.links.indexOf('myanimelist') !== -1) {
-		mangaList.push(this);
-	}
+let mangaList = manga.filter(title => {
+	if ( blist.includes(title.id) ) return false;
+	if ( !title.links.includes('myanimelist') ) return false;
+	return true;
 });
 
-mangaList.sort((a, b) => {
-	if (a.last_change > b.last_change) return 1;
-	if (a.last_change < b.last_change) return -1;
-	return 0;
-});
+mangaList.sort( (a, b) => a.last_change - b.last_change );
 console.log(mangaList);
 
 
@@ -56,72 +51,52 @@ function openNewTab(btn, url) {
 	window.open(`https://shikimori.one${url}#startSearch`);
 }
 
-let kinds = ['readmanga', 'mangalib', 'mangadex', 'mangaupdates'];
 let $body = $('body');
-let sum = 0;
-$.each(mangaList, function (i, title) {
-	let flag = false;
-	$.each(kinds, (j, kind) => {
-		if (title.links.indexOf(kind) === -1) {
-			flag = true;
-		}
-	});
-
-	if (i > 411 && flag) {
-		sum++;
-		title.name = encodeURIComponent(title.name);
-		if (title.japanese) title.japanese = encodeURIComponent(title.japanese[0]);
-
-		$body.append($('<div>', {
-			class: 'title  flex',
-			append: $('<div>', {
-				html: i,
-				css: {
-					width: '27px',
-					display: 'inline-block',
-					marginRight: '10px',
-					userSelect: 'none',
-					textAlign: 'right',
-					verticalAlign: 'middle'
-				}
-			})
-			.add($('<a>', {
-				html: decodeURIComponent(title.name),
-				href: `https://shikimori.one${title.url}`,
-				target: '_blank',
-				click: function() {
-					$('.selected').removeClass('selected');
-					$(this).closest('.title').addClass('selected');
-				},
-				css: {
-					display: 'inline-block',
-					width: 'calc(100% - 107px)',
-					overflow: 'hidden',
-					textOverflow: 'ellipsis',
-					whiteSpace: 'nowrap',
-					verticalAlign: 'middle'
-				}
-			}))
-			.add($('<button>', {
-				html: 'Start',
-				click: function() {openNewTab(this, title.url)},
-				css: {
-					width: '60px',
-					'font-size': '12px',
-					'line-height': 1,
-					userSelect: 'none',
-					marginLeft: '10px',
-					float: 'right'
-				}
-			})),
-			css: {
-				width: '500px',
-				padding: '3.98px 8px',
-				alignItems: 'center'
+function addNewTitle(title, index) {
+	$body.prepend($('<div>', {
+		class: 'title  flex',
+		append: $('<div>', {
+			class: 'index',
+			html: index
+		})
+		.add($('<a>', {
+			html: decodeURIComponent(title.name),
+			class: 'link',
+			href: `https://shikimori.one${title.url}`,
+			target: '_blank',
+			click: function() {
+				$('.selected').removeClass('selected');
+				$(this).closest('.title').addClass('selected');
 			}
-		}));
+		}))
+		.add($('<button>', {
+			html: 'Start',
+			class: 'btn',
+			click: function() {openNewTab(this, title.url)}
+		}))
+	}));
+}
+
+
+let kinds = ['readmanga', 'mangalib', 'remanga', 'mangaupdates', 'mangadex', 'mangafox', 'mangahub'];
+let sum = 0;
+for (let i = mangaList.length; --i;) {
+	let title = mangaList[i];
+
+	let has_all_important_kinds = true;
+	for (let j = kinds.length; j--;) {
+		if ( title.links.includes(kinds[j]) ) continue;
+		has_all_important_kinds = false;
+		break;
 	}
-});
+
+	if (i <= 76 || has_all_important_kinds) continue;
+
+	sum++;
+	title.name = encodeURIComponent(title.name);
+	if (title.japanese) title.japanese = encodeURIComponent(title.japanese[0]);
+	addNewTitle(title, i);
+};
 
 $body.append($('<div>', {
 	class: 'remaining',

@@ -266,3 +266,49 @@ body {
   width: 540px !important;
   padding: 4px 28px !important;
 }
+
+
+
+.title {
+  width: 500px;
+  padding: 3.98px 8px;
+  align-items: center;
+}
+
+.index {
+  width: 27px;
+  display: inline-block;
+  margin-right: 10px;
+  user-select: none;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.link {
+  display: inline-block;
+  width: calc(100% - 107px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.btn {
+  width: 60px;
+  font-size: 12px;
+  line-height: 1;
+  user-select: none;
+  margin-left: 10px;
+  float: right;
+}
+
+.remaining {
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  background-color: #292929;
+  padding: 10px;
+  box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+  border-radius: 4px;
+}
+
