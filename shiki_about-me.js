@@ -39,7 +39,7 @@ let data = {
     {genres: 'Детектив', ids: '46', censorship: '✓', num: 2}
   ],
   entries_details: {
-    values: [12020, 49296],
+    values: [12020, 49300],
     titles: ["Осмотренного тайтла", "Осмотренных тайтлов", "Осмотренных тайтлов"]
   },
   links_details: {
