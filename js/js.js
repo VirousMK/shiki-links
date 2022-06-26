@@ -23,6 +23,7 @@
  * Спорт																								76															775
  * Психологическое																			67															729
  * Хоррор																								80															807
+ * Детектив																							46															888
  * 
  * Романтика, Комедия, !Школа, !Сёдзё, !Повседневность	62,49,!60,!63,!54,!73,!75
  * Романтика, Школа, Сёдзё, !Комедия, !Повседневность		62,60,63,!49,!54,!73,!75
@@ -53,7 +54,7 @@ function openNewTab(btn, url) {
 
 let $body = $('body');
 function addNewTitle(title, index) {
-	$body.prepend($('<div>', {
+	$body.append($('<div>', {
 		class: 'title  flex',
 		append: $('<div>', {
 			class: 'index',
@@ -80,17 +81,17 @@ function addNewTitle(title, index) {
 
 let kinds = ['readmanga', 'mangalib', 'remanga', 'mangaupdates', 'mangadex', 'mangafox', 'mangahub'];
 let sum = 0;
-for (let i = mangaList.length; --i;) {
+for (let i = 0; i < mangaList.length; i++) {
 	let title = mangaList[i];
 
 	let has_all_important_kinds = true;
-	for (let j = kinds.length; j--;) {
+	for (let j = kinds.length; --j;) {
 		if ( title.links.includes(kinds[j]) ) continue;
 		has_all_important_kinds = false;
 		break;
 	}
 
-	if (i <= 363 || has_all_important_kinds) continue;
+	if (i <= 1 || has_all_important_kinds) continue;
 
 	sum++;
 	title.name = encodeURIComponent(title.name);

@@ -35,10 +35,15 @@ let data = {
     {genres: 'Смена пола', ids: '74', censorship: '✓', num: 476},
     {genres: 'Спорт', ids: '76', censorship: '✓', num: 775},
     {genres: 'Психологическое', ids: '67', censorship: '✓', num: 729},
-    {genres: 'Ужасы', ids: '80', censorship: '✓', num: 387}
+    {genres: 'Ужасы', ids: '80', censorship: '✓', num: 807},
+    {genres: 'Детектив', ids: '46', censorship: '✓', num: 2}
   ],
-  details: {
-    values: [22855, 1641, 1403, 25899], 
+  entries_details: {
+    values: [12020, 49296],
+    titles: ["Осмотренного тайтла", "Осмотренных тайтлов", "Осмотренных тайтлов"]
+  },
+  links_details: {
+    values: [23622, 1778, 1622, 27022], 
     titles: [
       ["Добавленная ссылка", "Добавленные ссылки", "Добавленных ссылок"],
       ["Исправленная ссылка", "Исправленые ссылки", "Исправленых ссылок"],
@@ -46,7 +51,7 @@ let data = {
       ["Всего", "Всего", "Всего"]
     ]
   },
-  updateDate: '20 июня 2022'
+  updateDate: '26 июня 2022'
 };
 
 
@@ -138,14 +143,18 @@ let str = `
             [/quote]
           [/div]
           [div=u-details u-details-links]
-
-            ${data.details.values.map((v, i) => `
+            [span]
+              [div=u-details-value]${spacesOfNum(data.entries_details.values[0])} / ~${spacesOfNum(data.entries_details.values[1])}[/div]
+              [div=u-details-title]${declOfNum(data.entries_details.values[1], data.entries_details.titles)}[/div]
+            [/span]
+          [/div]
+          [div=u-details u-details-links]
+            ${data.links_details.values.map((v, i) => `
               [span]
                 [div=u-details-value]${spacesOfNum(v)}[/div]
-                [div=u-details-title]${declOfNum(v, data.details.titles[i])}[/div]
+                [div=u-details-title]${declOfNum(v, data.links_details.titles[i])}[/div]
               [/span]
             `).join('')}
-            
           [/div]
           [div=b-replies]Дата обновления: ${data.updateDate}[/div]
         [/div]
