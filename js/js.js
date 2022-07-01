@@ -91,7 +91,7 @@ for (let i = 0; i < mangaList.length; i++) {
 		break;
 	}
 
-	if (i <= 1 || has_all_important_kinds) continue;
+	if (i <= 25 || has_all_important_kinds) continue;
 
 	sum++;
 	title.name = encodeURIComponent(title.name);
