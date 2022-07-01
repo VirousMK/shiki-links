@@ -36,14 +36,19 @@ let data = {
     {genres: 'Спорт', ids: '76', censorship: '✓', num: 775},
     {genres: 'Психологическое', ids: '67', censorship: '✓', num: 729},
     {genres: 'Ужасы', ids: '80', censorship: '✓', num: 807},
-    {genres: 'Детектив', ids: '46', censorship: '✓', num: 2}
+    {genres: 'Детектив', ids: '46', censorship: '✓', num: 113}
   ],
-  entries_details: {
-    values: [12020, 49300],
-    titles: ["Осмотренного тайтла", "Осмотренных тайтлов", "Осмотренных тайтлов"]
+  titles_details: {
+    values: [(12018 + 113), 31359, 44654, 49400],
+    titles: [
+      ["Осмотренный манга", "Осмотренных манги", "Осмотренных манг"],
+      ["Манга на сайте\n(с цензурой и без ваншотов)", "Манги на сайте\n(с цензурой и без ваншотов)", "Манг на сайте\n(с цензурой и без ваншотов)"],
+      ["Манга на сайте\n(без цензуры и ваншотов)", "Манги на сайте\n(без цензуры и ваншотов)", "Манг на сайте\n(без цензуры и ваншотов)"],
+      ["Манга на сайте\n(всего)", "Манги на сайте\n(всего)", "Манг на сайте\n(всего)"]
+    ]
   },
   links_details: {
-    values: [23622, 1778, 1622, 27022], 
+    values: [24133, 1780, 1627, 27540], 
     titles: [
       ["Добавленная ссылка", "Добавленные ссылки", "Добавленных ссылок"],
       ["Исправленная ссылка", "Исправленые ссылки", "Исправленых ссылок"],
@@ -51,7 +56,7 @@ let data = {
       ["Всего", "Всего", "Всего"]
     ]
   },
-  updateDate: '26 июня 2022'
+  updateDate: '1 июля 2022'
 };
 
 
@@ -130,7 +135,7 @@ let str = `
         [div=CUSTOM_PANEL]
           [div=show-on-checked u-note]
             [quote=Virous]
-              [s]Из-за моей лени алгоритм подсчёта пока не учитывает некоторые моменты, поэтому эти числа немного, но отличаются от действительных[/s][br]
+              [s]Из-за моей лени алгоритм подсчёта ссылок пока не учитывает некоторые моменты, поэтому эти числа немного, но отличаются от действительных[/s][br]
               Алгоритм всё ещё может что-то не учитывать, но на текущий момент он считает удалёнными ссылки с [code]NONE[/code] и изменнёнными ссылки, у которых:
               [list]
                 [*]Отличаются только категории (kind)
@@ -142,11 +147,13 @@ let str = `
               P.S. Решение по-прежнему сомнительное, возможно, стоит подумать над другим
             [/quote]
           [/div]
-          [div=u-details u-details-links]
-            [span]
-              [div=u-details-value]${spacesOfNum(data.entries_details.values[0])} / ~${spacesOfNum(data.entries_details.values[1])}[/div]
-              [div=u-details-title]${declOfNum(data.entries_details.values[1], data.entries_details.titles)}[/div]
-            [/span]
+          [div=u-details u-details-titles]
+            ${data.titles_details.values.map((v, i) => `
+              [span]
+                [div=u-details-value]~${spacesOfNum(v)}[/div]
+                [div=u-details-title]${declOfNum(v, data.titles_details.titles[i])}[/div]
+              [/span]
+            `).join('')}
           [/div]
           [div=u-details u-details-links]
             ${data.links_details.values.map((v, i) => `
@@ -262,7 +269,7 @@ let str = `
                   [span=u-td][b]Всего[/b][/span]
                   [span=u-td][/span]
                   [span=u-td][/span]
-                  [span=u-td tr][b]${spacesOfNum( data.checked.reduce((prev, curr) => {return {num: prev.num + curr.num}}).num )}[/b][/span]
+                  [span=u-td tr][b]${spacesOfNum( data.checked.reduce( (prev, curr) => {return {num: prev.num + curr.num}} ).num )}[/b][/span]
                 [/div]
               [/div]
             [/div]
@@ -276,5 +283,5 @@ let str = `
 [/div]
 `;
 
-console.log( str.replaceAll('  ', '').replaceAll('\n', '') );
+console.log( str.replaceAll('  ', '').replaceAll(/\n(?!\()/gm, '') );
 // console.log( str );
