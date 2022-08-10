@@ -24,6 +24,7 @@
  * Психологическое																			67															729
  * Хоррор																								80															807
  * Детектив																							46															888
+ * Исторический																					69															691
  * 
  * Романтика, Комедия, !Школа, !Сёдзё, !Повседневность	62,49,!60,!63,!54,!73,!75
  * Романтика, Школа, Сёдзё, !Комедия, !Повседневность		62,60,63,!49,!54,!73,!75
@@ -91,7 +92,7 @@ for (let i = 0; i < mangaList.length; i++) {
 		break;
 	}
 
-	if (i <= 852 || has_all_important_kinds) continue;
+	if (i <= 0 || has_all_important_kinds) continue;
 
 	sum++;
 	title.name = encodeURIComponent(title.name);
