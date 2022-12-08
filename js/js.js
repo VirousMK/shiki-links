@@ -1,3 +1,5 @@
+const initial_value = 587;
+
 /**
  * Сёдзё-ай																							73												18+		682
  * Юри																									75												18+		464
@@ -93,7 +95,7 @@ for (let i = 0; i < mangaList.length; i++) {
 		break;
 	}
 
-	if (i <= 565 || has_all_important_kinds) continue;
+	if (i <= initial_value || has_all_important_kinds) continue;
 
 	sum++;
 	title.name = encodeURIComponent(title.name);
