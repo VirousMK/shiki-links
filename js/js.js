@@ -1,4 +1,4 @@
-const initial_value = 910;
+const initial_value = 909;
 
 /**
  * Сёдзё-ай																							73												18+		682
