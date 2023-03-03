@@ -1,4 +1,4 @@
-const initial_value = 409;
+const initial_value = 439;
 
 console.log(blist);
 console.log(manga);
