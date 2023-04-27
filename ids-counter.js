@@ -28,7 +28,7 @@ async function getPage(page, resolve) {
   return new Promise(res => {
     resolve = resolve || res;
     sendRequest({
-      url: `https://shikimori.one/Virous/versions/page/${page}.json`,
+      url: `https://shikimori.me/Virous/versions/page/${page}.json`,
       cache: false,
       dataType: 'json',
       done: data => resolve(data),
@@ -44,7 +44,7 @@ async function getPage(page, resolve) {
 function getVersionsNum() {
   return new Promise(resolve => {
     sendRequest({
-      url: 'https://shikimori.one/Virous',
+      url: 'https://shikimori.me/Virous',
       cache: false,
       done: data => {
         let body = new DOMParser().parseFromString(data, 'text/html').body;
