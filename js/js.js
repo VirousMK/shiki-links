@@ -18,7 +18,7 @@ function openNewTab(btn, url) {
 	$('.selected').removeClass('selected');
 	$(btn).closest('.title').addClass('selected');
 	$('.remaining').html(`Осталось тайтлов: ${$(btn).closest('.title').nextAll('.title').length}`);
-	window.open(`https://shikimori.me${url}#startSearch`);
+	window.open(`https://shikimori.one${url}#startSearch`);
 }
 
 let $body = $('body');
@@ -32,7 +32,7 @@ function addNewTitle(title, index) {
 		.add($('<a>', {
 			html: decodeURIComponent(title.name),
 			class: 'link',
-			href: `https://shikimori.me${title.url}`,
+			href: `https://shikimori.one${title.url}`,
 			target: '_blank',
 			click: function() {
 				$('.selected').removeClass('selected');
